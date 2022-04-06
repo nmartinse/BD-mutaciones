@@ -16,37 +16,6 @@ CREATE SCHEMA IF NOT EXISTS `mydb` DEFAULT CHARACTER SET utf8 ;
 USE `mydb` ;
 
 -- -----------------------------------------------------
--- Table `mydb`.`Funcion`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`Funcion` ;
-
-CREATE TABLE IF NOT EXISTS `mydb`.`Funcion` (
-  `Tipo` VARCHAR(20) NOT NULL,
-  `Descripcion` VARCHAR(200) NULL DEFAULT NULL,
-  PRIMARY KEY (`Tipo`))
-ENGINE = InnoDB
-DEFAULT CHARACTER SET = utf8mb3;
-
-
--- -----------------------------------------------------
--- Table `mydb`.`Proteina`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`Proteina` ;
-
-CREATE TABLE IF NOT EXISTS `mydb`.`Proteina` (
-  `ID` INT NOT NULL,
-  `Descripcion` VARCHAR(45) NULL DEFAULT NULL,
-  `Funcion_Tipo` VARCHAR(20) NOT NULL,
-  PRIMARY KEY (`ID`),
-  INDEX `fk_Proteina_Funcion1_idx` (`Funcion_Tipo` ASC) VISIBLE,
-  CONSTRAINT `fk_Proteina_Funcion1`
-    FOREIGN KEY (`Funcion_Tipo`)
-    REFERENCES `mydb`.`Funcion` (`Tipo`))
-ENGINE = InnoDB
-DEFAULT CHARACTER SET = utf8mb3;
-
-
--- -----------------------------------------------------
 -- Table `mydb`.`Efecto`
 -- -----------------------------------------------------
 DROP TABLE IF EXISTS `mydb`.`Efecto` ;
@@ -54,12 +23,7 @@ DROP TABLE IF EXISTS `mydb`.`Efecto` ;
 CREATE TABLE IF NOT EXISTS `mydb`.`Efecto` (
   `Fenotipo` VARCHAR(100) NOT NULL,
   `Descripcion` VARCHAR(200) NULL DEFAULT NULL,
-  `Proteina_ID` INT NOT NULL,
-  PRIMARY KEY (`Fenotipo`),
-  INDEX `fk_Efectos_Proteina1_idx` (`Proteina_ID` ASC) VISIBLE,
-  CONSTRAINT `fk_Efectos_Proteina1`
-    FOREIGN KEY (`Proteina_ID`)
-    REFERENCES `mydb`.`Proteina` (`ID`))
+  PRIMARY KEY (`Fenotipo`))
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb3;
 
@@ -74,12 +38,27 @@ CREATE TABLE IF NOT EXISTS `mydb`.`Gen` (
   `Longitud` INT NULL DEFAULT NULL,
   `Nombre` VARCHAR(50) NULL DEFAULT NULL,
   `Posicion` VARCHAR(45) NULL DEFAULT NULL COMMENT 'Posición en el formato:\\nCROMOSOMA: POSICION ',
-  `Funcion_Tipo` VARCHAR(20) NOT NULL,
-  PRIMARY KEY (`ID`, `Funcion_Tipo`),
-  INDEX `fk_Gen_Funcion1_idx` (`Funcion_Tipo` ASC) VISIBLE,
-  CONSTRAINT `fk_Gen_Funcion1`
-    FOREIGN KEY (`Funcion_Tipo`)
-    REFERENCES `mydb`.`Funcion` (`Tipo`))
+  PRIMARY KEY (`ID`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb3;
+
+
+-- -----------------------------------------------------
+-- Table `mydb`.`Funcion`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Funcion` ;
+
+CREATE TABLE IF NOT EXISTS `mydb`.`Funcion` (
+  `Tipo` VARCHAR(20) NOT NULL,
+  `Descripcion` VARCHAR(200) NULL DEFAULT NULL,
+  `Gen_ID` INT NOT NULL,
+  PRIMARY KEY (`Tipo`, `Gen_ID`),
+  INDEX `fk_Funcion_Gen1_idx` (`Gen_ID` ASC) VISIBLE,
+  CONSTRAINT `fk_Funcion_Gen1`
+    FOREIGN KEY (`Gen_ID`)
+    REFERENCES `mydb`.`Gen` (`ID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb3;
 
@@ -104,6 +83,31 @@ CREATE TABLE IF NOT EXISTS `mydb`.`Mutacion` (
   CONSTRAINT `fk_Mutacion_Gen`
     FOREIGN KEY (`Gen_ID`)
     REFERENCES `mydb`.`Gen` (`ID`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb3;
+
+
+-- -----------------------------------------------------
+-- Table `mydb`.`Proteina`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Proteina` ;
+
+CREATE TABLE IF NOT EXISTS `mydb`.`Proteina` (
+  `ID` INT NOT NULL,
+  `Descripcion` VARCHAR(45) NULL DEFAULT NULL,
+  `Funcion_Tipo` VARCHAR(20) NOT NULL,
+  `Efecto_Fenotipo` VARCHAR(100) NOT NULL,
+  PRIMARY KEY (`ID`),
+  INDEX `fk_Proteina_Funcion1_idx` (`Funcion_Tipo` ASC) VISIBLE,
+  INDEX `fk_Proteina_Efecto1_idx` (`Efecto_Fenotipo` ASC) VISIBLE,
+  CONSTRAINT `fk_Proteina_Funcion1`
+    FOREIGN KEY (`Funcion_Tipo`)
+    REFERENCES `mydb`.`Funcion` (`Tipo`),
+  CONSTRAINT `fk_Proteina_Efecto1`
+    FOREIGN KEY (`Efecto_Fenotipo`)
+    REFERENCES `mydb`.`Efecto` (`Fenotipo`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb3;
 
