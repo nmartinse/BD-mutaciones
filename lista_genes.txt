@@ -1,0 +1,9 @@
+Lista de los Gene symbol
+ - ABAT
+ - ACTG2
+ - ARHGDIA
+ - ATP7A
+ - LRRCC1
+ - MTREX
+ - ORC1
+ - OSBP
