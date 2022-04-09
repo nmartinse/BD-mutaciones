@@ -54,16 +54,18 @@ CREATE TABLE IF NOT EXISTS `mydb`.`Mutacion` (
   `Codon_afectado` VARCHAR(45) NULL DEFAULT NULL,
   `Tipo` VARCHAR(45) NULL DEFAULT NULL,
   `Gen_ID` INT NOT NULL,
-  `Efectos_Fenotipo` VARCHAR(100) NOT NULL,
-  PRIMARY KEY (`ID`, `Gen_ID`, `Efectos_Fenotipo`),
+  `Efecto_Fenotipo` VARCHAR(100) NOT NULL,
+  PRIMARY KEY (`ID`, `Gen_ID`, `Efecto_Fenotipo`),
   INDEX `fk_Mutacion_Gen_idx` (`Gen_ID` ASC) VISIBLE,
-  INDEX `fk_Mutacion_Efectos1_idx` (`Efectos_Fenotipo` ASC) VISIBLE,
-  CONSTRAINT `fk_Mutacion_Efectos1`
-    FOREIGN KEY (`Efectos_Fenotipo`)
-    REFERENCES `mydb`.`Efecto` (`Fenotipo`),
+  INDEX `fk_Mutacion_Efecto1_idx` (`Efecto_Fenotipo` ASC) VISIBLE,
   CONSTRAINT `fk_Mutacion_Gen`
     FOREIGN KEY (`Gen_ID`)
-    REFERENCES `mydb`.`Gen` (`ID`))
+    REFERENCES `mydb`.`Gen` (`ID`),
+  CONSTRAINT `fk_Mutacion_Efecto1`
+    FOREIGN KEY (`Efecto_Fenotipo`)
+    REFERENCES `mydb`.`Efecto` (`Fenotipo`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb3;
 
@@ -75,20 +77,21 @@ DROP TABLE IF EXISTS `mydb`.`Proteina` ;
 
 CREATE TABLE IF NOT EXISTS `mydb`.`Proteina` (
   `ID` VARCHAR(45) NOT NULL,
-  `Descripcion` VARCHAR(100) NULL DEFAULT NULL,
-  `Efecto_Fenotipo` VARCHAR(100) NOT NULL,
+  `Descripcion` VARCHAR(200) NULL DEFAULT NULL,
+  `Nombre` VARCHAR(50) NULL,
   `Gen_ID` INT NOT NULL,
+  `Efecto_Fenotipo` VARCHAR(100) NOT NULL,
   PRIMARY KEY (`ID`),
-  INDEX `fk_Proteina_Efecto1_idx` (`Efecto_Fenotipo` ASC) VISIBLE,
   INDEX `fk_Proteina_Gen1_idx` (`Gen_ID` ASC) VISIBLE,
-  CONSTRAINT `fk_Proteina_Efecto1`
-    FOREIGN KEY (`Efecto_Fenotipo`)
-    REFERENCES `mydb`.`Efecto` (`Fenotipo`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION,
+  INDEX `fk_Proteina_Efecto1_idx` (`Efecto_Fenotipo` ASC) VISIBLE,
   CONSTRAINT `fk_Proteina_Gen1`
     FOREIGN KEY (`Gen_ID`)
     REFERENCES `mydb`.`Gen` (`ID`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_Proteina_Efecto1`
+    FOREIGN KEY (`Efecto_Fenotipo`)
+    REFERENCES `mydb`.`Efecto` (`Fenotipo`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB
