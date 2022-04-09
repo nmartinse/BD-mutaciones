@@ -18,8 +18,6 @@ USE `mydb` ;
 -- -----------------------------------------------------
 -- Table `mydb`.`Efecto`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`Efecto` ;
-
 CREATE TABLE IF NOT EXISTS `mydb`.`Efecto` (
   `Fenotipo` VARCHAR(100) NOT NULL,
   `Descripcion` VARCHAR(200) NULL DEFAULT NULL,
@@ -31,32 +29,13 @@ DEFAULT CHARACTER SET = utf8mb3;
 -- -----------------------------------------------------
 -- Table `mydb`.`Gen`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`Gen` ;
-
 CREATE TABLE IF NOT EXISTS `mydb`.`Gen` (
   `ID` INT NOT NULL,
   `Longitud` INT NULL DEFAULT NULL,
   `Nombre` VARCHAR(50) NULL DEFAULT NULL,
   `Posicion` VARCHAR(45) NULL DEFAULT NULL COMMENT 'Posición en el formato:\\nCROMOSOMA: POSICION ',
+  `Funcion` VARCHAR(45) NULL,
   PRIMARY KEY (`ID`))
-ENGINE = InnoDB
-DEFAULT CHARACTER SET = utf8mb3;
-
-
--- -----------------------------------------------------
--- Table `mydb`.`Funcion`
--- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`Funcion` ;
-
-CREATE TABLE IF NOT EXISTS `mydb`.`Funcion` (
-  `Tipo` VARCHAR(20) NOT NULL,
-  `Gen_ID` INT NOT NULL,
-  PRIMARY KEY (`Gen_ID`),
-  CONSTRAINT `fk_Funcion_Gen1`
-    FOREIGN KEY (`Gen_ID`)
-    REFERENCES `mydb`.`Gen` (`ID`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb3;
 
@@ -64,8 +43,6 @@ DEFAULT CHARACTER SET = utf8mb3;
 -- -----------------------------------------------------
 -- Table `mydb`.`Mutacion`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`Mutacion` ;
-
 CREATE TABLE IF NOT EXISTS `mydb`.`Mutacion` (
   `ID` INT NOT NULL,
   `Codon_afectado` VARCHAR(45) NULL DEFAULT NULL,
@@ -88,24 +65,22 @@ DEFAULT CHARACTER SET = utf8mb3;
 -- -----------------------------------------------------
 -- Table `mydb`.`Proteina`
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `mydb`.`Proteina` ;
-
 CREATE TABLE IF NOT EXISTS `mydb`.`Proteina` (
   `ID` INT NOT NULL,
   `Descripcion` VARCHAR(45) NULL DEFAULT NULL,
   `Efecto_Fenotipo` VARCHAR(100) NOT NULL,
-  `Funcion_Gen_ID` INT NOT NULL,
+  `Gen_ID` INT NOT NULL,
   PRIMARY KEY (`ID`),
   INDEX `fk_Proteina_Efecto1_idx` (`Efecto_Fenotipo` ASC) VISIBLE,
-  INDEX `fk_Proteina_Funcion1_idx` (`Funcion_Gen_ID` ASC) VISIBLE,
+  INDEX `fk_Proteina_Gen1_idx` (`Gen_ID` ASC) VISIBLE,
   CONSTRAINT `fk_Proteina_Efecto1`
     FOREIGN KEY (`Efecto_Fenotipo`)
     REFERENCES `mydb`.`Efecto` (`Fenotipo`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
-  CONSTRAINT `fk_Proteina_Funcion1`
-    FOREIGN KEY (`Funcion_Gen_ID`)
-    REFERENCES `mydb`.`Funcion` (`Gen_ID`)
+  CONSTRAINT `fk_Proteina_Gen1`
+    FOREIGN KEY (`Gen_ID`)
+    REFERENCES `mydb`.`Gen` (`ID`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB
