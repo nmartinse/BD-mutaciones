@@ -1,7 +1,7 @@
-ID,Longitud,Nombre,Posicion
-137150,500,"4-aminobutyrate aminotransferase","	16p13.2"
-102545,376,"Actin gamma 2",2p13.1
-601925,204,"Rho GDP dissociation inhibitor alpha",17q25.3
-300011,1500,"ATPase copper transporting alpha",Xq13.2-q13.3
-601902,867,"Leucine rich repeat and coiled-coil centrosomal protein 1",1p32
-167040,807,"Oxysterol binding protein",NULL
+ID,Longitud,Nombre,Posicion,Funcion
+102545,376,ACTG2,2p13.1,"coding gene"
+137150,500,ABAT,16p13.2,"coding gene"
+167040,807,ARHDIA,11q12.1,"coding gene"
+300011,1500,ATP7A,Xq13.2-q13.3,"coding gene"
+601902,867,ORC1,1p32,"coding gene"
+601925,204,OSBP,17q25.3,NULL

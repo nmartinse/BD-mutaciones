@@ -18,6 +18,8 @@ USE `mydb` ;
 -- -----------------------------------------------------
 -- Table `mydb`.`Efecto`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Efecto` ;
+
 CREATE TABLE IF NOT EXISTS `mydb`.`Efecto` (
   `Fenotipo` VARCHAR(100) NOT NULL,
   `Descripcion` VARCHAR(200) NULL DEFAULT NULL,
@@ -29,6 +31,8 @@ DEFAULT CHARACTER SET = utf8mb3;
 -- -----------------------------------------------------
 -- Table `mydb`.`Gen`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Gen` ;
+
 CREATE TABLE IF NOT EXISTS `mydb`.`Gen` (
   `ID` INT NOT NULL,
   `Longitud` INT NULL DEFAULT NULL,
@@ -43,6 +47,8 @@ DEFAULT CHARACTER SET = utf8mb3;
 -- -----------------------------------------------------
 -- Table `mydb`.`Mutacion`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Mutacion` ;
+
 CREATE TABLE IF NOT EXISTS `mydb`.`Mutacion` (
   `ID` INT NOT NULL,
   `Codon_afectado` VARCHAR(45) NULL DEFAULT NULL,
@@ -65,9 +71,11 @@ DEFAULT CHARACTER SET = utf8mb3;
 -- -----------------------------------------------------
 -- Table `mydb`.`Proteina`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Proteina` ;
+
 CREATE TABLE IF NOT EXISTS `mydb`.`Proteina` (
-  `ID` INT NOT NULL,
-  `Descripcion` VARCHAR(45) NULL DEFAULT NULL,
+  `ID` VARCHAR(45) NOT NULL,
+  `Descripcion` VARCHAR(100) NULL DEFAULT NULL,
   `Efecto_Fenotipo` VARCHAR(100) NOT NULL,
   `Gen_ID` INT NOT NULL,
   PRIMARY KEY (`ID`),
