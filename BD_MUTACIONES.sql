@@ -7,7 +7,6 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,N
 -- -----------------------------------------------------
 -- Schema mydb
 -- -----------------------------------------------------
-DROP SCHEMA IF EXISTS `mydb` ;
 
 -- -----------------------------------------------------
 -- Schema mydb
@@ -22,7 +21,7 @@ DROP TABLE IF EXISTS `mydb`.`Efecto` ;
 
 CREATE TABLE IF NOT EXISTS `mydb`.`Efecto` (
   `Fenotipo` VARCHAR(100) NOT NULL,
-  `Descripcion` VARCHAR(200) NULL DEFAULT NULL,
+  `Descripcion` VARCHAR(500) NULL DEFAULT NULL,
   PRIMARY KEY (`Fenotipo`))
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb3;
@@ -50,7 +49,7 @@ DEFAULT CHARACTER SET = utf8mb3;
 DROP TABLE IF EXISTS `mydb`.`Mutacion` ;
 
 CREATE TABLE IF NOT EXISTS `mydb`.`Mutacion` (
-  `ID` INT NOT NULL,
+  `ID` VARCHAR(45) NOT NULL,
   `Codon_afectado` VARCHAR(45) NULL DEFAULT NULL,
   `Tipo` VARCHAR(45) NULL DEFAULT NULL,
   `Gen_ID` INT NOT NULL,
