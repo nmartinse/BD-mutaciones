@@ -79,18 +79,38 @@ CREATE TABLE IF NOT EXISTS `mydb`.`Proteina` (
   `Descripcion` VARCHAR(200) NULL DEFAULT NULL,
   `Nombre` VARCHAR(50) NULL,
   `Gen_ID` INT NOT NULL,
-  `Efecto_Fenotipo` VARCHAR(100) NOT NULL,
   PRIMARY KEY (`ID`),
   INDEX `fk_Proteina_Gen1_idx` (`Gen_ID` ASC) VISIBLE,
-  INDEX `fk_Proteina_Efecto1_idx` (`Efecto_Fenotipo` ASC) VISIBLE,
   CONSTRAINT `fk_Proteina_Gen1`
     FOREIGN KEY (`Gen_ID`)
     REFERENCES `mydb`.`Gen` (`ID`)
     ON DELETE NO ACTION
+    ON UPDATE NO ACTION)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb3;
+
+
+-- -----------------------------------------------------
+-- Table `mydb`.`Mutacion_modifica_Proteina`
+-- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Mutacion_modifica_Proteina` ;
+
+CREATE TABLE IF NOT EXISTS `mydb`.`Mutacion_modifica_Proteina` (
+  `Mutacion_ID` VARCHAR(45) NOT NULL,
+  `Gen_ID` INT NOT NULL,
+  `Efecto_Fenotipo` VARCHAR(100) NOT NULL,
+  `Proteina_ID` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`Mutacion_ID`, `Gen_ID`, `Efecto_Fenotipo`, `Proteina_ID`),
+  INDEX `fk_Mutacion_has_Proteina_Proteina1_idx` (`Proteina_ID` ASC) VISIBLE,
+  INDEX `fk_Mutacion_has_Proteina_Mutacion1_idx` (`Mutacion_ID` ASC, `Gen_ID` ASC, `Efecto_Fenotipo` ASC) VISIBLE,
+  CONSTRAINT `fk_Mutacion_has_Proteina_Mutacion1`
+    FOREIGN KEY (`Mutacion_ID` , `Gen_ID` , `Efecto_Fenotipo`)
+    REFERENCES `mydb`.`Mutacion` (`ID` , `Gen_ID` , `Efecto_Fenotipo`)
+    ON DELETE NO ACTION
     ON UPDATE NO ACTION,
-  CONSTRAINT `fk_Proteina_Efecto1`
-    FOREIGN KEY (`Efecto_Fenotipo`)
-    REFERENCES `mydb`.`Efecto` (`Fenotipo`)
+  CONSTRAINT `fk_Mutacion_has_Proteina_Proteina1`
+    FOREIGN KEY (`Proteina_ID`)
+    REFERENCES `mydb`.`Proteina` (`ID`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB
