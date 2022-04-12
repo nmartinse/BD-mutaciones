@@ -76,8 +76,8 @@ DROP TABLE IF EXISTS `mydb`.`Proteina` ;
 
 CREATE TABLE IF NOT EXISTS `mydb`.`Proteina` (
   `ID` VARCHAR(45) NOT NULL,
-  `Descripcion` VARCHAR(200) NULL DEFAULT NULL,
   `Nombre` VARCHAR(50) NULL,
+  `Descripcion` VARCHAR(500) NULL DEFAULT NULL,
   `Gen_ID` INT NOT NULL,
   PRIMARY KEY (`ID`),
   INDEX `fk_Proteina_Gen1_idx` (`Gen_ID` ASC) VISIBLE,
