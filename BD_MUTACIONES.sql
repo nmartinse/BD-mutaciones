@@ -7,6 +7,7 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,N
 -- -----------------------------------------------------
 -- Schema mydb
 -- -----------------------------------------------------
+DROP SCHEMA IF EXISTS `mydb` ;
 
 -- -----------------------------------------------------
 -- Schema mydb
@@ -17,6 +18,8 @@ USE `mydb` ;
 -- -----------------------------------------------------
 -- Table `mydb`.`Efecto`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Efecto` ;
+
 CREATE TABLE IF NOT EXISTS `mydb`.`Efecto` (
   `Fenotipo` VARCHAR(100) NOT NULL,
   `Descripcion` VARCHAR(500) NULL,
@@ -28,6 +31,8 @@ DEFAULT CHARACTER SET = utf8mb3;
 -- -----------------------------------------------------
 -- Table `mydb`.`Gen`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Gen` ;
+
 CREATE TABLE IF NOT EXISTS `mydb`.`Gen` (
   `ID` INT NOT NULL,
   `ID_ncbi` INT NULL,
@@ -43,6 +48,8 @@ DEFAULT CHARACTER SET = utf8mb3;
 -- -----------------------------------------------------
 -- Table `mydb`.`Mutacion`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Mutacion` ;
+
 CREATE TABLE IF NOT EXISTS `mydb`.`Mutacion` (
   `ID` VARCHAR(45) NOT NULL,
   `Codon_afectado` VARCHAR(45) NULL,
@@ -65,6 +72,8 @@ DEFAULT CHARACTER SET = utf8mb3;
 -- -----------------------------------------------------
 -- Table `mydb`.`Transcriptoma`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Transcriptoma` ;
+
 CREATE TABLE IF NOT EXISTS `mydb`.`Transcriptoma` (
   `ID` VARCHAR(50) NOT NULL,
   `Longitud` INT NULL,
@@ -84,12 +93,14 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `mydb`.`Proteina`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Proteina` ;
+
 CREATE TABLE IF NOT EXISTS `mydb`.`Proteina` (
   `ID` VARCHAR(45) NOT NULL,
   `Nombre` VARCHAR(50) NULL,
   `Longitud` INT NULL,
   `Descripcion` VARCHAR(500) NULL,
-  `Transcriptoma_ID` INT NOT NULL,
+  `Transcriptoma_ID` VARCHAR(50) NOT NULL,
   PRIMARY KEY (`ID`),
   INDEX `fk_Proteina_Transcriptoma1_idx` (`Transcriptoma_ID` ASC) VISIBLE,
   CONSTRAINT `fk_Proteina_Transcriptoma1`
@@ -104,6 +115,8 @@ DEFAULT CHARACTER SET = utf8mb3;
 -- -----------------------------------------------------
 -- Table `mydb`.`Pacientes`
 -- -----------------------------------------------------
+DROP TABLE IF EXISTS `mydb`.`Pacientes` ;
+
 CREATE TABLE IF NOT EXISTS `mydb`.`Pacientes` (
   `DNI` INT NOT NULL,
   `Clinica` VARCHAR(45) NULL,
