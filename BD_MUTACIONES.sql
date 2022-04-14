@@ -36,7 +36,7 @@ DROP TABLE IF EXISTS `mydb`.`Gen` ;
 CREATE TABLE IF NOT EXISTS `mydb`.`Gen` (
   `ID` INT NOT NULL,
   `ID_ncbi` INT NULL,
-  `Longitud` INT NULL,
+  `Longitud` DOUBLE NULL,
   `Nombre` VARCHAR(50) NULL,
   `Posicion` VARCHAR(45) NULL COMMENT 'Posición en el formato:\\\\nCROMOSOMA: POSICION ',
   `Funcion` VARCHAR(45) NULL,
