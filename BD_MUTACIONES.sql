@@ -77,8 +77,7 @@ DROP TABLE IF EXISTS `mydb`.`Transcriptoma` ;
 CREATE TABLE IF NOT EXISTS `mydb`.`Transcriptoma` (
   `ID` VARCHAR(50) NOT NULL,
   `Longitud` INT NULL,
-  `pos_init` INT NULL,
-  `pos_stop` INT NULL,
+  `num_exons` INT NULL,
   `Gen_ID` INT NOT NULL,
   PRIMARY KEY (`ID`),
   INDEX `fk_Transcriptoma_Gen1_idx` (`Gen_ID` ASC) VISIBLE,
