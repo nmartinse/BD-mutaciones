@@ -1,0 +1,10 @@
+DNI,Clinica,Nombre,Apellidos,Edad,Pais,Ciudad,Mutacion_ID,Mutacion_Gen_ID,Mutacion_Efecto_Fenotipo
+"17284929F  ","Fundacion Jimenez Diaz","MARIA DEL CARMEN  ","PEREZ TORDESILLAS  ","28  ","Spain  ",Madrid,CM172480,300011,"Motor neuropathy, distal"
+"18296427J  ","Hospital San Carlos"," JUAN PABLO","MORENCO SALAS","32  ","Spain  ",Madrid,CM172480,300011,"Motor neuropathy, distal"
+"98929839H  ","Hospital Edouard Herriot","ANA MARIA","CALZADA RIVERA","22  ","France  ",Lyon,CM1615168,137150,"GABA-transaminase deficiency"
+"75291865K  ","Charin cross","JOSE MARIA","BUENO SANCHEZ  ","68  ","Reino Unido",London,CM112288,601902,"Microcephalic primordial dwarfism"
+"92793892P  ","Aurelia Hospital","PEDRO   ","SANCHEZ CASTEJON   ",50,"Italy  ",Roma,CM172480,300011,"Motor neuropathy, distal"
+"89796179G  ","Hospital San Paolo","LUCIA   ","PEREZ GALDOS   ","46  ","italy  ",Milano,CM1615168,137150,"GABA-transaminase deficiency"
+"57743585I  ","Hospital Pellegrin Bordeaux","OSCAR  ","GARCIA PALACIOS  ","12  ","France  ",Bourdeaux,CM112288,601902,"Microcephalic primordial dwarfism"
+"78324675M  ","Miguel Setvet","JUAN JOSE  ","RESTREPO DOMINGUEZ  ","70  ","Spain  ",Zaragoza,CM1615168,137150,"GABA-transaminase deficiency"
+"68583258O  ","Hospital San Paolo",ALVARO,"ORELLANA PAREDES  ","54  ","Italy  ",Milano,CM110866,300011,"Occipital horn syndrome"
