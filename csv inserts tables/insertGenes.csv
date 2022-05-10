@@ -1,679 +1,1007 @@
 ID,ID_ncbi,Longitud,Nombre,Posicion,Funcion
-1,29,60.14,ygptippawmnzvf,Fvs.03,npijrbvvcpvg
-2,80,18.14,gmvrlqekjtbind,RLO.74,rigfsesoagca
-3,16,32.03,dgymgswtvnhovp,LhD.39,zjadcfjnwsne
-5,84,65.41,nyibtfhievvzjv,8b7.13,siuorlfxinzj
-6,84,93.87,lnudthlznageos,WZp.03,asvvgayzeccz
-7,23,79.47,gzfywyziyqrdqx,kQU.49,hkkuaxnwcypi
-10,23,6.74,oodpzfbnhiumyq,XcN.02,qpoiajmzlcwf
-11,204,224.66,nznuqbcidfaezl,KzU.87,ltcthsbjwxqz
-12,15,63.3,ajogmzvbfifbfr,mpd.56,loynckdfoarg
-13,806,225.47,zvcyfhowxzjqua,DXI.78,gerieddcbtjx
-14,13,19.4,nboyvgafyorupn,7Xp.81,yllnrnagyjvb
-15,71,6.79,cbmryrvlbtqaqr,VM7.72,kmuvbbtadili
-16,63,17.62,togyiwuakueyjw,hfy.83,jlayhywotrrx
-17,584,166.99,yyypdcpcyrybui,8Yc.99,wvqucvusguik
-19,78,18.27,kqzkvufyrkuqmi,bu0.10,yrtaapsxlexh
-20,814,114.58,gtdopopnkaathl,Zin.11,wvszbsrehfpq
-21,26,62.2,eevejngdjehwpd,9yY.23,sqvlzxwcdwdc
-22,41,573.53,xaeyqpnjzwckrc,XQ1.09,hkwoavosgdub
-23,14,85.72,lkmoskpbvoszuq,wkY.60,xwghhgymlrep
-24,38,24.78,mvrwlqblquslsc,51J.34,xqgxhlnzsskg
-26,26,98.51,sycxecqzyyrlzy,DvW.90,bovisxupiqnk
-27,76,66.34,wwhppczvjpwsfh,ZFV.86,eeoljhlamjjz
-28,43,73.32,xfwhryhfvhognn,AYy.29,axkqgoyxigtl
-29,15,24.69,muicndjztcuoov,got.79,dnntodlxdsen
-30,54,78.54,bwmpjcaahrenyy,v5h.76,arewyzxueqja
-31,36,63.14,wccyhbbcizxyse,Vna.82,zqbaegnmkyja
-32,27,77.45,yufcglljmoemjn,Z4P.69,lnorjvsrquqr
-34,338,863.2,uidalnugkeuuiu,g57.04,ascowuiteypm
-35,96,69.05,wiemeusxyztwjb,LGJ.79,xdgemsqgwrnr
-38,40,46.77,esnrelqlbjtuhf,xYG.36,qbzsvdejbvwx
-39,26,92.51,nemxjrzarmaxah,bVN.57,mekpixaxaqge
-40,97,10.19,adneidlpjhtdig,2Qn.39,gnukceyzlids
-41,82,23.53,ljhgllsjlkmzjw,bCx.33,hwhhhsxynokn
-42,58,38.92,yqhcidxbqxnbtp,ly9.07,mjfnwflabdjy
-43,45,85.9,dhepvbpjdcbcjn,XoC.07,tlgyaiosxyeb
-44,22,86.64,eqninnymbuchld,FbC.50,trengewjlved
-45,49,36.06,rqmudxuzgjqxuz,qqV.68,qbtsovtuikke
-46,59,45.65,itzhqtdcwpobcc,FJ0.94,fqlzzervgauj
-47,28,14.64,hbgfdafeydwaju,sht.95,vtvzamdnsbks
-48,70,24.85,lrzkjqvzochdlz,08w.46,lzgezkivinxx
-49,44,22.94,qchglkwjumuzgn,pEF.69,vifrqofljtfr
-50,96,61.31,kcphyplvnxvzfk,ZIt.66,xrgizteytusx
-51,87,86.36,xesgsuxafaioub,oAv.64,shjhouawjpyy
-52,41,20.99,rvjqimpxczwoqm,ldy.73,xumpdryjdsuq
-53,57,64.9,jsfxcipdsdikun,GMm.01,ihyafignqgyo
-54,54,9.01,rbaltbyudomqen,yNN.36,zvczifzpqxjl
-55,86,78.22,yiqdoxbnykdhxq,wv7.94,zzrkrqpcnrim
-56,18,32.74,rdkeglmrkmizqc,geL.70,cabbeodpxhhu
-57,8,30.78,mcrstmqfnjfwkv,0s4.41,wmpaacpyqjid
-58,93,29.86,yhvbwdqjsbizku,7E4.61,buffukaekvnb
-59,62,49.2,afgohdjhquexno,Xgi.44,fsiceckpzemv
-60,75,55.83,qrevexwlqbdplx,kmh.80,auihwinumlhl
-61,31,79.19,blzisksrbbibds,dxb.96,fxiauvdftbvm
-62,55,74.81,tbilupqosbohmo,KVz.41,bcwspxzoiyvy
-63,26,95.2,wdbwixbyvfvndv,qtP.70,abrmbasyvaxe
-64,12,73.31,uyedeicfwwiccu,8jL.68,bngswwceaduo
-65,70,61.45,vliylbhzkdemax,ghZ.77,iqdmvjovclfa
-66,23,54.14,tdzfpbizuimtqu,blo.48,khwdbejvzsbj
-67,84,42.79,vcaazcovebhont,aMO.01,cevfopyobpwp
-69,67,31.48,ntrofnrheokwhc,tOM.25,ntbxoedisroc
-70,62,98.56,gvoxpgeaypwpfx,B0u.99,nemvrahxrqms
-71,45,17.92,iwjsobsbmemvhp,KKI.63,witbapivrpjf
-72,94,71.67,zssmfaysxxinao,KZP.29,zulpvrapmcxc
-73,20,29.46,unhzghsekktrnq,qvk.19,cffftwwirany
-74,160,120.17,vcuqhmgcrggvle,eNg.87,gyahsyyrsqvx
-75,70,66.49,zumcwzunfdhgap,wFX.46,krzyhjibnsru
-76,974,674.4,lamdfqzfcgrsux,gnj.01,cjwdftgyaqfg
-77,30,99.76,qlrizcmyvljxff,ggV.49,ndzyylwtodki
-78,99,15.92,jhssokcpuuwaqn,oJO.38,uxzjsyxcexbr
-79,90,82.85,icgxzgictiozdw,DlE.20,wykvtruzfryj
-80,12,92.51,ubzwyhynflkiux,dxY.87,xodndtjaobsa
-81,8,40.29,iupbyhsgfyufmw,59Q.08,avzwwkoejwch
-82,509,686.34,lnvweoxipgnjmg,3WX.81,ugcyljuhjfzn
-83,28,95.25,filxxtcsxrueuj,sNk.60,nipwnwmkvkkb
-84,844,973.29,mlakvmfvldiobk,jKi.48,qoqhprwctgvo
-85,59,51.75,ecoxtqfvbuvpgr,DsU.72,bltendzzegwm
-86,29,3.44,mprecupneldqlt,6sC.98,hlkbtacjesrj
-87,84,62.66,itzzenhdocoqlw,6va.26,jojcygyrwoxm
-88,71,87.48,qvtypendydohew,lZy.31,raxetyfzxncf
-89,87,87.67,mgeyfpchhkzgfz,SMP.66,ogcrcdedcgod
-91,95,78.85,pmhpboljgehgpc,RZ1.07,btaygfcbtxmk
-92,24,52.15,fyhqkpipavjulz,ci1.55,aqpwpopgxpzq
-93,206,453.48,mpskgwkutuhzuo,gRX.61,oajlwyfqbjyl
-94,44,31.31,kublbzkaonvuej,PpM.75,yukwqqptgtof
-95,28,30.19,jaqrcbdaeioifv,5V8.25,hsnctsgkhkan
-96,33,33.82,ywzkscczxyxbhb,bDq.03,jwougvejuran
-97,38,17.4,hlerzhrqccoofi,jA2.53,nwdjrjagxczm
-98,54,52.67,snsdnaddaeqgpg,C3n.65,qjrjptusufbv
-99,48,14.44,bliuvttujihgmo,m13.58,lbkqvclpaapz
-100,88,92.48,elstqhzjdwaxly,MD9.18,zruesfgcnfuk
-101,51,887.36,hwfheyvpleanvg,12K.78,crfrycbbdivl
-103,420,581.01,jnelqmdovowdjt,6fw.45,wljivszffwpp
-104,246,502.15,juhlyzcmstejfq,GWe.22,etxjqlnsvoxj
-107,899,233.6,ldofhudropjgpb,qBX.50,wuzuawstqfmi
-109,270,103.03,tpqjqvxqsywxyq,s8t.20,raoiqrkkvliu
-111,451,398.47,clvubziuoeuilv,lnW.00,gwmhqnopkesi
-114,485,946.28,ijhwutocnvckmo,qo7.72,viikcpagjdhm
-115,885,462.83,ipbsarzmkclkld,DDw.70,ntjwvczwdrdf
-117,752,799.41,ynwfhojkiilcvy,wZb.59,bfqeqjwqrkyv
-120,710,336.73,wkdeetgguowhzm,u4I.43,ounlsdqyszvg
-121,777,184.44,vjsdawapagnsib,MZW.07,jqhcrqlbcjcc
-125,261,446.4,ljajvmpaodtqki,WSD.41,umajxmkqfwhh
-126,632,293.95,wdoocrftiqnbtw,BgN.54,ukdqnmasnzja
-127,789,937.42,ardjjyrvaglblz,2Bk.75,ehisicrotfer
-128,421,84.11,miqhbnnlvwyjpc,A1F.06,ocjiteejdwey
-129,34,498.99,xrkxzupguqmcik,In7.72,ycfdrrfgvsuj
-131,471,403.66,iriahlflapljxp,B6o.21,czmewbbcujql
-132,818,814.38,rtlaxvrtlbwyco,9AB.94,fayxrpghpzsl
-133,604,384.52,pgjewfulcausmw,RW2.60,vcnkhxaaviaw
-134,775,478.56,gskbxieazjcjva,rPC.66,qsmlvsppbgqi
-135,160,227.38,uuekkssrhcupqn,pxH.09,yrimrthupwan
-136,979,370.51,vbkmdiuigwvsmk,avf.07,btrizbhqezmd
-138,999,365.18,wttlavvibopfsx,WfS.35,aokybdgqflyz
-139,111,196.53,frjvljtjkytprc,vQu.89,ppvlfakrozyh
-141,413,842.96,mpnyskhwtkmpof,3Sr.88,gjhymutukkeb
-143,923,486.92,uyrpmkogybexbi,j8w.77,acsbfumiwrvv
-144,479,288.77,xiteiizjcsfjii,mKn.76,mztofvksepon
-145,163,625.33,aqmuxiuapstllf,JLU.73,svcovqvalwzn
-147,874,539.22,fvkajmcxeiinkr,phJ.48,vsfykwhxdipy
-148,288,731.67,moxevzejezoyxm,bGo.29,knrxftrdzzzb
-150,327,551.81,lnrkhwkwvzyjea,tHd.10,ttffpfhqsgrb
-151,251,852.62,sonhwrrmhzzdgl,R1w.28,djcqshsfczfr
-153,211,620.18,svtuvqrrcykhoe,HUI.71,gwaemzbkkbzi
-154,356,395.17,qpobqjtpfomubw,s08.64,shndsmxutwnw
-155,318,467.56,glnjsgjosgihxr,C6f.05,grtjjlzgqzyz
-156,652,31.06,zunmtlbmvvwbdo,5z4.34,yinwcawmuonm
-157,904,366.25,jzfrozpomvuhfp,2c5.27,zauwcfhfavfe
-160,485,908.09,trhudqutqcictf,Lbi.30,eupskmetzxoq
-165,515,811.32,hybqkfhmxspkkl,m0K.26,lmtlyzzoyktl
-166,312,761.01,qjovonehhycfuo,BAV.31,ugderwjovbft
-167,189,245.03,icjsimybqmcnxs,BUf.50,zkbbrpbjlopt
-168,161,432.39,ksumlzgiczbnpd,4xo.14,fsdjzvseczjw
-169,411,904.95,khoydtsnbrhofw,fTY.00,veniemsxditd
-177,726,3.23,rqnpdszuejlprp,zOL.89,sxkehzenmouf
-178,206,869.91,ihdllptoadxakz,SH0.35,nscukrmfpcpx
-179,24,550.56,hgrgruasgbisex,vTf.07,vgxcwussuvay
-180,509,890.89,rvpraabripkmbo,aID.94,ewjcuhmrgjsv
-181,651,943.6,tnpyrqgfxggahk,4dP.99,fjbmvhghahjn
-183,646,41.58,eknhficqeooonh,0op.00,lkzisszthncp
-184,133,122.65,vlruucgdffofnb,iQF.77,pgrwxcfqsged
-185,834,605.1,tqxteoontadwcj,0Kf.20,lwpkmsufyswx
-186,651,160.04,saxzycsqttlovx,eFG.89,wdrhsxzvwrbq
-188,551,187.15,gffnorsefzqmjl,oKw.35,oefmveislnme
-189,578,903.68,elfmrpuguaacrc,qK6.31,addrsczppsto
-190,211,613.06,siprysnxzxunaw,628.88,pfbykmlchcrm
-191,810,188.18,birelpchxrqalv,lIy.56,zoybzddcesza
-193,877,529.34,tobylxhoqjplya,Zrk.37,ylapgwkexdko
-195,375,114.1,jlknishcgjditd,z9m.05,hgywkuzssxha
-196,807,36.78,cvmamubhlavraw,Vcs.53,ztcqwchksooi
-197,767,865.15,bsfmtefmtxokvj,7tA.23,wfhwemgultbt
-199,247,10.81,zvgcmbkuzwfzko,irR.37,rkzckffdwols
-200,290,136.16,aepgbguuotqvqh,nm9.42,sfalmwufxjlp
-201,295,824.88,nzvkdgivjqskop,45O.30,yipinoqrcttb
-202,776,90.92,aiycsxvfavnmlh,nSs.41,lhdyvtnyosfe
-203,229,359.94,vnrpojwclrmmvu,bz8.43,iwsjmrroqzmd
-205,627,526.67,sudbceleunvfdj,fi5.88,fjvqkkwbuffb
-206,338,124.32,vzbnrohthfbfmv,L2u.35,phovdrrtvpyv
-207,903,192.28,zgjpqwbyrsnlmw,UEj.90,ijyemomzwpsf
-208,735,188.09,awbtcipinzeneu,ssU.67,mlvtjgqkawzr
-210,885,563.69,cpmyapszvirntz,qGa.00,pfzrfsoaqxbu
-213,25,517.36,tmaytfkpctimzx,DWP.31,qzkxailoansv
-214,947,82.35,glpeawggqnstjs,ZyZ.93,tdkzptusbigc
-215,542,129.81,eqjgyoigngagod,Hoi.76,ghboxtysceow
-216,159,543.23,ddfbymovwwkogf,TqW.05,dwzskygnerxy
-220,485,112.97,yscntzkorkwjrj,yrO.07,fpokvqmdbbcv
-221,186,688.88,opzyurtfhhxsgo,K96.99,qemnbsiqrdhc
-222,287,296.58,yrqvvvjkuzhcoj,XLN.81,zmdvxphuytlt
-225,265,842.01,ngiuinrtinrhcy,5Yt.38,sxnwmonemvfl
-226,886,465.67,fvwxxvmehytppd,DXY.44,rrqdcqcpdypi
-227,943,590.41,qoivbytlqlordr,2Hb.97,srkfkunrvngz
-229,969,338.34,tycljpqfbkoesx,YUU.61,amzgtcxpwjgx
-231,740,137.55,hqmgnjbpgchnvd,H31.26,dsgynqfppglk
-233,887,39.36,ntcuabqbhgtfjk,f34.03,zyaukcdaedfc
-234,360,451.77,hugoqzfugzizpe,Yrq.93,zeoebkzwnatv
-235,767,389.57,lwdrevocvuwwva,md7.98,dcxfgkmnpuvw
-241,363,249.89,ziytynfibfofyl,PIT.94,wonrudsyglug
-242,337,146.05,bizjigtfmhprwp,9r9.90,zqsbzzcgkgar
-243,689,992.82,sjcgcnmtysidfc,8xV.45,laenapkltukj
-245,135,588.73,pikpygttcyuzyv,ZCZ.01,lzhfvsxkxaae
-247,371,813.25,cycdqdttvcxexa,Qs1.36,kcpilmerxwgw
-249,661,814.63,cepbscurawkaav,lcB.21,bnshrncdayti
-251,19,725.8,xnerfvqxaxxhwa,Sn2.05,ggeicsfsmibg
-252,565,688.05,qoncclhgfixnly,IX8.60,vsbwtlxbvyso
-253,988,524.93,jcysyxtvagwxzr,y6n.39,opyyfqmkqzek
-255,17,833.06,vwlortvdjzbtvq,EcB.19,wefhhshhyxjv
-258,427,901.91,dqkeffhevgbpkr,mhD.51,hjxsgksgzdoq
-259,414,147.26,qyinksxendledr,WBA.09,tffdqfbsewfi
-263,103,571.79,ncaozfvgeeieku,C2D.74,jmdnmpxevyex
-265,320,23.76,cbewgzqpthakxp,FDP.76,zjmjauroqmoq
-268,443,333.6,jnpgkvxsxzmoyn,XGk.84,kvtktiftvdhf
-269,302,464.31,hhbrbezffbqhsm,SOV.25,obdszwxmpamd
-270,385,684.16,bjxdevfnncposi,A6Q.49,rubvnlrinxav
-271,501,843.08,ewwpdgkkxcrhua,jSz.36,vsylfnnrzlem
-272,6,842.21,eomlgucsiaxmuu,M3R.01,zuzfpzjfgxgy
-276,337,419.12,yaplvloaozothr,lLR.64,pfxdktsxoxav
-277,521,121.44,dnafrhqgnrzdpy,l9o.66,wbmgvozloooo
-280,88,836.69,mswixgtfalfoka,C7K.48,jfglojojayln
-282,93,354.11,rlhwmsyegdnbzr,008.70,iqnlavuftdjf
-283,209,82.98,dyoalkedzsffhs,McD.18,slvhnwgqacnz
-284,816,375.95,vnnoiogahtbqlz,Hr9.56,zsbmbbrvvpph
-286,525,201,sderlgabfmvlxb,JVM.00,akcwjwkmxuty
-288,850,22.75,yzgruninpzsmpr,JMD.93,ygpbcmdxjynu
-290,396,790.55,kzekgvvruppygl,RYB.22,vpzqrsniijfe
-292,42,833.53,evxcppsncdkvqp,BgF.82,eymwwwlksiqu
-294,939,332.67,kmxyezylaqjsql,JpB.00,zvgglxyrmfyv
-299,70,336.27,ycjkcxuxwgbuvn,W23.04,eabxgfaeniap
-300,540,68.84,efjhgaaekbvlpm,uAI.55,veyceqsprvjp
-301,92,419.16,lllcqxrmzspvuv,Spt.18,srujsvmjclde
-302,801,982.54,cvuqvhklhrjmva,3ht.04,khptwyfihzza
-303,680,333.66,gyoechqixsmsar,tpc.06,ykyevrbgmehp
-304,611,692.92,axdoutmwyihkap,7Oz.12,zkhqoupxwiis
-305,244,284.99,namfceksbjzuop,tZ7.67,zfsfbirssvtb
-306,692,119.95,ovfxagcbculjiv,HPY.27,yeqjzlvkwvrb
-308,967,115.42,quajklqswxklwa,cOq.37,jrlkybbgsicx
-309,603,78.97,bfkbozxwqckjxs,ZDR.46,hfcecjqpopfz
-311,667,658.73,niamxjycpgfvvh,zUY.06,eukrtguduqii
-312,658,819.52,ziyqqzemlwrsby,qGl.25,xzliebsrrahm
-313,38,606.86,cddcukojczfkir,IPl.86,zwxkjuwlrzss
-315,23,183.79,ufhiruxzektcyo,Kzr.71,xtiwdxznklth
-316,887,757.6,bgcrgonspgqzza,MiC.86,mfebizovdsqj
-317,745,708.03,uiepstcrrunojw,F1u.93,dtcffxwdbdtc
-319,372,392.31,mhnfqhtlwvghyi,uUu.89,oowfenlmwexz
-320,688,696.8,wuotehugzzcill,XH1.76,gghcqiufikqw
-323,58,999.01,bvmlxwevvnyggv,wAb.49,qquxwwnmknio
-324,319,25.72,kooqnooprwtqdm,rMn.50,twsdoqjtrenh
-325,828,577.09,ietldelfuqpxoc,IBY.35,ykkcgashzwwj
-326,705,793.34,rnoqhvihmpoifu,WIy.23,uqpiumzyzkny
-327,97,903.48,ffppfbqxpcddgc,GdQ.04,sdjgdbaqcrfe
-328,867,478.72,zthfxxkkiexcnt,6in.07,rymigqehsgoq
-329,769,561.37,yaxdogyfjytkki,6XH.58,vsvsgxmsxywg
-330,831,389.86,qykgghamnkixhn,Ipr.88,rqceipqxcqpo
-331,113,877.84,mvfepwyuxmgdrb,sHI.11,ddeakatefzfq
-334,764,971.08,utvlynefuefnng,7Ch.71,zsjlksirunoh
-336,957,561.19,lbfegltlcixumm,XX9.31,prbrrbcuecyo
-337,37,469.11,nmamjymgbpxtze,zq4.88,vfjrpyblfexe
-338,338,371.02,zsullztnrgknaf,b3F.40,xkqlfuvlrxdh
-339,666,92.62,eoelflydcrnrca,U3w.49,pybtpfgngayf
-341,192,40.09,sjsjpuafnxkwga,Ma0.22,qiwhsrsybloo
-342,834,762.44,josvfcadjnmswf,NNX.62,kjwnhdlkgsxc
-344,208,502.06,gyzwjcmutvmdxi,7H1.88,zefxwgubfwsc
-347,346,968.72,cmzkisjifjiqdo,YQT.07,nlimhdguffbz
-349,141,391.54,ulogoerilxsrsy,wPY.76,pdgbdmxasidr
-351,490,296.13,otawpvpfmuhppo,QDN.81,wmcfxoyjwsep
-352,570,418.94,iskepmhgbhctjr,3Qv.63,niyqznjappoj
-354,114,958.32,vhbjougpxfntza,s6B.45,jrrlpxorsmvp
-355,728,89.61,yazzonvtbidrhr,BBR.58,ubvmlbtlbtcq
-357,93,446.52,weblzinxvrezjs,Wb4.56,vjzsnxvxnqnf
-358,394,590.17,worgttvvxhsnyx,2Sf.53,pjelaqfonlbf
-359,718,480.75,ejzppixebgofuz,b7v.62,eslirjcacplz
-360,596,760.02,jxmelruxvayhzf,fVp.23,ksweezfvifjm
-364,557,473.4,pnwdmgllcarmvw,xOm.87,nuxtpggygojm
-365,500,937.85,billtqlztjcbxj,yS5.95,lgcpzzcixxth
-366,828,106.17,ywszdldqhbgvao,FDs.58,qnhetoyoqgnx
-367,621,351.14,itotpyitjacmpz,f7B.57,rkcdthshkwto
-368,571,798.75,teqwshbqhdxxlg,vfy.36,ewzzuplevbrj
-369,49,420.28,btnvnombxrftvr,ESu.43,agpflmgqvdnn
-370,156,383.73,xzkwzxzsogysdt,Nm0.10,vylptarbyijo
-371,921,466.83,kbxwxyrhnvuvtm,KO2.29,luvyuqoiyyws
-372,25,145.51,zqyeorrjflzgqe,cc9.35,tnbbhegmdsur
-373,999,60.41,ussotydprswysq,iEp.92,zcwbdcfvhbvu
-375,668,303.34,pfofqdbqrxkioe,ucD.70,ztkwyeoxfuvd
-376,259,558.97,buatswzcntwyyu,pnL.87,wofvdefqtmue
-377,549,80.34,qdpqbcdoqbojzl,DCV.79,hlbdgwknmbvr
-378,900,519.96,owykpmboyaplae,InZ.07,wfnezfpvslwu
-379,511,210.63,xfbwpfggspakpp,VDk.05,lacfsvukancw
-381,414,99.07,vvtpzhtmnozces,Hng.80,sgnptqtbourp
-382,252,863.8,yoccsoxafatrao,k5A.71,omasglumvask
-383,22,130.95,mpvjggxkrtuxbd,kA3.25,sgzbaglardwp
-384,340,801.04,jgbiglghiyvbpg,BDQ.96,qwljmpnuwhns
-385,355,250.99,utsynumbngejbw,xys.38,lnzhbfjlrduj
-387,971,853.44,kandzuahpclrge,fsf.54,zcchubzathee
-388,349,321.05,dontnzrcxrnjvj,3aR.25,hgystmowrqbc
-389,396,890.58,dyicbcgoiwosdo,RPJ.16,yrmvjduvxvaf
-391,485,915.97,kzqlqylopcqbcp,BAp.19,xueluvcahgwx
-393,713,864.71,lpghjovgimpsed,PRr.36,epmzxgraqabo
-394,620,215.35,jubqhmvhzygryf,mz2.77,srckcstvbzhd
-395,453,889.77,jvpuqbsfawupda,p0g.65,qfkacesivlih
-398,93,306.69,klvpfsezcziuuu,1Vt.95,xquncemnovpl
-399,849,920.23,rxboapnhuswnkk,d7P.57,miygypgmoval
-400,663,413.19,vjgyfsyohaqlzh,5jq.69,uanwalwmnawk
-401,686,242.1,ldaqhbbscymalk,bdx.47,pufrkbighkis
-402,265,778.99,tqfyrfidpmucns,mG4.47,lfbdmxchbigk
-403,450,811.95,porpuxxejvkpxa,aCh.70,svvlgdbfenkh
-405,380,196.17,eypjoermwfomre,zSK.62,ifiuvtizvqqf
-406,941,660.5,iasgxconvvaojf,9bo.97,qoytlcvrctek
-409,351,455.05,fxevgvqoryifjn,aop.92,gjvakxlqwkkb
-410,491,523.26,aaklgryzpsttsz,dMg.14,sgzgimkkuaru
-411,818,897.4,fcxlffvnylqigt,brm.71,zvrcyiejqbrr
-413,999,297.4,jrybjjrtpxkkcu,OiS.56,rvukguslsful
-414,636,482.3,vlbrhndponjgsj,Dfr.45,bwhwzqegxrpp
-416,242,463.19,tzqggnmybewams,ZmA.16,clcueohbivni
-418,498,885.55,cmydxyqkoyxbzp,BDu.31,llrgwyiaayka
-419,501,240.5,mzxlltjqsoypbg,DE8.81,kycdjbhmrnuq
-420,520,514.41,yeiolkewglrmfq,FQv.16,dzkvtqqcpujp
-423,828,707.47,biukveinavmxfq,wfc.97,dduhpsuxpows
-424,585,917.38,pccvexovrlyfzc,TaZ.72,vmcfmtawrmuf
-425,9,664.33,ufmqfbqonqqfuc,2aH.44,fzhqodysmtjf
-426,645,719.64,pisaczsknsorxe,QNM.44,rdqmrvwqwyfm
-428,47,152.13,rhbluqunszruku,sUO.55,smrqmdncytkb
-429,851,980.45,geekenvhiwrcqs,Fz5.50,jfcafatoxdqz
-430,248,332.91,bwiprtdqteelfc,l08.98,mcsclrxkjmzr
-432,798,92.86,uibfzcxhzvgjqf,7ab.98,alifqwtyfsxn
-433,919,327.97,yvuqkioqjvwmqk,YiO.05,xklqtqgfhyos
-434,511,195.41,gjynnjftnggzpv,db5.65,bmxmflfdvhuc
-436,752,421.05,naanhyqkdnmiei,vSh.28,vdygpzbivnya
-437,977,721.22,rhgxyjlsmzluyg,k5H.54,uxyiwcfatmln
-440,592,880.3,ccssywtzajeaeq,NgZ.97,ivitktgkmfxo
-441,528,971.45,pgnjbgbcqxaxzc,fVs.99,ffkkshjhmjop
-443,301,433.66,szevgpyslmeoip,PwL.59,inviaprlrpfh
-445,726,696.56,cfnrxuiixhdecv,5rs.91,qqkyatmghkfh
-448,750,933.6,gofzxnmkxgpiif,zCE.86,niecpujrbhxo
-449,862,912.71,hbcfwblwidkpih,5ZH.58,litpajdqqfnr
-451,971,246.92,owxxqssbcgoihm,mi2.34,nhnxmfguhoky
-452,305,98.72,wirxdjdrsberzn,iuP.75,bssiszsnqlqu
-454,695,872.6,runiskfdqcwwry,WaL.07,rwxktguvkfcg
-455,577,650.86,pibljbbgfxvhks,9yf.28,xtokpdzgpfex
-457,647,939,aayrcsxxredmax,DaT.85,ucmwnsrtslzk
-458,358,867.03,gvdkpztslcsnfo,oU6.33,xcrjiscojcqe
-459,120,749.16,vlhmbsfczhqzzh,R0S.71,hdzmxxjpznnt
-460,289,96.38,gmdeilesouaptr,IDY.45,cqkmiajsuojq
-462,938,924.29,qylteylwussvpk,0vr.81,yvxakbkcflov
-463,434,251.44,nviuopncorhjfu,tlN.58,glirsxfkfhgq
-464,399,296.55,jhdtdxmvxsiswm,4sN.54,rcscejpkkkot
-465,362,788.93,hedgamjgjtggjb,ezs.92,lsmqvaollkhe
-466,599,198.24,zeoeeflgatfxal,FWV.93,msmrwhltvjmf
-468,263,521.65,oardfzcnvihjkz,Puo.45,tsxzpvsrcegk
-469,866,497.09,dmtkjrjqxiinyd,jpb.04,uwgmurildsmw
-470,276,35.58,qjumawwmpefcpq,pC6.01,opypbvqjudgz
-471,193,649.08,wheryruqhyaekm,FAw.95,wjgwhlgclnwr
-473,930,843.41,pcfnflqbthogez,JPh.80,zlvnyngtxxfk
-474,680,446.15,ebvfsskyoqzypc,s99.64,hgrvgsyopdoz
-475,613,183.21,zentxqdjobkipp,84E.29,akkwdrpnzjjy
-476,354,18.83,yclbgzbzpedpgl,IVz.09,onwpsulbevfo
-477,183,353.01,zbubodmbienomo,k2R.69,plbzfkmkkjax
-479,722,734.06,djphmbitroioat,ey2.51,vbxhztdpcqlk
-481,308,851.8,tkfxjkdhqrmlwd,h2H.25,klvjlxyuucob
-484,698,746.94,rebpqmkeupgsxt,ENb.79,urontjssmlcg
-485,385,800.85,okrvyqtewfgncu,RcA.78,gflblyzvycah
-486,183,464.07,uqqtacnqzbclma,G5F.05,rgfoiwwnprog
-487,414,905.83,hkjiysczptldsa,gaK.33,mnmbajoiuwpe
-488,932,730.27,rzyoixjuqzlpme,6Jc.54,onuhjphpffss
-490,714,153.06,hrbzeugeionxin,cYD.80,jfmzdtophtyh
-491,407,835.88,ebxmwhiwzblvxz,DiH.93,jsgzerzpikyg
-492,961,793.69,brbpzpqfsxtiql,Wby.37,shazngynxsxx
-494,879,430.11,xmyxfbqgozpsgm,yie.68,qkqkylvrvomw
-496,97,424.15,dahbxpyriadmjo,0Cb.48,phzfzaepwfqh
-497,389,857.29,sbtipceezzuinf,bgC.65,iwxxlpsieivt
-499,784,940.66,klmozhaiysggfo,bSZ.49,akjpzzcaywha
-502,782,433.21,nuebrklegeufcl,fFE.01,dngadsmnocpj
-503,982,688.82,hrbusnekkjsjgp,Sqs.61,lwovwovlbqzs
-504,161,784.47,vdxiulfifkthlt,MUU.70,utdwfxbhlaie
-506,845,166.66,ceazazwettbgbk,Q1Q.47,pqvdkbtumsec
-507,437,128.49,jreybbqkyiknve,6fY.33,sptxduobdvcm
-510,649,105.72,atiryaklorfvdw,2rd.41,tpjnyfwwebwi
-511,324,595.64,mebblvmkesaxwz,uKG.17,kffrtpmygsza
-512,471,990.6,nhwbnkspruiner,VIz.89,singdezooxky
-513,900,365.27,wjvwusypzizwtg,8lE.49,uabyinuwmxic
-514,35,866.45,egdbwvdmlcsvsy,AEO.11,boyalsobrdzs
-515,753,467.88,daipfleiqsgfeq,GHr.45,fjyjkxjktfwd
-516,45,328.95,hyuymyofegyyrl,Q0V.11,rwnrxsueuxoz
-517,971,388.81,sabjqqkcyqpwsn,YdL.24,suwybqebqkap
-520,368,162.23,hhyhsbyshvfxdf,z6K.08,yiwcqppefiup
-521,444,828.24,nztvtmdtqcdnyl,DY4.27,uukubgkefyzf
-522,188,514.4,tsnvdeqfcuqbar,7XN.91,xwhicnqucogg
-523,210,664.48,pvgpzbdowxdfls,Yad.58,awdawecpmmyy
-524,899,267.76,gxaoohjywxnjcj,YqB.11,prjpvlwdlnws
-526,487,927.8,yjzwmposoygvsq,6Pp.08,bwtdnpdnouer
-529,402,703.71,mfosimgcxcljnx,Xr3.29,kqclgrtmelzn
-530,46,263.67,ioqgyfvdizypxj,743.16,zufpdqdqusqj
-531,694,825.34,bbsdbazsamldlh,xu1.97,jqoxpfevpjps
-532,687,818.19,yaupgssjtqbxjw,7NR.69,qsdbmwxcgqsj
-533,253,381.69,fugwjdluiqqons,otC.57,eawiofgjtted
-534,151,346.53,qfkorkpzmonqnd,i0S.91,gjhuofofpgib
-535,283,176.97,hmovpmdaefvmer,jeP.83,ipstkinyimii
-537,53,701.02,mvrsomapnpfjtn,gWG.27,oxicsjptxdnz
-538,146,992.17,cvbjftvrusfpud,Xa7.74,ocdgzbacgdfj
-539,592,950.63,cjjhjygyuqdtwv,mBG.52,ujthnirkrugp
-540,566,345.34,zhdbpaemweuzpy,JDO.24,idporvcwuhid
-541,712,71.88,brxuouyuahzwky,TeA.34,dkqbdwhnowbg
-543,50,877.02,lpsstbjwhofabu,gMQ.12,wjhtrcdveoud
-544,260,753.04,spequezdiepeyr,LCx.46,oksskfdywdmq
-549,527,273.27,iupnjpdrktuzjf,OxA.98,jcnpnksmhvrz
-550,555,861.44,fartvpyztpqnfe,dmA.29,ighzvmypyesu
-551,702,169.81,euloxgpkdtalmg,OEo.72,rjktcqqfuxfs
-552,244,896.63,htktzzqxuxwgdu,ztA.04,xefrjkmvifxi
-554,131,564.98,swrhamzdqzsapp,3HY.40,twvklanbsgqy
-555,78,300.7,cueshpyvvfkzsc,4E0.19,xskrriainrdf
-556,982,648.68,yixzwjockgpygk,vRu.98,obnfvzyzkdce
-559,904,72.24,fjdbioqbyvfpbj,pRe.80,tnbzpcywbwcc
-561,259,518.81,qhulitaebdoouq,BGI.09,ycrzxyjepdhm
-562,578,517.42,kvgfymeakgurvc,YK6.57,tnaqfuebsmvd
-564,930,140.6,qjjrqfedlzlrcf,6hE.88,yttljwkyvujg
-565,701,72.2,oyixpfzagoejrj,xN3.25,yxvhpjsigcaw
-568,293,311.74,tcpgrobwwidozh,eJM.71,gucfzisyogaz
-569,988,645.86,tfutygvlkspeml,Bc0.62,ynnfclgrmrqj
-570,822,111.56,kbbppobsfgltlr,PMq.25,jfcizcnnvqcj
-571,485,970.12,czvirukzrxcemy,WSO.12,qnnvjomhjuzg
-573,415,796.24,frazinskfzgrmj,hlI.16,cvsmvadukgql
-574,739,317.73,ktbmadbwfkbkex,qMB.56,rtuwwpfzfech
-575,643,74.04,hnoqaigfxnarbh,2x9.81,sgmqwbxsxvhs
-578,516,932.84,xvuindlctzgqwk,T6T.41,fxwxqilwhljy
-581,437,201.46,dqpkchfftfjkto,vXv.34,wklcqbcdjyii
-582,143,196.38,ftaqaudiepzshv,cbp.67,mowavujmrpzq
-583,573,789.28,vrtunlhghnlgxz,aLb.52,nofcbvnfiwtm
-585,843,880.19,ekvjhbgbbmijuy,ixV.12,qlmobfdzeizx
-586,408,299.55,eauyhlstqsjsak,4YI.83,aldnrrmgmwtj
-587,263,296.15,hdjrkgflkrvwcw,bFe.85,hnhwqgojjfsd
-588,40,100.2,huhsycylminyxe,hmh.17,hgexrvhisqmp
-589,512,121.52,ldhrzfjuwrtqmm,A2F.48,uoolhfxwqgom
-590,897,515.21,sonctbrtulkdeg,2GJ.53,njmvjvvhmvug
-591,931,198.2,gftzykislirbwj,qEk.95,sdfoyomedrhc
-592,702,385.63,admsckbawuprcu,ZoY.67,ektacftgpvof
-593,131,924.94,fcbzvwkhtpnlqs,Zjp.29,hfstwbkqbfrc
-596,690,110.58,mayecmcyntaizc,9lC.65,rdqqbrcebhkc
-597,478,630.61,lxhemnzlxhsztw,iCw.99,racpwosyouoe
-598,305,156.27,sdpccfodhpnumr,zOl.25,moahjivknnlz
-599,73,991.45,begseneiovkksl,hYo.43,thbnbjwubdns
-600,949,562.9,yuzwndwwjsllpt,o2k.12,iheagkegaxds
-601,850,740.22,zccymlfftzupqk,YM1.27,fvemzddahzbg
-604,204,816.46,vgauxgfbbkgyty,KQX.32,fmnpsiytsffw
-605,567,80.77,tuqwulmgosbsvd,wBl.78,dcqvnxbswpcy
-606,548,378.67,rtqiogslrgixoi,qoa.69,rdbioaqqxapd
-607,491,196.29,cczztnsqvrmsbl,dmQ.50,gpqqndvjcorh
-608,495,98.17,wvuatgbaqokudf,Kt3.42,cvtdshetjucc
-609,634,840.23,mkokdvvbjtothn,iQt.40,phyjvntmycij
-610,317,387.18,mfcyanjmtqjoge,iX9.96,xnqjiqtyhohe
-611,715,299.77,nybqoisldkifsp,Zhy.50,ceqgkposxnin
-612,946,940.74,ydywxpdxeqjcow,qAJ.23,qtrdmfbizzeo
-614,883,47.13,vxmvxdueextdtk,aGL.43,xxvqcyfqhfkj
-616,707,697.52,onhhsivojhppis,oyF.47,pdnllpupjbpf
-619,471,691.34,jtkfybnnauqnhc,QJD.57,aqolbwyzjahz
-620,900,292.76,czimblaukwxacn,nrG.19,qjpsygcmhibz
-623,937,771.14,dhafcvacldbvrc,eRf.59,bfxpawvsnnct
-624,407,369.43,awqqzyxwkglyuu,fYZ.60,nuywfajfagsr
-625,469,727.17,pyqrigbuwtupfr,FaA.92,bjuggzvhuoir
-626,774,17.58,yzcsygoevzdafw,9Ch.15,faslchxsdajy
-628,734,406.73,pbarrfheffsnnv,McO.46,mtkpdnrbujmf
-631,33,295.41,vevlmqqbimkcqi,9qh.16,hyncvwpnqjxi
-632,561,839.06,jvhkyljjnpukac,kAE.17,wxfcnkwicama
-633,286,63.53,jgpwhixbmgoagb,jqf.70,vvallsbdenzi
-634,848,274.42,kwponctdsjtazs,YgN.22,uotimqivixrx
-635,393,670.6,wkalyuxpmkhhdc,RLD.80,fprpswwjxncq
-637,963,670.5,khuucvhnjjwtcj,u2R.51,zblbkmtscoky
-638,603,440.2,jjpgmtzdzajlmm,lH1.59,kjsfrjyoahnp
-639,82,584.4,cdgchcrcpvzfhf,alB.29,eeonpqbpbear
-640,339,525,coobzpdyfmdqkq,EhL.35,wdpocduxbzou
-642,322,604.17,wmnfjiyfycqmsw,sAY.51,svrwpoafdmqu
-643,203,375.87,kwjrgjnssmtlxs,sDq.51,afloazwjrhrh
-645,328,417.43,ypszwdjmocwjev,xCr.48,xcsfhdmzxzqh
-647,344,470.43,kyppevtnvvrbtu,2LO.82,ioeblaitzpee
-648,987,115.2,cfclriecrghnbc,bjs.98,czgjuwcgtjzm
-649,869,180.9,muwwtmdkhsmmdv,HT2.40,tcnmqvvesiao
-650,744,787.55,sogduyykhpdluh,w09.35,mnwzlwywagik
-652,378,283.39,obttlfkrxuyumj,PdH.64,conqxrzskuaq
-653,80,771.09,crntdzyolxfcng,ecu.48,xjmrvjfthpop
-654,446,541.54,modukqdcqbpzir,Pew.01,cavjemqwrfsx
-655,16,995.81,egwgwzkgbmycux,AyO.83,dbjlyeybilve
-658,803,811.81,brshyyrlfwbofz,rcQ.32,lvseoamochfj
-659,980,825.68,xqyofpumyursay,Wvy.96,aasxbzyjpzor
-660,71,245.14,zmbiolrwpgxwmx,n6e.76,acbzaxsyhjvl
-662,494,36.31,sjpphcslbhtpbt,rhR.33,nsxrlhxflava
-664,942,671.34,gnfnniddvazuzr,s7G.23,nhwzwigyjamm
-666,636,32.29,zbdbvwzklbdaqt,ACS.82,ovrqclubjnwk
-667,384,880.74,bdjxtlovislwev,Q1J.01,rvdwhbkuptqj
-668,346,425.63,xpwnofxdjdhifj,X9G.24,orhnnlnycofm
-670,527,760.52,djovpavwfauhtz,odO.55,fbvqdktgceap
-671,861,132.5,iaywvtvcevyytz,3eR.40,txgpqdsktahs
-674,425,176.42,whsnwbrmdzsbdp,RzL.88,tkczxirrawnh
-676,804,247.81,yvjonvjdommllo,5Kq.57,mycuzfxycsdd
-677,408,405.37,uznizkrzxtokya,8yg.73,jgelcjhbopni
-680,886,228.15,fcpcxderrkvxma,VyH.69,kqdougwbdvgr
-684,265,15.38,iuasiqzplhiaqa,xOp.15,ixefgchtrjzw
-685,996,490.35,brbzfzqqdbqpxd,tPi.03,jkattmhftkhd
-690,572,382.75,znogwsglozlyko,TIw.25,unxeuhoyxtfp
-692,122,797.8,eagervyjzdcggy,55o.87,vcibbhcdzauq
-693,445,552.23,qtqyxewczqjuqm,AJ2.10,xzojpprwwkng
-695,297,771.66,koocdtfsngbcgo,cL2.95,jfpnwdoclqmd
-696,940,731.49,iafbaeujiecush,yls.40,caqziohfylgg
-697,563,209.4,ulkrqmqhwqmhyb,80k.52,wkyobvkcxrqu
-698,942,384.04,qwbdinwufyjnkm,365.90,shxrtzwlrckh
-699,514,71.1,vviqrycchlbbxj,NjH.00,hjklllgloaik
-700,788,65.46,wirvxldqalaifw,Ezg.02,xjffsijtdpsc
-701,607,461.52,wgfwkqsbrwnsjx,eBa.76,fkrpfefrvibk
-703,851,509.84,hamcqwbqnkyrog,MOf.33,kkjctdgbixcm
-704,835,335.48,qpcbffwhkahypw,WUl.86,ddimkzrzximr
-705,692,291.13,tiyoiebteukvtu,YZR.57,coodjmdagwcm
-706,145,710.97,cewpxvwfiogppc,gic.26,mkuwppvjrjvz
-707,433,990.88,adutptgvfsydek,3x1.88,pcqxdsmajjpo
-709,326,840.47,rwwtgaquyuqzrc,Ciy.96,bmhyrjleqaja
-717,38,645.26,xhrkretfkbihcm,6xV.84,yjctgyncfrpa
-718,783,699.26,almxxizhvetifk,UlW.33,aphlsefifnhs
-720,273,419.29,eeyjyptudcxrze,mzQ.48,mldgvydcewzr
-721,997,489.45,oormqtspmyyfad,uef.27,lqycuchfcssg
-722,33,271.98,pytxdgippxauod,1tX.34,ydrhsjeodkpf
-723,289,488.7,egjzbeklkkzrub,q1u.80,cslrddugvrat
-725,60,754.84,shnnlhhkipxetb,dF1.28,zmvwbffhdgbb
-727,647,898.8,aulvfyoskispqx,i81.02,hxegotdlaqgf
-730,373,415.37,txvxsrdlbltprz,xTJ.21,kutfrquylhjw
-733,606,863.25,rhhpxfzlajqxgf,MZx.46,cnjjnsfufaum
-734,34,189.66,ouodrzboeigpdf,ARe.17,ouzjfsoxqqlv
-735,241,174.49,ngvmliaenuhvbe,pOm.50,xacwpvbhovbk
-736,968,319.61,qnbmtssbovcxuu,05a.08,lmhrkphuxvhw
-737,467,937.54,tjlqyyppgvurpr,OjN.41,tjietiulbnbf
-738,302,903.19,xvaqqrxzssuwky,lSn.46,myavgyvtpoxo
-739,664,322.65,klnistymyeltqz,c1q.31,zrohmdozrgxy
-740,404,99.69,gohmctefegfptv,7F8.70,yjvbrvwrmxzk
-741,775,181.05,gbgmkbadsdrmxb,K7p.35,redlovoeqbtv
-742,72,327.75,snqhpyfcgshisw,tdB.63,styktfcotqkr
-743,574,460.46,crivphvsgxiece,mjO.92,nftpgtenueub
-746,482,430.96,cuaewoykuybbcg,qFZ.86,jxmkvredhkyy
-747,258,192.32,mhgzpdjgifstyp,Mgu.53,xdnlnxsyxmdl
-748,347,924.86,zzstpjbbgkszgb,8Ya.18,ezwdwmncemoo
-749,208,254.91,xuthdwqziduebo,qFo.51,aqvryhpottyj
-750,883,520.1,ujrnocwjlwclvj,ux7.12,ghwvujweljmf
-751,930,227.32,yniaqjncxapjff,xeN.56,fctjrrmjpsau
-752,762,947.23,nlgzmcaunkhcub,02V.10,oezclnqjnglu
-754,755,994.06,wuozftuhsfvugf,7nf.81,bdixscokqxad
-755,61,843.37,emcrwtnrxfstvz,7IZ.53,jnpbpbnvuula
-756,478,989.33,ewhpkmfxxbbjeo,giZ.32,kwhuoyftcrpq
-759,448,214.02,rquzlgewnfrqwj,hCz.91,tslgkqvxnfqx
-760,731,823.23,wxbyqoxddhiblu,LSx.64,vydukpvgyvvk
-762,128,152.54,qvpijoinfgskvm,IEH.36,sroqgrjernes
-763,134,111.72,elfqykolecavjx,GGS.26,jragkaybffaw
-765,50,743.94,derwfujlthjcjf,8pJ.62,iajlhkasjndl
-766,662,175,fdydlxisowouef,HxU.38,otssizsbnjjl
-767,549,216.44,otkwzuvsrvvage,895.32,ajwvlydvfikl
-768,653,455.45,cofiwteeagxybg,3ax.99,qdjfoondwdkv
-769,175,169.85,rlivzadaexjval,49G.90,oazcbuwwfirv
-770,8,968.05,rkuxzoglfjjlzk,hsN.52,dchoezvfiott
-771,363,148.87,mrjolftkqgvwdb,OQB.57,wnipwxcllqve
-773,749,845.55,gqkyzlewxkvlkj,QId.80,cqjdeqwndkfu
-775,742,640.41,ksrijoznxzykdh,bYV.13,puxincyugbvm
-776,693,399.3,hocdhrqatzggue,Y2z.84,oiieawxuormk
-778,663,227.99,bzwplyqlllaczg,IzB.15,zkxnqbgfdiyt
-779,789,72.66,pxmvcivjmpeemd,dOZ.98,tbjbafesuasf
-781,191,643.14,vstfstebbkjwpd,Qt0.08,dtlcrcfwltgs
-784,162,663.77,inxwpoclovkxqe,cWE.96,golbyzzqyoxo
-786,303,529.9,ticpnreuohmvti,ksn.96,nimlatbkexix
-787,506,10.35,qtsmylszynzwea,kV7.23,fgnvrobqtkwr
-793,201,752.18,hyqygpjllrmzvf,nJl.66,awcrfzoibgce
-794,599,164.42,bklddedtimacfr,Cm5.82,ymkwbbqjlyds
-795,732,435.41,sewvannodqgvpx,rIv.18,wypmdalgsxnp
-800,844,377.55,jktthflnpimdnc,HpU.73,ygewvjuyhkwb
-803,830,788.17,cxnwlghzoubodk,bRI.98,rpmrcrehbyji
-804,647,130.92,jinajatyuwxefz,9nV.22,pgaviptugngm
-805,61,162.64,xxxlmynkykqwku,z19.78,vyidyhtxjqsf
-807,132,582.99,bgzijlfwgmujvz,HaU.38,cuvusfdehhjx
-808,740,680.81,lcnrasdjcxkros,kkw.29,ukcwlwmldibk
-809,175,163.33,gpfyniayvhjcbo,fYK.37,tvqmpxrmzfik
-810,192,647.2,coolgbmzzzlpys,QkK.98,vsklaledgiul
-812,223,224.7,ykomovmbztqcxq,fXM.99,heykxxddgcxp
-813,55,333.3,hrusnsagcepken,QQY.05,vipquyyfgfrm
-815,765,715.46,cavpbkvajvibww,9Un.12,gsfxgyhrtiwc
-816,741,779.38,xzqwozzqddbwsa,U4w.35,bhzyoaetoasw
-818,463,637.52,smkopxdyiigors,AQa.42,eulnuddptphq
-819,279,969.83,pssqhgbqsphkem,2hD.20,yxfysrbsazlu
-820,64,127.26,xlfjyeqcekrpgy,L1W.29,qlfwjzyyjclq
-821,627,944.84,qhkufcaslzgogq,KCy.01,hybknwxivjjp
-822,967,854.27,gnxauqyzrbgqgd,5iw.05,cbtqwmcifrjd
-824,906,773.43,ynzqfqzgoefvcu,jk6.61,hcruqdusmwks
-825,715,218.17,nypoyoyjdmjnom,Fvv.60,umryehznuppw
-826,9,579.68,njntkjpertmtab,GkF.81,uiusboizwgic
-827,981,885.89,cgexcmqprxvrzh,b9o.61,hcuhcvfmanvp
-829,528,987.21,aoritpckbitqct,nXi.49,iycjgxrwtera
-831,563,76.43,hebyfaqxqubsmr,ZlP.12,bbtcrmebiuac
-833,892,723.08,ezunxdkhueumwr,KS6.06,hwgiujckzxsk
-834,163,908.49,mjfugqofmyjzeh,AJm.13,kiflbalaxdry
-835,960,631.16,bxcdwuzcksjyij,rKw.50,zvtgcgzyhiqm
-837,118,576.02,sioygceditsmjf,pWV.87,urkuywnulosk
-838,950,477.51,ovsezgrrcfjbqi,68r.39,ofwqfyiphrrb
-839,697,1.79,vpbxcknpsypltx,69L.75,bujlemhnmawk
-840,262,577.18,glexkmilelxlcf,1VA.03,attxppcmmwbu
-843,965,269.14,inthpqchajnoni,n0z.68,epmwmfouwzqg
-845,955,41.47,rsxnlpxbqekckj,zqq.76,dpmpsmvdqmae
-847,580,255.51,xpiifleeiyduzd,9xe.48,ofwielyqtffo
-848,663,225.65,yxyvvpfqibvjrg,73f.75,llrphblbusyc
-850,949,687.64,qebakkplxmmppm,45c.15,ajbwbbxgpxll
-851,289,603.29,nhkoqouaxcirci,Zp3.25,dphuufshxdwx
-853,915,85.1,dkqeoejjtcuffr,49N.42,sbinccfvxvtf
-854,265,937.96,gkkskjlfqowhch,tpL.89,vcclwwoaykko
-855,191,848.53,faxtykkjmrtlid,x1h.42,srcuozmbcjal
-856,872,794.64,ehwntwvphohmmi,zUE.87,yrtgqsaohxxy
-858,315,440.04,kukcpruqhxzvav,lyT.11,jmoymlfgjzpx
-859,122,728.08,xnicawbsdjjsev,A24.94,lzcuaknijdyc
-863,958,43.1,izkxqkrgmagaip,jKK.56,gwckkxukbxbr
-865,411,958.89,lbnewnqycvdcxr,alI.06,ehbdwapnhjmn
-866,203,452.16,jfbpkknppfrfam,qIE.76,bccyzhlnaubv
-868,236,766.27,fcselgnxywqwxu,lLd.63,gqkdunfivezh
-869,473,289.25,gsovamhoivqoor,mna.81,jtunwyfvoqyy
-871,825,932.75,nppsqmefabjqql,TIn.64,euxgawzampkc
-872,599,42.46,qzabiegpycyjjc,MJK.36,oitukcdykvuq
-874,169,669.62,boadcbwsybwjzv,ySt.67,ujzufxpbhxrb
-875,270,878.44,twtifqslephqgi,7HW.42,oeqvtcbtmzlq
-877,474,610.96,alafuavzukqosb,Lpq.23,kqvaebsbojnm
-879,374,498.58,ceomnjrtozsysp,L7b.84,toeocuxgoblx
-880,671,851.94,ovjptxsulmuixr,nct.76,wghatbbygudm
-883,429,514.98,rhsflmnhhpblox,Bdn.58,dnzbyjtyzjbx
-884,594,812.12,srgixwmtonzxuv,IzT.98,towjrvmglkzh
-886,134,19.57,oeaumcmkztkdiu,Eeu.77,lphemogkfmid
-887,760,605.07,yxkemkmuywzpzz,xtz.76,tacytdqxkhpk
-888,913,289.4,uedlqvpslhhxsn,9ZM.80,qeqkbhbeoxad
-889,782,549.79,qzbmqmqvsoinkc,0rw.49,phpcbvvtcike
-890,867,927.73,ddiioxbtqpzkqf,DDF.65,rxyfadcjmbtk
-891,594,601.48,qviupxpkwqetsw,RbT.71,spcgqdtdsyxv
-893,924,493.96,ilzyjlnrkcdjac,RU3.46,afapymvkyeuy
-894,470,887.02,xnudrnzceiljdb,q9G.20,sblnnwmjfhjd
-895,197,277.47,rjoczbdfzwsmyh,gwG.76,byupcwwdaqne
-900,39,967.01,cnehdvyyiuesgj,WAz.77,yuktphyympfi
-901,960,584.48,zpknnnqbemvkhd,V65.14,wsadczffwwbm
-903,899,311.5,xryskzdfldovaf,C0o.98,umxsygmqquhs
-904,310,262.17,ykolehijbjubli,zW2.99,rnvjhemrahnj
-908,638,674.65,dngynwdjkufyzy,6J0.16,qqumonxkblmr
-910,178,477.23,lwzgeffhyfewrt,9Jh.79,shpxmymezsvx
-911,957,107.22,tfugxvumdflika,7ua.91,bvgwigpcabub
-912,543,519.54,myslufvoflzned,uZB.08,cryinqmjupwn
-913,692,943.97,tsiflnugmtmeow,KSF.55,dtvmrcczylwp
-916,39,796.96,cbbjewuebdcpgh,Wfj.97,uwnnmpgjitsy
-918,237,399.39,fkuhdocluxcgfe,0Xy.03,vpghyhywaxlj
-919,117,823.82,vpjbftvwqwihfm,0bW.00,jftixbdhfxlx
-921,954,428.13,pfvlawoavuejmg,rgK.98,dngktaimzyhn
-922,576,731.52,ibdcdizfqaxbme,mrq.17,aujdaqvznubq
-925,882,772.69,xgqrrepkebvjpi,c9S.75,earsqhwqhnxz
-929,407,556.41,qqzvtijbodxwye,WsM.10,btxsummgzsnc
-931,951,147.07,jmoyewowkwjtmc,8qm.20,chmrvdaddxcx
-933,922,751.15,xgmwsixwhmydcf,R0W.83,dtwvzwaiiiei
-936,876,153.72,vikdkbwxaxfyft,ZjP.44,zpbpxbnbzbml
-937,391,977.76,dosptfczwxubow,chi.76,vntatxggccpd
-940,52,216.05,knqhmakrwzyiaj,oht.11,jnuojqupyfmo
-941,576,843.69,honfhefjffnvqu,JdL.10,diuelvbqroyt
-943,769,341.45,rttsfntprerzyg,9KN.62,wosamyllzgdj
-944,681,279.36,lfuwdclhhxxhvm,fWD.33,mgysjojkeelt
-945,330,527.57,wmpdmtwschvqob,JyO.66,fgshiglmexuf
-948,174,838.35,wrdvdufvtatxjw,FxC.00,hcwjxqoasbsa
-949,412,855.91,ypkbczmtjmhgpl,uez.56,sbytdlqlqfmt
-950,773,935.61,emrncdonpwwnyp,oCY.95,eeotfmiuvmsd
-951,250,527.42,rlvdjyxeqamxfh,aiO.42,okqmpcihckdq
-953,914,975.53,hwjiniapegpvdd,RW5.49,gdvduhqduepq
-954,95,921.14,obqlldpqzqzjly,noj.23,zyckpopajhvf
-955,667,527.45,zmtpgnpluqtkyg,cL0.22,gsawaplzozpu
-956,791,970.83,prlxabiowkuoam,rXF.92,pfrnyhejbsqu
-959,888,68.27,gfitedzrhkehln,ugD.84,qozpkmjzpioe
-960,123,201.51,yhhtcestkzuaaz,2NS.65,gfomprmdtwnh
-961,689,934.54,fvnujyhkrqpybc,4o9.78,ehdokpqjtxjm
-962,603,275.13,tyfshlktjauvpm,TgL.94,sdaodcqiqegz
-963,377,680.43,nabruzuthypuch,q0v.91,omkpfyymakph
-964,689,279.4,noibdlmiandqaz,5C7.04,roeynuoauqdk
-965,327,990.12,gateyjpsnekeep,4bg.32,pbpiwocyaxve
-966,286,63.29,pfpynpgrpnmmev,ZvK.73,xsbkngpkuroz
-967,286,433.83,dhfiyxatfohatr,aAK.42,sbczvspysflz
-968,185,350.72,bkugmqbjcupcos,rz5.86,acixadoabcsy
-969,497,655.33,niwcqrwwmvklqc,gDu.38,danfifpffbkx
-970,934,107.86,xjifdtldkzjkex,2Lm.87,fdbugratzxmq
-971,727,806.1,wabeblirieuvlm,jFF.52,dlqqjxrwlptp
-972,124,883.91,wjciekmchqmrzw,X8u.07,niucsncymjfo
-973,76,119.59,wlmfkxcgzwfzcv,8Qw.80,rixtrnqubzbd
-974,475,77.87,doyyhocbakoism,Bdl.83,tzvlvpgdcxup
-976,543,499.88,ukmmdocktlparp,tU8.54,lkysutoytmsa
-977,892,681.15,abulftasteorfr,bci.37,gmnxcorociyo
-978,778,391.9,dvucvjuslwtsvm,nqE.40,yhodkprdnjnt
-979,216,628.54,cmjunkoioneoua,RlB.10,uphnbzreruwt
-980,697,657.86,rdlxdbngqalxep,46F.82,eptdimcdsajp
-981,682,470.23,jflrzhiuihqyfh,bgf.62,yhuvywbzooze
-982,764,984.73,sonjyrtowcuybe,pYJ.49,yinwhvqkjuvr
-983,791,986.83,raqezabogamgnk,dMS.53,psjnwpslzpkv
-987,529,362.73,whbnowiofwiwem,F5e.91,jehyowyifjie
-988,660,912.94,evyzckvtraccrx,ttF.50,dleifjdbirtt
-989,830,55.11,kvlbyzmdrmaqmz,sXE.04,vxkreothizxd
-992,688,38.01,aymudhofunmmhd,QXQ.74,wqzwpfdvdwkv
-994,79,583.35,zgakxdixopqavt,7wQ.55,thsnddsknmta
-997,167,403.6,dhxwxqanezxflo,0zR.29,ndsvhndztjvy
-999,298,255.57,ohinheucttnqfe,LVG.66,lcgztvxryxhg
-1000,482,790.63,fisemriuwldsbu,WSy.53,mevjupbmgzls
+41487,7949,33.17,DECI4,74a76.38,"erat fermentum justo"
 102545,72,26.69,ACTG2,2p13.1,"coding gene"
 137150,18,109,ABAT,16p13.2,"coding gene"
 167040,5007,41.75,OSBP,11q12.1,"coding gene"
+185047,151,64.32,JZEF6,95j03.69,"ut ultrices vel"
 300011,538,139.7,ATP7A,Xq13.2-q13.3,"coding gene"
+549261,6585,5.26,ECYP6,90j03.85,"molestie lorem quisque"
 601902,4998,31.64,ORC1,1p32,"coding gene"
 601925,396,3.62,ARHGDIA,17q25.3,"coding gene"
+603136,3768,69.46,QQZU5,56z01.17,"tempus vel pede morbi porttitor"
+750575,3437,38.65,VUBT6,96g86.32,"a suscipit nulla elit"
+808189,5816,87.45,VWII2,17z34.37,"eget nunc donec quis orci"
+872925,6817,55.75,BSEI2,87o69.12,"nisl nunc rhoncus dui"
+1173922,5104,82.43,TBSI2,46g12.24,"in faucibus"
+1313511,2811,93.72,ZGVQ3,58u95.78,"tincidunt nulla"
+1525469,2103,20.74,RYOL9,81d71.14,"amet diam"
+1675668,3088,50.55,XNTY9,36f02.56,"leo pellentesque ultrices mattis"
+1694700,2450,65.85,TFYB0,62u99.95,"justo pellentesque viverra"
+1905093,4981,45.4,ADAN0,17t49.07,"integer a nibh in"
+1956481,1722,88.27,TZSK9,96y21.35,"rhoncus aliquet pulvinar sed nisl"
+1966184,1975,1.92,DPYT6,91j05.84,"donec vitae nisi nam ultrices"
+2003183,1547,44.47,GZJG8,38f68.32,"proin risus"
+2272841,4892,11.31,AOVS2,47i21.90,"diam id ornare imperdiet"
+2305732,807,14.75,ELJC2,31p45.62,"dolor sit amet consectetuer adipiscing"
+2634582,6891,1.2,YNEQ5,46l08.80,"non velit nec nisi"
+2893873,7183,3.77,YXOR5,10q51.50,"felis eu"
+2995965,3699,83.23,WUEU5,88f01.26,"justo in blandit ultrices enim"
+3131187,7042,29.91,FVJQ7,31n66.40,"non pretium quis lectus suspendisse"
+3206998,4830,9.45,ECWI3,60r57.35,"semper rutrum nulla nunc purus"
+3226173,4370,40.26,SUVT4,20v42.00,"habitasse platea dictumst morbi vestibulum"
+3262092,6491,95.9,VRLO7,71j30.33,"consequat morbi a ipsum integer"
+3627747,4503,72.96,TPVS8,41r02.84,"rhoncus dui"
+3721025,2333,18.71,LUVK4,16a60.84,"platea dictumst maecenas ut massa"
+3858122,860,83.31,MKZU9,37e76.34,"nulla dapibus dolor vel"
+3900591,4148,12.55,JURO9,98n31.18,"posuere metus vitae"
+4205999,7101,3.43,IHNY7,89f32.69,"sit amet lobortis"
+4306090,5470,52.55,BSSI5,63f48.06,"faucibus orci luctus"
+4453617,7447,5.67,HTPP3,52z49.39,"vivamus tortor"
+4556846,4221,18.42,TPAW5,16f05.48,"curabitur convallis duis consequat"
+4592834,6452,23,YZMI1,93u19.71,"ac est lacinia"
+4686169,3527,65.87,TVXT7,68v08.40,"vestibulum ac est lacinia nisi"
+4718058,4426,28.74,CGTI7,40e82.65,"ac enim in tempor"
+4800265,735,18.82,KBEZ9,34b30.30,"neque vestibulum eget vulputate ut"
+4842321,7161,50.83,WFMH1,18h73.20,"varius nulla facilisi cras non"
+4852177,7956,82.53,AHUX3,14o56.24,"ipsum ac"
+4866838,2093,29.07,QMMQ9,96x42.30,"erat nulla tempus vivamus"
+4932451,3575,24.43,ENRF6,34d22.04,"nisi vulputate nonummy"
+5131424,5869,24.37,XORH5,11q01.95,"quam turpis adipiscing"
+5147366,6291,87.92,IENY2,14o60.13,"ligula nec sem"
+5317112,2888,8.5,WPLY5,70g22.33,"scelerisque quam turpis adipiscing lorem"
+5327425,7254,57.21,KAVH7,93w24.28,"ipsum integer"
+5348165,7735,6.91,MEFF8,63v31.59,"praesent blandit"
+5448142,5202,2.79,OHBQ2,30g32.16,"quisque arcu libero rutrum ac"
+5457168,3532,63.64,BIWE3,06t22.96,"curae donec pharetra magna vestibulum"
+5485521,1767,71.87,BNLE3,33l78.03,"vivamus vel nulla eget"
+5582078,6922,75.3,XSQL7,50t03.18,"integer ac neque"
+5775829,1766,4.71,PUHS1,94k16.21,"lobortis sapien sapien"
+5953498,3569,47.82,LNQL8,92i48.43,"cursus vestibulum"
+6033340,5046,58.75,OUTU7,18v60.33,"ultricies eu nibh"
+6153576,6138,93.6,IXKC5,29l16.00,"vel enim sit amet nunc"
+6270406,2318,16.78,OURS1,43f53.27,"amet cursus"
+6297695,6122,16.82,CJOG7,27d14.87,"ut volutpat sapien"
+6317100,3156,75.15,RCZT5,33p74.83,"amet eleifend pede libero quis"
+6493751,2670,89.83,KKDC2,01t52.51,"lacus curabitur"
+6536672,1542,10.18,RRLW6,44b07.36,"leo odio condimentum"
+6573535,7868,33.3,ZXAN1,31r72.97,"nunc proin at turpis"
+6705383,2093,78.28,CDCC9,81l20.27,"in sagittis dui vel"
+6720935,1612,88.06,XQJD7,60z80.42,"est congue elementum in"
+6754823,6957,58.07,UBTI0,43d47.06,"curae mauris viverra"
+6981477,5031,6.54,AMKS0,99f27.25,"maecenas rhoncus aliquam lacus morbi"
+7110865,7301,15.32,HIMM9,31k65.21,"ut tellus nulla ut erat"
+7139249,7798,36.07,PEOY7,17g24.89,"non sodales sed tincidunt"
+7225718,4931,88.95,XAOB4,57m77.16,"pulvinar nulla pede"
+7283746,2512,6.24,XVMX8,58h23.09,"pretium quis lectus suspendisse potenti"
+7312714,7400,64.38,MOKZ7,58o44.27,"est lacinia nisi venenatis"
+7313007,196,18.79,WMHK4,28a03.24,"donec ut"
+7351282,1047,25.71,UZGQ1,63x22.67,"pellentesque quisque porta volutpat"
+7352888,6951,98.33,CRWC0,84o16.73,"curabitur in libero ut massa"
+7731409,4543,71.06,RGJU2,48q02.19,"tincidunt eget tempus vel pede"
+7778145,224,31.09,FKYG3,65k10.40,"luctus ultricies"
+7788682,1453,8.76,XMUV2,66x69.54,"sed accumsan felis ut"
+7813251,5304,83.42,HBIO5,14u29.62,"lorem ipsum dolor sit"
+7852508,2390,41.76,TPIQ0,91f30.40,"morbi quis tortor"
+7927174,2430,8.21,ZLSY4,69p21.28,"magna at nunc commodo"
+7959027,5475,5.76,WDPU7,38u40.35,"volutpat in congue etiam justo"
+7979162,4224,12.08,YJMK3,55o61.69,"tempor convallis nulla"
+7983394,7349,47.25,IITS9,15l44.39,"semper porta volutpat quam"
+8010199,964,89.51,SRAG5,40j05.62,"ridiculus mus etiam"
+8247170,1523,73.52,JBBX5,46v13.27,"lacinia erat"
+8249102,5988,59.12,YVAN2,56u54.59,"nulla pede ullamcorper augue a"
+8412814,3801,54.12,UJXA9,79x77.62,"integer non velit donec diam"
+8444567,3809,87.34,YTAB9,91g48.81,"mi pede malesuada in"
+8527840,2836,62.18,KXBL4,20u87.54,"nascetur ridiculus mus etiam"
+8713381,3172,28.12,RGJQ1,71r47.80,"condimentum curabitur in libero"
+8870162,2084,52.35,QFXE9,39c20.02,"ultrices mattis"
+8956817,7386,60.95,VFST3,38o44.60,"ac tellus semper"
+9037276,918,27.31,CPGJ7,79f89.94,"sit amet consectetuer adipiscing elit"
+9157286,6692,88.26,XTMT5,45z38.68,"eget semper rutrum"
+9370512,5572,84.26,OKIZ4,24h51.62,"in lacus curabitur at ipsum"
+9379734,4732,95.49,SLJY0,61u80.56,"lectus suspendisse potenti"
+9429876,4779,99.32,YCWF2,29y56.19,"enim in tempor turpis"
+9821351,3654,78.66,CCYJ0,31q71.66,"vivamus vel"
+9959452,7179,23.48,PZZT9,24q93.62,"at dolor quis"
+10052751,2223,16.91,XVHS3,68e39.25,"massa quis augue luctus tincidunt"
+10352355,3897,44.93,LWPN4,68h52.10,"adipiscing elit proin"
+10438176,377,92.66,KRGN1,18w47.01,"dictumst etiam faucibus"
+10478709,3967,78.62,FICJ9,88l95.95,"lorem integer tincidunt ante"
+10599072,6005,15.94,NKVX9,01e70.05,"morbi odio odio elementum eu"
+10608068,7604,93.01,OAUV2,56u88.00,"arcu sed"
+10701456,2011,50.1,PBSP1,17v47.76,"luctus nec molestie sed"
+10705397,6141,70.67,MJYW8,40n34.22,"ante vel ipsum praesent"
+10726766,5998,4.53,TQZE5,68p15.56,"non ligula pellentesque"
+10811162,296,73.15,ZMSM8,66m80.16,"rutrum neque aenean"
+10833958,4474,31.06,INLY9,09t98.94,"adipiscing lorem vitae mattis nibh"
+10946492,3920,65.55,ZRKB9,94w70.32,"in sapien iaculis congue"
+11041122,3907,48.09,EYYV4,14k95.68,"lorem id ligula"
+11049855,5878,45.61,RQJW7,82i09.48,"dictumst morbi vestibulum velit id"
+11063679,200,86.71,IMPU5,11c34.46,"quis turpis sed ante vivamus"
+11132682,6189,69.02,LMTU6,51a51.17,"pede ac diam cras pellentesque"
+11371258,3248,45.83,NWKN0,73j91.48,"lectus pellentesque eget nunc donec"
+11393371,5886,87.98,OUSS2,89y70.57,"sapien cum sociis natoque"
+11617753,6507,18.04,WQES8,07e19.95,"cursus vestibulum proin eu"
+11906956,6860,49.71,BXRA6,07t78.25,"pellentesque ultrices phasellus id sapien"
+12019597,1071,14.94,CSBN5,19g65.84,"nibh ligula nec"
+12065155,1785,67.95,ICKW5,93a38.50,"vel augue vestibulum"
+12682577,7559,78.52,JURR6,51h05.99,"dictumst aliquam augue quam sollicitudin"
+12750976,2704,65.31,CKRR5,89g35.00,"neque libero convallis"
+12914779,5022,12.76,WMUZ4,22k30.33,"in sagittis dui"
+12958148,6052,13.96,BEDI4,30v33.05,"odio cras mi pede malesuada"
+13147375,610,81.76,NAGR3,76y37.05,"ligula suspendisse ornare consequat lectus"
+13337184,5801,28.49,TXOQ6,35v96.69,"condimentum id luctus nec molestie"
+13426143,6839,98.5,OHOT6,28v68.62,"et magnis"
+13444238,214,41.31,SQBY5,28e11.22,"libero convallis"
+13685548,4153,28.38,XJND4,22t53.27,"rutrum neque"
+13869409,3323,15.32,EZXK5,55l41.20,"est quam pharetra magna ac"
+13884230,6144,29.36,ZWVR8,69i64.70,"augue vestibulum rutrum rutrum neque"
+13891709,933,7.81,RDIT2,87i27.40,"aenean sit amet justo morbi"
+13999271,6334,63.11,YXPA5,72g14.37,"sapien non mi"
+14009903,5887,84.78,KQEF0,18q67.05,"donec vitae"
+14203126,2819,22.53,UTVM1,06o30.12,"in felis eu sapien"
+14293052,6421,12.96,JTCK0,07p13.56,"cubilia curae"
+14331769,6022,82.12,REQI7,80w66.81,"sapien varius ut"
+14491719,124,57.42,EQVI8,57b92.95,"lectus in est"
+14573631,3062,10.35,VCOK1,91d39.80,"adipiscing lorem"
+14595532,1350,14.95,LDGC4,62f58.60,"aliquam sit amet diam"
+14647977,6336,60.06,OZRJ9,90h61.47,"sagittis dui"
+14663021,797,77.12,ICXJ1,57i93.06,"nam dui proin leo odio"
+14704997,201,15.1,DMQD6,26g31.94,"ante ipsum primis in faucibus"
+14713171,766,17.24,OJNG1,05x19.96,"suspendisse potenti nullam porttitor"
+14772684,3532,69.16,IQJH1,39m06.12,"at lorem integer tincidunt"
+14773313,4777,95.22,FKDE0,32s48.95,"nam dui proin leo"
+14839949,7440,95.96,DEBG9,77n30.19,"dui luctus rutrum nulla"
+14913334,1140,42.24,OEOP0,46l24.34,"non velit nec"
+14920117,1789,51.79,XVHV6,74a87.02,"ut massa quis augue luctus"
+15070370,5666,6.13,IFLC3,30x55.15,"aliquet pulvinar sed nisl"
+15243217,7438,67.5,LJFU2,47j02.47,"tincidunt nulla mollis molestie"
+15318499,2248,23.62,BNYX2,01p97.36,"vulputate luctus cum sociis natoque"
+15424812,3633,51.41,EDSK1,38s67.98,"pretium iaculis justo in"
+15452926,2745,50.45,IPYZ5,73b04.10,"eros viverra eget congue"
+15712006,2169,33.49,PWWN7,91i05.75,"ipsum praesent blandit"
+16095257,6184,5.21,MNEX2,21b60.83,"vestibulum sit amet cursus"
+16106833,7275,61.97,BWGN4,70k39.04,"eget elit sodales scelerisque"
+16188754,4435,64.94,ILRT8,38d95.43,"sed justo"
+16309736,1883,38.87,RCMY7,25r18.23,"amet nulla quisque arcu libero"
+16454229,704,25.25,WWLZ1,16r25.66,"velit nec"
+16494610,5227,31.07,YGYR1,76r97.22,"condimentum id"
+16545955,4014,22.64,OEEG8,71v76.85,"est quam"
+16582911,6204,80.35,BYXH2,72i05.78,"ac leo"
+16901570,3212,97.86,KORV7,06r44.01,"tempus semper est"
+16907527,6377,40.17,TEKZ1,42p02.43,"id nisl venenatis"
+16935618,5205,35.02,ICWA5,84d78.65,"tempus semper est"
+16943130,3323,23.83,NMLN1,29o52.02,"nisl ut"
+16989520,6408,29.6,HAYS5,18c98.13,"ac nibh fusce"
+17028118,7446,72.45,HSTW7,96p56.61,"gravida sem praesent id"
+17094451,5672,56.73,RFQN2,19d40.75,"adipiscing elit proin interdum"
+17145386,1179,82.47,MCZK4,38v99.26,"turpis donec posuere"
+17160047,2825,85.67,WGHF4,71s56.58,"turpis integer aliquet massa"
+17368679,2653,95.31,VZCD4,71d71.40,"turpis sed ante vivamus"
+17378245,4046,63.19,WVHP2,60r95.14,"primis in faucibus orci luctus"
+17389400,1058,9.5,FCYS2,42z18.45,"curabitur convallis duis"
+17604317,3556,20.71,MONV5,33w11.19,"sit amet justo"
+17676932,4138,83.22,HVXH1,02i50.79,"ligula nec sem duis"
+17694425,7658,25.99,QIRS7,86t61.53,"nunc commodo placerat praesent"
+17783994,1320,63.59,RCDV5,28f74.59,"erat quisque erat eros viverra"
+17826952,5436,7.77,IJSS4,11i55.06,"lorem quisque ut erat curabitur"
+17898204,3178,81.3,VZBD5,17y81.70,"ridiculus mus vivamus vestibulum sagittis"
+17975480,3511,19.57,ELIH0,52c67.47,"ullamcorper purus"
+18060632,7148,81.92,GETL5,72u64.70,"mauris vulputate"
+18165379,7493,11.64,MAYD7,24v75.79,"molestie hendrerit at"
+18184119,2929,59.4,RWVT2,61g87.20,"vestibulum ante ipsum primis"
+18261609,2856,67.32,JFYM8,86c34.17,"luctus cum sociis natoque penatibus"
+18267181,1667,75.84,UYSO7,85p60.06,"luctus rutrum nulla"
+18294640,909,31.2,GMEA7,09b04.44,"semper est quam pharetra"
+18331362,250,99.77,SENJ2,31w67.37,"aenean auctor gravida sem"
+18356635,5149,41.29,GRQB4,68m84.53,"suspendisse accumsan tortor quis"
+18476681,4534,69.92,IKUD1,27h58.96,"leo odio condimentum id luctus"
+18525350,5300,28.86,IVVN3,89b97.87,"lacinia sapien quis libero nullam"
+18673647,1757,27.57,HPFA2,46p65.63,"ac enim in tempor"
+18703900,4037,88.84,EWQF2,62b06.35,"a libero nam"
+18723042,5308,35.59,CJTK9,93p07.23,"elementum nullam varius"
+18827223,7694,83.26,HUKB7,39l04.17,"tristique in tempus sit"
+18893618,6108,5.59,FDCK7,73n25.71,"metus arcu adipiscing molestie"
+19061516,6296,46.43,DFPN0,36j32.71,"turpis nec"
+19227111,5795,65.08,OMTZ1,87a92.27,"imperdiet et"
+19360535,2409,40.77,YINX8,53f28.65,"elementum in hac habitasse platea"
+19394030,7859,94.48,NYBJ7,77w33.58,"amet eleifend"
+19629970,7706,99.39,WPLH0,95l08.84,"ultrices enim lorem"
+19642944,5518,11.87,DHIG7,24w54.74,"ligula nec sem"
+19682118,382,19.35,GWUW7,41a55.46,"congue risus semper porta"
+19838935,2590,24.1,NFLY4,08h84.50,"pellentesque ultrices"
+19905899,3552,9.4,MUDA1,53k54.86,"dui luctus"
+19958282,6051,34.64,JJNJ3,09p66.51,"odio cras mi pede"
+19983667,2358,71.34,TCJK1,75t11.09,"nullam porttitor lacus at turpis"
+20005957,4121,63.52,SNZJ3,86u82.11,"lectus pellentesque"
+20141565,7437,97.05,LZDL8,97t42.45,"ac nulla sed vel"
+20287454,424,64.03,PMPC5,81g92.97,"porttitor lacus at turpis donec"
+20370058,6408,24.34,ZUQG8,57m64.56,"leo pellentesque ultrices mattis"
+20662448,4721,79.83,BHTQ1,91k45.75,"velit eu est congue"
+20894480,3042,55.44,SHDJ0,75x59.89,"ante ipsum primis"
+21037672,1276,58.14,HHMX4,16r26.33,"ut ultrices vel augue vestibulum"
+21096150,6592,70.56,PJSZ5,86b92.83,"sapien urna pretium nisl ut"
+21158378,3467,50.63,QGLE9,38a04.98,"quisque ut"
+21268945,3508,1.22,DCEP6,46x06.57,"placerat praesent blandit nam nulla"
+21357693,2536,16.85,ENNK8,37c93.78,"nulla ac enim in"
+21764244,6967,43.37,LRCB9,53j35.99,"aliquam erat volutpat"
+21781476,2220,30.35,SYHD4,81r99.15,"morbi vel lectus in quam"
+21953336,1076,65.16,LKGM8,39w89.46,"a pede posuere"
+22141745,5449,36.5,TATJ2,33z91.89,"ac est lacinia nisi"
+22264459,3485,18.11,DTCD1,80i40.86,"nisi vulputate nonummy"
+22296409,5671,11.94,NPZW7,30i47.52,"luctus et ultrices posuere"
+22307200,164,73.95,YBLW8,18p57.57,"mattis nibh"
+22315376,1444,66.52,LFQE6,78e10.54,"aliquam non mauris morbi non"
+22617891,2293,88.36,QIIX8,92u21.99,"non velit nec"
+22644962,1783,35.03,USWA5,51h24.50,"mauris morbi non lectus aliquam"
+22839338,2675,33.81,MMOM1,13a34.33,"sapien cursus"
+22865246,7837,29.65,QJDN9,50e46.31,"semper sapien a libero nam"
+23056483,747,10.82,DWUY6,29u07.10,"nam dui proin leo"
+23170950,7919,35.35,OXCQ2,88i17.16,"ligula vehicula"
+23276329,2353,9.06,TOSW6,33q90.97,"suspendisse potenti in"
+23487629,6570,49.37,EQXW4,40f38.89,"pede morbi porttitor lorem"
+23506343,950,28.85,YDTS5,76x63.32,"nec molestie"
+23550878,5797,81.51,XZMP4,53g93.08,"eu tincidunt in leo"
+23552345,4652,12.13,SGUI2,70c85.83,"eros elementum pellentesque quisque porta"
+23681415,7556,43.91,TYDQ5,48p02.19,"quam fringilla rhoncus mauris"
+23876884,5875,45.73,FUIZ5,52l46.06,"blandit ultrices enim lorem"
+24001211,7468,68.6,IKXX2,92i80.36,"varius integer ac"
+24072137,6597,9.18,IGRD4,47z98.64,"lectus pellentesque"
+24080253,7071,10.03,TCFW1,55z32.31,"rhoncus aliquet pulvinar sed nisl"
+24483946,3632,53.61,QUYZ6,26k71.04,"nisl ut volutpat"
+24503265,123,2.2,LETS7,51k94.75,"donec vitae"
+24620645,1661,67.87,JTTK0,49k85.47,"tempus vivamus in"
+24634848,2808,58.47,RTIV0,28e76.12,"sociis natoque penatibus et"
+24760473,2583,21.9,KQTG4,82s17.43,"scelerisque mauris sit amet eros"
+24817601,6237,42.34,YHQD7,24y38.53,"vulputate nonummy maecenas"
+25060420,3973,86.73,AYXX7,23d90.32,"turpis adipiscing lorem vitae"
+25401752,2950,29.31,TURT5,03m12.42,"nunc viverra"
+25542469,5071,26.48,URYY7,80o93.83,"neque sapien placerat ante nulla"
+25600876,611,49.97,IMLX9,88p01.74,"pulvinar nulla pede"
+25675609,7317,24.71,DTTF4,97r92.88,"varius integer"
+25966406,2607,12.35,AMNE3,58s78.07,"potenti cras in"
+26252194,199,78.22,OJDO2,73g58.34,"sem sed"
+26373629,3928,28.6,NUVG0,94w92.76,"consectetuer eget rutrum at"
+26703842,5163,10.85,GGYH1,11y40.10,"quam sapien varius ut blandit"
+26724789,6273,61.66,FBEN1,67g66.18,"mauris ullamcorper purus sit"
+26896173,589,36.2,YTBY8,11i87.40,"justo pellentesque"
+27040729,5401,82.71,HGNL0,82w24.01,"nunc donec quis"
+27055557,3139,78.65,CVLU2,61a83.78,"scelerisque mauris sit"
+27067388,2223,40.91,AIWR1,28z61.46,"sapien quis libero nullam sit"
+27137546,7479,87.84,ZIKT9,42x99.78,"lorem vitae mattis nibh ligula"
+27215592,2119,1.12,BGSW1,33w21.70,"mattis nibh ligula nec sem"
+27231298,4982,28.39,HSVY7,82g85.50,"convallis duis consequat"
+27295962,5707,12.73,ZUOB9,44n47.97,"lectus suspendisse potenti in eleifend"
+27321489,6670,12.96,PQZR7,21r36.45,"aliquam augue"
+27363551,4057,57.45,IURQ4,74d32.10,"pede justo lacinia eget"
+27423379,1179,67.06,WYBN6,71w60.46,"ultrices posuere cubilia curae"
+27455578,1602,4.75,NMZK9,96g99.63,"nulla eget eros"
+27457920,6497,80.77,KPRA0,70q94.18,"sapien non mi"
+27488034,1870,62.17,GEWS0,03f60.21,"rhoncus aliquam"
+27551291,1808,71.5,BQAG3,66d75.80,"nec dui luctus"
+27778645,4501,77.05,AKVV8,11j14.11,"magnis dis parturient montes"
+27880453,1594,54.37,LXPX2,89j83.44,"iaculis diam erat fermentum"
+28000600,1958,99.46,GUZP5,56l18.80,"aenean auctor"
+28056605,1280,10.19,HKMD8,89d33.42,"donec ut dolor morbi vel"
+28240421,2840,26.31,LFCA3,79y77.61,"erat quisque erat eros"
+28240707,6690,64.2,XPZQ3,95h52.45,"porttitor lorem"
+28723135,5958,51.2,JYRO1,70n42.54,"ultrices vel"
+29032359,2090,44.07,XNYZ2,70y62.46,"congue vivamus"
+29223620,5208,65.57,BGQL9,67m75.60,"erat tortor"
+29280242,6071,67.27,USBC7,97q11.69,"quis augue luctus tincidunt"
+29499743,7810,40.74,CHFU1,10q66.83,"iaculis justo in hac habitasse"
+29544860,1040,47.94,XTPN3,98t00.48,"nisl nunc rhoncus dui vel"
+29733985,2992,25.8,YVSA5,27v33.68,"nec molestie sed justo pellentesque"
+29767609,5402,93.04,XSEH3,82c85.05,"luctus rutrum"
+29908764,4166,40.12,THXL7,24s42.27,"vel nulla eget"
+29971643,230,90.03,NBWW0,92u76.59,"est donec odio justo"
+30174248,291,53.32,GDTL7,09c83.33,"diam nam"
+30414674,7530,79.51,KLYQ3,59w78.47,"ipsum primis"
+30522660,934,95.52,EEFI3,57y13.93,"consequat dui nec nisi volutpat"
+30802640,4386,13.78,ABNN5,84c88.05,"quis augue luctus tincidunt nulla"
+30851935,2669,5.26,VEUR1,66i01.85,"augue aliquam erat volutpat"
+30882190,5940,72.25,DTTA0,81e08.38,"ut nunc"
+30890455,3551,35.94,NLPE1,09w99.23,"leo maecenas pulvinar lobortis"
+31034614,4972,40.38,UIEG9,33n57.66,"nisi vulputate nonummy maecenas"
+31078091,3627,88.04,DYSU6,93a02.15,"tincidunt lacus at"
+31112266,914,25.21,KTMQ7,41d54.77,"montes nascetur ridiculus mus vivamus"
+31362674,3278,35.29,XLXI9,67j30.59,"ultrices erat tortor sollicitudin mi"
+31599448,1876,6.8,OAIN4,85c41.39,"in magna bibendum"
+31609682,3321,8.03,IPYF7,45x34.52,"sociis natoque penatibus et"
+31726765,1253,74.04,TEVN0,89a22.64,"amet cursus"
+31805725,7482,7.42,CUQU1,24g32.52,"quam fringilla rhoncus"
+31925975,6275,53.22,KPEK5,68b19.44,"lectus vestibulum quam sapien"
+31970514,6435,93.94,MUPH5,97p69.38,"vestibulum velit id pretium"
+32033675,2884,79.37,DCKB0,73n88.51,"cras pellentesque volutpat dui"
+32116144,4245,93.4,JYXW9,00o86.96,"etiam justo"
+32227099,152,92.91,MSBV0,38f64.98,"nulla sed vel enim"
+32530890,7741,18.38,YEQD4,07o46.77,"turpis adipiscing"
+32531746,2888,14.89,KIQA1,67h37.59,"integer aliquet massa"
+32709242,1810,27.05,CKGJ9,41w37.33,"interdum eu tincidunt in leo"
+32768260,230,90.34,TPMI9,59n59.90,"nunc vestibulum ante ipsum primis"
+32853454,3788,43.4,XOMF1,12v46.80,"et ultrices"
+33177772,4726,45.59,AHUA0,32t69.47,"tincidunt ante vel ipsum praesent"
+33293650,3208,2.83,EKTZ3,60s91.12,"augue vel accumsan tellus nisi"
+33305002,7986,10.06,QKNX3,50a63.59,"porta volutpat erat quisque erat"
+33401391,3706,40.3,RLAZ9,52v10.11,"velit id"
+33449163,1355,33.98,RFRR2,94o21.35,"sapien ut nunc vestibulum ante"
+33505387,4746,55.35,DKEY0,49e25.11,"risus auctor"
+33655014,2810,67.52,ENPC4,01e17.35,"nisi vulputate nonummy"
+33750924,4057,89.71,YBMK1,20e15.14,"dapibus augue vel accumsan"
+33775542,4083,54.08,HKBV3,34g52.38,"at turpis donec posuere"
+33970183,3521,37.96,XSDJ7,72e36.35,"mi nulla"
+34001870,2428,9.24,VCDP8,29u24.00,"faucibus orci luctus et"
+34109748,7404,45.29,DWZH8,73m37.63,"donec quis orci eget"
+34232400,3774,3.2,NZKK7,74l86.41,"eget nunc donec"
+34635716,1753,25.22,NWHM0,08o68.19,"adipiscing elit proin risus"
+34710186,3397,6.24,XQBK7,41k72.73,"nulla nisl nunc"
+34855794,375,56.83,VYFH4,75o65.94,"curae duis faucibus accumsan odio"
+35085721,3016,51.23,BVQM1,19x92.46,"magna ac"
+35149564,1705,36.1,SJDZ6,02x00.59,"nulla nunc purus"
+35221358,5029,64.01,DIJX4,52a67.07,"turpis sed ante vivamus tortor"
+35260780,3331,67.11,ZCLS2,88o65.04,"turpis elementum"
+35445664,3657,22.66,AOKG5,30j11.24,"sem duis aliquam convallis"
+35500288,7947,81.42,UHQL9,15x73.73,"blandit lacinia"
+35500868,7488,60.71,PLAM2,05x28.37,"pellentesque eget nunc donec"
+35602784,1270,8.34,UICF1,60o94.98,"convallis nulla neque"
+35675481,3907,40.41,CKQB0,88p92.40,"libero convallis eget eleifend"
+35678616,364,66.09,ITKK7,47u45.55,"lobortis vel dapibus at"
+35782302,989,14.4,EZNA1,79r20.73,"ipsum ac"
+35799774,4952,65.13,POPG7,88x21.81,"vel augue vestibulum rutrum rutrum"
+35895286,2937,75.96,NRSV5,33x44.40,"at nunc"
+35920986,6820,24.12,SOMN5,53e85.87,"nisl nunc rhoncus dui vel"
+36027790,3006,43.07,UHBT1,63w13.14,"primis in faucibus"
+36621494,322,83.68,DBUQ9,40j11.50,"nascetur ridiculus mus etiam vel"
+36804046,902,39.46,WJQF1,23k47.26,"vivamus tortor"
+37069261,3711,20.73,BVLW9,45c95.05,"mi integer ac neque duis"
+37115778,7328,54.6,JGFU4,06f52.34,"at vulputate"
+37172814,4318,86.2,MMBE1,53l47.76,"amet cursus id turpis integer"
+37322070,7143,14.73,UBSX6,09n99.91,"eget tempus vel"
+37414987,1013,82.48,IHAF9,76a39.30,"eget semper rutrum nulla nunc"
+37590057,3717,11.13,UEPM3,09a95.78,"id turpis integer"
+37604820,6804,92.37,WFSB9,41l18.59,"in libero"
+37671186,1508,74.23,RFZG9,28x69.87,"donec vitae nisi nam"
+37705559,3667,50.93,VTSX6,12d08.14,"aenean fermentum donec ut"
+37714292,2271,62.35,TGAZ7,37c25.46,"elit proin risus praesent"
+37781895,6909,6.96,SATZ4,48q32.51,"orci luctus et ultrices"
+37892544,4020,2.03,TTQD4,60n63.43,"ante ipsum primis in faucibus"
+38100728,7435,49.61,NLUY8,75u19.93,"donec dapibus duis at velit"
+38305191,4597,59.93,OPEI1,23u78.16,"quis turpis eget elit sodales"
+38369364,6881,88.49,ALJE1,27j55.83,"sapien ut nunc vestibulum ante"
+38374405,2578,45.94,FEOF8,06m74.34,"condimentum neque sapien placerat ante"
+38396931,3578,25.22,VCDK5,69h54.06,"in faucibus orci"
+38472030,7645,41.57,NCHS0,49p34.05,"parturient montes"
+38590646,2843,75.9,KTFG5,55n69.26,"sem mauris laoreet ut"
+38619545,3569,9.98,LFZR7,09w25.38,"nisi vulputate nonummy maecenas tincidunt"
+38693906,1557,86.02,HCAF4,94t67.34,"in sagittis"
+38730937,3391,23.35,QCCW5,01p69.13,"ligula in lacus"
+38766729,3136,70.07,SZLQ4,27f54.65,"nibh in"
+38821158,5514,42.55,OVCN4,28g96.89,"porttitor lorem id ligula suspendisse"
+38930720,1146,12.1,DVVF6,75k89.90,"amet justo morbi ut"
+38977976,2099,43.44,ANLW2,19k20.05,"blandit nam"
+39003481,4402,44.51,QMBS1,84f33.25,"morbi a ipsum"
+39131477,6933,57.45,YKXM7,91a91.77,"sit amet"
+39186214,3277,11.93,CYDS6,08w99.90,"sapien non mi"
+39296775,3840,37.53,VITA2,52u56.59,"vulputate vitae nisl aenean lectus"
+39328173,4625,76.71,VWDW8,25a63.11,"curae nulla"
+39650416,4785,66.04,PVNI2,98g15.98,"leo maecenas"
+39728536,4333,2.36,JIBX9,42i64.30,"nullam molestie nibh"
+39870326,2333,99.71,RMVX0,79t01.23,"platea dictumst etiam"
+39979294,220,25.84,GFJC6,65g82.90,"non pretium quis lectus"
+39991908,531,51.99,KMLQ4,21e64.90,"nulla tellus in"
+39998386,3777,58.17,TDVD4,41z46.66,"maecenas pulvinar"
+40211764,4231,1.37,XARC1,85b59.63,"eget elit sodales scelerisque"
+40295755,2268,93.08,KDUI3,25o18.07,"eget tincidunt eget tempus vel"
+40454704,420,51.06,JQLH6,01i37.33,"etiam justo etiam pretium"
+40630857,2333,78.67,ETCS7,27m21.35,"at nibh in hac"
+40862218,5335,11.82,XIFC6,59h51.08,"sit amet eleifend pede"
+40884328,5376,71.55,EFCC9,84y94.84,"donec quis orci eget orci"
+41087827,7362,13.49,BNKP3,72v65.07,"quisque porta volutpat"
+41121051,244,78.72,TMYT7,62p73.47,"libero quis orci nullam"
+41443372,4088,53.18,QHCD7,04m50.34,"pede morbi"
+41534086,4893,83.88,SZPF3,73m70.96,"in quam fringilla rhoncus"
+41553660,4676,67.1,YBLE7,79v41.43,"tortor duis mattis egestas metus"
+41586437,6477,84.87,ZTUS5,29m98.02,"sapien urna pretium nisl ut"
+41650365,2502,72.98,JZKH6,68b21.96,"luctus tincidunt nulla"
+41724159,1259,56.36,MCFB1,78r38.87,"tincidunt ante"
+41831305,2195,39.87,HACQ2,80i25.54,"volutpat convallis morbi odio odio"
+41871248,3267,5.04,SCZH1,59p16.72,"volutpat dui maecenas"
+41932410,6738,66.86,HXLI1,76h18.12,"quis turpis"
+42081452,7142,29.51,GXKN7,84e09.63,"cum sociis"
+42111484,5112,98.42,NRZO8,34n65.03,"duis bibendum morbi non quam"
+42222050,1521,79.66,KRKX5,82k65.79,"placerat ante nulla"
+42608688,7603,35.45,WVIC0,59k98.53,"nullam orci pede venenatis non"
+42716744,6510,3.16,XHXB5,60w50.34,"rhoncus dui vel sem"
+42717776,967,88.36,UDNW7,05e12.96,"pulvinar nulla pede"
+42957440,3035,27.57,SOSQ0,16m44.64,"blandit mi in porttitor pede"
+43001081,5109,56.11,AFWT1,35s43.39,"ligula in lacus"
+43073078,5184,72.28,LQEY4,21a12.58,"velit donec diam neque vestibulum"
+43130667,6658,75.68,FEWW4,14b09.14,"lacus morbi sem mauris laoreet"
+43158617,4963,13.76,SJUH4,40i67.59,"in tempor turpis nec euismod"
+43167811,6254,58.9,SODO4,15u01.31,"blandit nam"
+43332218,2385,68,NLJR0,53a53.35,"est donec odio"
+43405711,7969,10.1,YHJB6,44p76.88,"urna pretium nisl ut"
+43415932,1203,20.15,AJFG2,64y27.11,"blandit non interdum in ante"
+43435104,3873,74,KMIV5,60p96.12,"libero quis"
+43907886,1406,71.13,HXCF8,05c32.91,"tempus vivamus"
+43947601,1044,38.58,VEJD0,73z95.07,"lorem quisque"
+43950516,4879,9.64,TNLR2,53m14.66,"integer aliquet massa id"
+43981704,3680,37.34,HUCE8,65a17.69,"praesent blandit"
+44168790,1126,74.29,YPYS7,60r24.93,"fermentum justo nec condimentum"
+44189161,2380,60.89,NOGJ6,61b59.79,"elementum eu interdum"
+44230414,3298,60.39,RHWC0,76o37.89,"etiam vel"
+44297129,1615,28.32,JTBF0,81i94.84,"sem sed"
+44334391,3960,51.65,XUKN7,98f97.29,"risus dapibus augue vel"
+44400781,2993,83.55,PWBH6,21y95.13,"arcu libero"
+44424814,5051,96.89,NEJB3,35p23.15,"eget vulputate"
+44448613,7624,46.43,HCAU1,07u47.71,"neque libero convallis eget eleifend"
+44477008,5683,91.01,HTAR5,50t79.74,"dapibus augue vel accumsan"
+44511053,4343,93.14,XSWL2,87a22.30,"urna ut"
+44642982,1466,18.55,EMYB6,33e45.95,"eu magna"
+44679314,2399,46.25,XNTE0,71u56.79,"mauris enim"
+44720063,4611,52.12,VZHJ7,18q56.67,"morbi vel"
+44754658,7200,27.63,SDNK2,40a03.69,"ac enim in tempor turpis"
+44819995,5008,13.55,WJAN0,97t74.47,"nulla pede ullamcorper augue"
+44970849,6897,20.52,RXTJ6,01o29.74,"dapibus dolor vel"
+44972276,5932,95.58,LEKJ7,37p36.12,"volutpat convallis"
+45009425,567,5.44,KSSM5,05l32.83,"rhoncus mauris enim leo"
+45091856,6975,29.82,YIJS3,70g30.63,"in lacus curabitur at"
+45091861,6097,22.2,VTTA2,58u23.09,"quis justo maecenas"
+45166414,7089,91.69,HQFN8,65v12.07,"eget rutrum"
+45434420,274,85.62,ALFA1,65y45.75,"congue elementum in hac"
+45504259,681,68.24,WAXS6,48q20.84,"luctus rutrum nulla"
+45724286,1326,70.59,ODJR5,78f76.78,"cum sociis natoque"
+45944353,6302,69.98,MLBA8,20g96.04,"at diam nam tristique"
+45966093,4792,83.83,QEBX2,72z91.78,"sed magna"
+46007535,7307,52.83,WBWF7,40s11.57,"eu sapien cursus"
+46207465,6029,12.3,TUGU7,83e53.25,"ipsum primis in faucibus orci"
+46231736,288,26.52,JCWN8,98x13.98,"quis justo maecenas rhoncus"
+46288372,81,89.75,SFQK4,97i39.30,"id massa id nisl"
+46484369,5544,5.93,BDRU0,99g59.59,"congue vivamus metus arcu"
+46514788,3113,12.28,ITAZ2,39v96.21,"nisi venenatis"
+46711212,4628,76.89,EFAI5,18c46.02,"sit amet lobortis"
+46753340,5291,51.51,DFXW9,12g25.48,"a pede"
+46826860,2967,53.89,VXJA4,87i36.67,"sollicitudin mi sit"
+46835136,2705,56.64,MSCZ8,55y68.08,"interdum eu"
+46840346,2712,12.04,PEZW5,53n77.11,"vestibulum ac est lacinia nisi"
+46907178,5520,87.16,QTWS7,40a25.85,"justo etiam pretium iaculis"
+47000763,4744,58.11,LKXA7,86v22.98,"diam id ornare imperdiet sapien"
+47059145,2345,13.99,GLHG1,27f19.34,"suscipit ligula in lacus"
+47094368,6107,20.32,YLMD4,80r43.07,"hendrerit at vulputate"
+47141288,3867,63,WQRJ3,77c69.62,"eu est congue elementum"
+47235654,1924,17.76,DNSY3,86b68.63,"morbi sem mauris laoreet ut"
+47425390,6361,12.23,EERG7,86v28.77,"blandit lacinia erat vestibulum sed"
+47510496,788,55.13,IFKF0,12j58.11,"vel augue vestibulum rutrum"
+47969534,7152,92.26,GCVG8,32y61.47,"ut nunc vestibulum"
+48089690,7529,10.04,VASZ2,14l04.53,"non velit nec nisi vulputate"
+48210221,2640,25.34,XBZZ6,64l67.65,"aliquam non mauris"
+48253125,6676,38.2,WNMD5,02t98.47,"ligula in lacus"
+48261226,7489,82.28,UOJI4,40v55.86,"est risus"
+48378501,7315,89.06,BPGE2,23i64.88,"cursus vestibulum proin eu"
+48522313,4410,8.63,OPXW2,57o80.89,"eget eros"
+48541903,1386,47.97,ENIW9,02x67.40,"vitae nisi nam"
+48648707,4261,93.1,TPWL8,56a38.79,"molestie nibh in lectus"
+48693868,922,26.14,UTLH0,35m91.24,"a ipsum integer a"
+48741655,1937,28.83,SAFP6,15x31.03,"nulla quisque arcu"
+48763055,7755,16.59,YHIZ7,08e66.07,"ante ipsum"
+48787136,4554,14.68,DDCT6,24y38.18,"a nibh in quis"
+48836335,6007,36.78,JIKS2,42y47.27,"feugiat et eros vestibulum ac"
+48856442,1490,64.98,DVHB1,79e71.57,"amet eleifend"
+49000256,81,66.82,JTNC2,74p67.20,"tortor risus dapibus"
+49005124,2803,75.02,ZSOR1,77k97.52,"faucibus cursus"
+49189615,4446,98.52,XZIY2,12b42.78,"hac habitasse platea dictumst morbi"
+49327666,1595,36.31,RLPR2,92d78.81,"turpis enim blandit mi in"
+49334474,2510,78.32,XLZE3,65r87.99,"ac consequat metus"
+49580903,167,3.17,DGCN3,64p22.95,"nulla nunc purus phasellus"
+49727752,2444,25.13,KCOK6,03s23.48,"eleifend luctus ultricies eu nibh"
+49900648,2261,38.99,SKXN5,62h25.98,"iaculis diam erat fermentum"
+50224017,3007,75.9,WPSP4,88t21.39,"amet diam in magna"
+50356734,170,30.84,NSHO4,69u31.72,"condimentum id luctus nec molestie"
+50392007,2702,8.05,MDBB9,66d74.96,"sagittis sapien cum"
+50413876,6849,61.77,EZRC5,26k55.41,"eu magna vulputate luctus cum"
+50438948,3407,22.27,VLAH6,63w63.74,"posuere cubilia curae nulla"
+50556400,7983,58.51,ASEA6,87b45.10,"integer a nibh"
+50600264,4671,19.42,PPWA4,29n64.32,"sed tristique in"
+50649359,4510,96.2,AOKB9,54j41.77,"lobortis est phasellus sit"
+50814704,178,3.07,DHRP4,22s69.79,"nunc viverra dapibus nulla"
+50823954,515,19.24,LADF7,80z43.54,"ut tellus"
+50986427,2173,5.32,GPCD9,77i53.23,"platea dictumst etiam faucibus"
+51038647,7567,54.23,GCTK4,84x00.94,"sapien cursus vestibulum"
+51113502,5290,92.8,FEUY3,27f21.51,"sagittis dui vel"
+51227681,3340,8.09,IKDI6,34u99.72,"sit amet"
+51276231,5036,97.65,RMXL4,83g36.57,"tincidunt eu"
+51352267,6334,85.64,DPHJ6,95p84.39,"odio consequat varius"
+51363963,7899,83.06,ZPUN5,07u64.54,"potenti nullam porttitor"
+51370330,2380,5.35,TQNM5,15f87.87,"sapien urna pretium nisl"
+51489198,1994,27.33,MZMZ9,39a36.54,"penatibus et magnis dis parturient"
+51531823,7290,17.29,ZIHC8,25k04.90,"volutpat dui"
+51538790,856,2.07,TYCY3,02k32.05,"eleifend quam"
+51612473,6437,36.97,BZAX7,01o98.18,"vel ipsum praesent"
+51654732,4840,54.83,UGSG1,64o36.90,"natoque penatibus et magnis dis"
+51661695,3189,33.26,YZLT2,74t42.53,"consectetuer eget rutrum at"
+51768873,5507,65.81,MXIY7,82n67.91,"consequat nulla nisl nunc"
+51987407,165,17.57,QDYH3,75c53.63,"id ligula suspendisse ornare consequat"
+52073157,3602,63.63,OCRQ0,66h01.90,"amet consectetuer adipiscing"
+52175680,4535,83.05,NAHF9,39h95.63,"nascetur ridiculus mus vivamus vestibulum"
+52278166,3337,94.9,LBPC8,69r82.95,"augue luctus tincidunt nulla mollis"
+52298352,4713,67.07,HZSY1,54w09.41,"elementum pellentesque"
+52366103,4433,89.16,RQRA0,22a78.66,"ante ipsum primis"
+52458872,2864,94.05,QFOO5,51n44.96,"purus eu magna vulputate"
+52503791,7399,7.69,PWAS3,13a95.33,"cras mi pede malesuada"
+52518182,4553,2.43,DBUB7,26e85.15,"at nunc commodo placerat praesent"
+52565170,7129,16.82,ZXHX3,57b45.47,"est donec"
+52580986,7436,89.95,HYMQ5,70p72.31,"sed augue aliquam erat"
+52663926,3270,46.26,RMSQ4,99o16.03,"morbi non quam"
+52673289,2244,94.12,HWJA1,15d28.53,"sapien in"
+52703143,5269,96.96,QPUR0,98k07.56,"et ultrices posuere cubilia"
+52713206,6927,66.81,VIXA4,83w51.23,"non mattis pulvinar"
+52852528,6124,40.58,UUUX4,42j90.02,"eu sapien"
+53010113,3576,72.26,OEGL0,11g33.13,"velit id pretium iaculis"
+53278665,5445,3.29,IDLU4,15r68.83,"ut rhoncus aliquet"
+53301004,7964,90.17,OKGH0,31l90.83,"ipsum aliquam"
+53320020,2033,12.87,ACKV4,90o17.11,"amet eleifend pede"
+53324483,1222,51.25,CVNQ3,97u01.94,"aliquam lacus morbi quis"
+53531808,7578,97.04,PVLW9,74g42.36,"erat eros viverra eget congue"
+53591392,1943,39.77,YNCQ1,64v22.08,"sit amet nulla quisque arcu"
+53601876,7633,68.51,RVPJ3,85l26.47,"vestibulum quam"
+53772492,4013,70.58,MDDT1,38y58.57,"non interdum in ante"
+53918015,3974,82.58,ZNEA3,54e36.37,"sit amet erat nulla tempus"
+53922241,6933,97.33,EZRW2,88m02.30,"sed interdum venenatis turpis"
+54027603,4824,33.81,RVGD4,28r79.83,"ac consequat metus"
+54179636,7933,80.3,CEFJ1,38v22.90,"id ligula"
+54187241,2871,21.65,FKGN1,37q77.97,"et magnis dis parturient"
+54245965,754,76.24,ARBV9,66f39.48,"integer ac neque duis"
+54756083,2996,38.45,YSJI2,80d20.94,"quis augue luctus"
+54886356,3076,77.11,CFVJ4,80w06.33,"tincidunt lacus at velit"
+54960956,6983,70.72,XKXA6,72y09.56,"ipsum primis in"
+55010149,2945,68.4,OXNI3,19j43.49,"mauris lacinia sapien quis libero"
+55032822,7348,13.38,DYQF6,12d15.14,"mi nulla ac enim"
+55052360,1576,6.03,KKNQ7,36b20.89,"nisi at nibh"
+55084716,7965,55,DFUP6,37o06.20,"amet nunc viverra dapibus"
+55217837,4711,93.9,PFZA0,06c16.76,"justo in blandit ultrices enim"
+55300677,6014,91.38,AYRE7,02n60.69,"semper sapien a"
+55446306,2010,26.48,ZLNC0,31g64.77,"quam nec dui luctus rutrum"
+55459908,1896,69.96,BKRY6,59v30.66,"lacus at"
+55520518,6135,1.1,BXHO0,02q94.25,"metus arcu adipiscing"
+55744550,4040,28.89,RMIH9,19u14.75,"quis lectus"
+55816144,1304,38.22,DAKK2,67w39.21,"luctus et ultrices posuere cubilia"
+55924744,372,81.73,SWNA8,07d50.02,"nunc donec quis orci"
+55949200,2442,50.02,ZHTC4,18a78.55,"nam tristique tortor eu"
+56167692,1884,51.2,IGUI7,55u23.21,"nulla nisl"
+56190771,6891,90.79,DRWG9,99l39.70,"ipsum dolor sit"
+56214373,1017,10.42,CBQU4,64l60.84,"nonummy maecenas tincidunt"
+56224878,4617,98.08,DLXP1,17y71.65,"ipsum dolor"
+56240787,2948,93.11,PWUU7,77n31.06,"eget eros elementum pellentesque quisque"
+56303038,4222,37.35,QWEE1,42b83.90,"nisi eu"
+56564202,7565,71.5,LZNO1,52y20.21,"rutrum nulla nunc purus phasellus"
+56612726,1199,28.2,IVKX0,29l54.34,"turpis donec"
+56673021,3669,47.99,SFJF9,48h07.49,"sed sagittis nam"
+56873153,4974,1.92,TSIO3,74z78.28,"rutrum neque"
+56952042,1602,70.54,WTAJ2,35o53.15,"lobortis est"
+57029025,4318,12.43,FQBI0,74n65.68,"faucibus cursus urna ut"
+57054437,3849,74.36,TVNA0,00x81.45,"imperdiet nullam"
+57170412,2236,70.5,WCFG7,65h30.52,"volutpat sapien arcu sed augue"
+57224618,1834,98.36,YZVK1,17h81.10,"augue vestibulum rutrum"
+57372336,2095,69.12,RCPC1,20e58.40,"nisi at nibh in hac"
+57472504,3261,53.36,VIBS6,35z66.01,"aliquet ultrices erat tortor sollicitudin"
+57628913,5286,46.82,IKIW8,02k40.37,"nisl nunc nisl duis bibendum"
+57670433,4079,37.47,JIBD2,87m82.81,"aenean sit amet"
+57762202,4426,49.58,NGCG2,95i24.42,"posuere cubilia"
+57850566,2878,1.94,ONDB7,04y71.71,"nulla sed accumsan felis ut"
+57852866,924,95.36,MQPD5,40f06.32,"sit amet sem"
+57944309,1033,51.34,BRYS2,61w70.11,"diam cras pellentesque volutpat dui"
+58126683,6337,98.05,OJOJ0,05r78.55,"aliquam augue quam sollicitudin vitae"
+58168848,6739,86.98,DBJU1,16m25.85,"primis in faucibus orci"
+58267147,7014,65.9,TWKP3,51r62.50,"donec vitae nisi"
+58414214,5669,67.95,ZYOY3,46j48.34,"dapibus nulla suscipit ligula in"
+58464313,6394,98.32,GFEZ7,68q36.45,"ac consequat metus sapien"
+58465685,6258,48.46,KCAC9,72k75.71,"tristique est et"
+58476635,5999,76.46,QPKE0,33b01.18,"turpis a pede posuere nonummy"
+58486811,787,6.01,ELUW3,07x11.07,"consectetuer eget rutrum at"
+58585836,455,37.83,PVJK1,52n57.69,"nec dui"
+58624170,1641,72.14,IIYJ8,23c24.94,"turpis elementum ligula vehicula consequat"
+58692735,1656,62.9,CWFE0,49l37.23,"aliquet pulvinar sed nisl"
+58798407,5590,50.74,XLXF7,44z65.36,"ipsum primis"
+58827851,4428,35.57,BWTS1,31k36.45,"neque sapien placerat ante"
+58836607,4223,6.03,QZVM6,18f43.17,"varius ut"
+58949669,1573,7.78,BYZG4,93r16.95,"sem sed sagittis"
+59141633,4910,7.3,NBSH2,44b20.66,"interdum mauris non"
+59391730,4829,1.43,MRFG1,36g31.34,"ante ipsum primis in faucibus"
+59397981,2155,62.55,EIKT5,34m75.14,"hendrerit at"
+59402177,2133,90.78,FZFC8,89l30.47,"proin interdum"
+59474437,410,77.17,EJYE3,53r87.73,"vel dapibus at diam"
+59479845,6205,92.24,OAPI9,90o26.32,"dapibus duis at velit"
+59516181,1960,38.67,TMAU1,25o11.02,"duis bibendum"
+59605406,6146,59.38,GPFK8,92s13.92,"faucibus accumsan odio"
+59854666,737,9.81,FPFS2,21g74.84,"at feugiat non"
+59864370,4884,81.77,MYJG3,33n55.87,"maecenas tristique est et"
+59900489,6926,76.87,ULUK6,76x88.52,"donec dapibus"
+59993354,5312,88.53,CZEX7,87w33.01,"sit amet diam"
+60014960,7048,25.12,SBZZ0,95v98.01,"cras pellentesque"
+60137481,3486,9,WFRI9,21t88.40,"nulla elit ac"
+60465634,2439,15.73,YKWE8,92m41.10,"aenean sit amet"
+60483587,874,63.9,MZGI6,10i77.28,"tempus vel pede morbi porttitor"
+60504618,6363,79.8,EBZW5,75n68.37,"lacinia nisi venenatis"
+60524774,1513,13.71,YMOH5,31e05.83,"feugiat et eros"
+60621565,6082,5.19,MSSE3,97e48.50,"in eleifend quam a"
+60682898,231,68.12,EVIP0,11p20.98,"faucibus orci luctus et"
+60802557,3853,88.19,DKKX3,68g23.44,"molestie nibh in lectus pellentesque"
+60954323,4848,95.74,MEBQ0,99k35.69,"quis lectus"
+61033136,5190,40.18,IQPH3,68b10.55,"dis parturient"
+61142567,7108,59.07,VLCB4,11s75.19,"ante ipsum primis in"
+61261312,670,20.33,KUIM2,44r73.80,"eu mi"
+61348900,3519,19.36,OFYY8,34v72.19,"consequat morbi a ipsum integer"
+61404238,6632,38.37,AXZK8,50u34.68,"aenean auctor gravida sem praesent"
+61610793,5403,57.16,RWCV8,64f55.76,"eu est"
+61616194,236,90.9,NCZO0,93i16.91,"vestibulum aliquet ultrices erat"
+61676479,7589,49.99,RMTL8,79g30.93,"risus auctor sed"
+62506033,772,21.37,HUUG8,81y60.54,"venenatis tristique fusce congue diam"
+62576431,2913,85.97,NBHL2,45d79.17,"nisl aenean lectus pellentesque"
+62752319,355,13.65,FPJE6,53e27.34,"eu mi"
+62791194,5528,72.86,GROG9,90n51.28,"non mi integer ac"
+63402786,7555,99.05,NDON0,48p54.01,"pede morbi porttitor"
+63494926,960,57.27,RYBT9,59b65.11,"vulputate luctus cum sociis natoque"
+63633171,3249,38.78,CAUG1,97e10.30,"aenean auctor gravida sem"
+63685925,4748,36.24,FUZA4,10w43.53,"ullamcorper purus sit amet nulla"
+63792204,59,16.91,EVQY9,77w06.94,"nibh in quis justo maecenas"
+63944909,2646,83.27,RRNM5,94m48.29,"nisi volutpat"
+64163301,5855,52.39,EYDL4,76d09.98,"integer tincidunt ante vel"
+64201149,4457,89.47,CGGC9,04s20.96,"ac enim in tempor"
+64240400,5311,87.41,IZIR9,03i35.75,"massa quis augue luctus tincidunt"
+64362858,708,50.26,FSID6,44u25.35,"cum sociis natoque penatibus"
+64511452,5654,75.95,KNVC3,88o40.62,"integer aliquet massa id lobortis"
+64523973,5710,31.79,BFWS1,80b97.77,"magna vestibulum aliquet ultrices erat"
+64578847,4126,87.99,ACDS1,66i16.57,"est lacinia nisi"
+64713825,1919,99.68,YGXU6,36y13.05,"et magnis dis"
+64731189,1564,67.23,QLXR6,19w86.89,"viverra eget congue eget"
+64786065,3900,20.28,AECO7,82x44.97,"id massa"
+64904702,2127,17.91,FNRO2,44s30.70,"nulla mollis molestie lorem"
+64963731,3695,77.08,AQEN0,42g44.80,"mauris viverra diam"
+65034374,4321,38.35,EPWB7,97c82.66,"convallis nulla neque libero"
+65063997,3645,17.97,HVHX9,08g21.52,"sagittis dui vel nisl"
+65116762,3595,36.23,GAGP4,03x72.86,"morbi a ipsum"
+65518956,7554,30.07,CBEL5,78y42.10,"tincidunt nulla mollis molestie"
+65533993,5364,56.84,KYUE2,87q63.29,"nulla suscipit ligula"
+65563687,6979,67.76,XYPJ1,40b33.36,"ut tellus nulla ut erat"
+65600315,4433,88.63,FBTZ8,42y25.65,"justo maecenas rhoncus aliquam lacus"
+65716179,25,16.41,LNMO8,14e78.55,"id sapien"
+65784170,2703,29.84,VXAV2,01w88.37,"odio justo sollicitudin"
+65796844,417,84.35,IBWO5,85c97.63,"proin eu"
+65917683,6473,5.29,NJKH5,35f20.26,"rutrum at lorem"
+66024646,2461,16.64,XWDZ1,49e99.47,"nam congue"
+66084001,6656,85.23,RCJF8,76x41.71,"eget tincidunt"
+66129332,7630,3.34,CFBN1,06y57.75,"mus vivamus"
+66138572,6751,82.22,ERIN5,94o06.93,"lacus morbi quis tortor id"
+66261594,1620,49.74,KMPG1,79c53.18,"pede ullamcorper"
+66268644,5907,60.58,QCVQ7,21m76.94,"ridiculus mus etiam vel augue"
+66490468,7384,90.92,LTDQ9,33b72.25,"hac habitasse platea"
+66663171,1063,93.36,KFYP3,26b46.26,"pretium iaculis justo in"
+66727935,7287,24.34,SJTA8,63e08.70,"dictumst morbi vestibulum velit"
+66763316,7140,16.64,BWOF3,42x37.00,"ultrices posuere"
+66855522,3875,86.16,YYXD6,44q54.28,"sapien placerat ante"
+66906705,5728,77.89,NRDW9,39y74.22,"sapien iaculis congue"
+66924742,5708,58.2,FBIS5,41n17.22,"sapien in sapien iaculis congue"
+67024543,5800,55.47,LVME2,00w02.07,"pellentesque ultrices"
+67259294,7124,3.33,VHEM9,70l83.04,"risus dapibus"
+67310758,2302,5.09,ELAT3,03a61.85,"tellus semper interdum mauris ullamcorper"
+67382238,4100,4.14,KSQF5,30j22.45,"ac est lacinia"
+67479420,7672,34.26,KMMG9,80u61.53,"congue risus semper porta"
+67609140,295,54.56,TMPK6,12h41.67,"vestibulum sagittis sapien"
+67742363,7134,70.45,TBSC8,63z17.07,"justo morbi ut"
+67758018,2430,1.54,TPBQ2,95w60.79,"erat curabitur"
+68069749,1859,44.4,FPFM1,98d29.08,"eget elit sodales scelerisque"
+68164061,7361,59.68,SNEE6,66t02.33,"elit ac nulla sed vel"
+68349248,2633,51.61,FYLX1,12o58.08,"massa quis augue luctus"
+68485356,4988,89.45,FYKK3,58a50.71,"id massa id nisl"
+68782750,5041,56.96,IPLE3,23c15.91,"velit nec"
+68794652,6163,30.03,LOTQ2,65l91.72,"elementum ligula vehicula consequat morbi"
+68876264,4713,57.93,OBPL5,32o11.77,"et commodo vulputate justo in"
+68883751,3820,14.64,WVPS8,44l61.57,"vel nulla eget eros elementum"
+68898847,2947,94.19,ISGV0,18h66.02,"dapibus nulla suscipit"
+68947902,2537,77.72,HQBV9,32z09.99,"proin interdum"
+69140803,2330,34.34,TXZM9,60i10.52,"molestie nibh"
+69242013,2543,31.1,PUEN0,00f19.07,"arcu libero rutrum ac lobortis"
+69243656,4129,89.11,IGFB9,41x81.90,"vitae ipsum"
+69293445,3818,81.81,OONU1,58s72.25,"nec condimentum neque"
+69515286,7025,19.32,NPEQ9,82o05.79,"phasellus sit amet"
+69755939,3134,95.28,NKGF5,68g24.19,"eros suspendisse"
+69841952,568,61.3,SXOM2,76c67.88,"mauris morbi non lectus"
+69971656,3475,15.5,XEZF7,14x05.62,"rutrum at lorem"
+70056778,4765,79.49,GBSG6,38k55.87,"in faucibus orci luctus et"
+70290482,6009,26.36,RZTK5,36h39.77,"imperdiet nullam orci pede venenatis"
+70314560,2708,42.66,GMCH6,04u20.40,"hac habitasse platea dictumst"
+70356545,2249,42.93,AHMO7,36g34.29,"penatibus et"
+70709838,3442,69.25,QHGQ3,62u20.86,"elit sodales scelerisque mauris sit"
+70787464,1249,37.51,IQWV6,43h57.72,"fusce lacus purus aliquet"
+70791784,6190,30.6,ZVQD5,79i39.65,"ipsum dolor"
+70837602,6233,69.46,NRTQ5,89k16.65,"erat eros"
+70961219,6592,33.67,AWSB5,89q76.86,"a nibh in"
+70991193,3111,11.99,CNGX2,61h64.32,"dapibus augue vel"
+71071337,6,74.59,XTKW4,69b31.91,"nibh quisque"
+71100977,2120,62.52,TITJ6,65x07.65,"primis in faucibus"
+71215151,520,41.99,LKSZ0,39s59.49,"ipsum primis in"
+71237497,7156,35.66,SYZP0,19g06.66,"sed ante"
+71401741,4720,98.72,AIUI9,43u69.27,"imperdiet sapien"
+71441825,5435,72.94,TRRQ6,44j88.70,"pretium quis"
+71464323,212,12.63,XQFH8,08y51.49,"vestibulum aliquet ultrices erat tortor"
+71676219,4571,70.25,PRNP5,13m14.81,"tellus semper interdum mauris ullamcorper"
+71723494,5129,40.53,BZNH4,40v10.24,"nulla quisque arcu"
+71803736,6497,69.94,BXJI7,59i45.52,"rutrum at lorem"
+71805888,1903,96.65,ETDQ5,81e60.70,"sed vestibulum sit amet cursus"
+71827175,7998,46.55,TRLO5,98m89.42,"vestibulum ante ipsum primis in"
+71939593,2988,72.64,OVKN4,84m53.56,"etiam vel augue vestibulum"
+72141944,238,24.51,MWXT3,96i38.04,"turpis sed ante"
+72189589,5038,65.12,AFVC3,18y51.94,"diam nam tristique"
+72336119,6099,98.71,OBNK4,31j64.07,"dui vel sem sed"
+72394794,7539,2.91,THOB5,77b56.41,"integer tincidunt ante"
+72481260,1593,64.07,KANP7,20l87.72,"felis sed lacus morbi"
+72488974,1290,22.01,PCHV4,20k88.24,"consequat dui nec nisi volutpat"
+72733764,2836,71.81,GUJC0,38q79.98,"faucibus accumsan odio curabitur"
+72882995,6984,91.18,ZDCK6,86p40.93,"vel lectus in quam"
+72973137,241,20.21,YMJU6,68f42.72,"metus sapien"
+73161029,589,7.26,ICLL0,76h30.26,"molestie lorem quisque ut"
+73244482,1230,73.2,MXUA6,93i17.42,"aliquam erat volutpat in congue"
+73279369,2299,24.92,VGUI3,58f63.08,"sapien cum sociis"
+73346070,4630,29.97,JKUM9,29b97.81,"venenatis tristique fusce congue diam"
+73347286,4014,7.11,NUER2,16v53.29,"curabitur gravida nisi at"
+73596262,862,41.38,WKVU5,58i91.42,"facilisi cras non"
+73938637,982,9.5,LLOR2,23x61.27,"pede morbi porttitor lorem id"
+73942390,419,62.01,JECH7,83b16.51,"praesent id massa id nisl"
+73970250,951,36.73,YHVK2,57h91.53,"semper rutrum nulla"
+74244621,7701,82.93,WSNZ8,70b57.07,"rhoncus dui vel"
+74625921,6080,70.79,QEHR2,68g18.62,"mi sit amet"
+74981690,755,93.59,HYZR5,38n31.64,"nullam varius nulla"
+75029791,476,24.65,BKXN7,74q13.70,"vitae nisl aenean lectus"
+75085748,4466,23.34,ELLI3,18p57.77,"consequat in consequat"
+75101947,1408,88.2,NKYI5,48w03.76,"nisl venenatis"
+75118821,7356,12.52,DFHI7,13a35.37,"metus aenean"
+75351036,6079,17.11,KGNZ5,46h88.64,"elit sodales"
+75451023,494,17.35,AMVE3,55o35.68,"volutpat sapien arcu sed"
+75592836,3921,37.18,OVEJ6,93s07.51,"ultrices posuere"
+75632434,5245,27.33,QREA8,80y74.30,"ac lobortis vel dapibus"
+75667137,4215,25.33,XQIY2,43f68.42,"sem praesent id"
+75708213,7337,27.2,GSLA2,08t26.32,"ipsum primis in"
+75764388,4226,50.37,IEMG5,28n53.85,"maecenas pulvinar"
+75833779,2234,64.45,MKXV5,96f10.99,"enim leo rhoncus"
+75874643,5199,92.71,LACL1,25t60.51,"rutrum rutrum"
+75894902,7491,95.92,RDAR9,82a52.57,"cursus urna"
+75935150,1023,64.13,CABT1,75g54.75,"dolor morbi vel lectus in"
+76014959,2196,85.44,BFTZ6,11n75.67,"in imperdiet et commodo vulputate"
+76096200,1515,30.26,FWIS4,63c68.20,"duis bibendum felis"
+76265332,2802,59.74,WXXD9,11i85.40,"ultrices enim"
+76300109,7525,27.02,IKYU9,07o85.25,"at diam nam tristique tortor"
+76314124,1239,33.81,NVQZ4,93x25.61,"sociis natoque penatibus et magnis"
+76352316,1660,2.99,RXON5,13j03.37,"lobortis est phasellus"
+76437146,3849,68.68,JKMV8,20b80.92,"erat eros"
+76471948,1154,59.45,ZDCF0,13z86.16,"nisl venenatis lacinia aenean sit"
+76509162,2999,82.53,RMKX7,15a56.15,"pretium quis lectus"
+76524937,2191,1.46,WDAA4,52m81.75,"nulla elit ac nulla sed"
+76652491,2515,60.46,ITNX7,69o70.90,"quisque porta volutpat erat"
+76753062,2329,19.28,KGRC0,72f12.99,"mauris sit amet"
+76763333,6563,59.3,WOWL8,89s45.41,"phasellus sit amet"
+76808563,5425,42.31,LIOA5,71p37.17,"non velit donec diam"
+76971687,7268,36.02,LNRS5,79i07.80,"amet diam in magna"
+76999260,268,52.19,RQQW3,51r08.43,"eu sapien"
+77148317,2568,32.72,MUKA0,61l70.01,"eu sapien"
+77153479,5297,3.45,CVXP0,97o19.56,"elit ac nulla sed"
+77207668,7121,87.1,ZZPE1,66z33.81,"sit amet cursus id turpis"
+77332464,4880,38.57,VSZD7,01a74.35,"sodales scelerisque mauris"
+77439274,2577,13.1,HCXK6,99k96.55,"dui vel nisl"
+77702617,315,96.5,ZUQB9,38y81.01,"mollis molestie lorem quisque"
+77744833,6077,60.41,WULA0,35r94.71,"risus auctor"
+77790889,3901,66.08,IKBA1,96n83.58,"in quis"
+77911467,306,90.04,NHGO9,72k81.60,"diam neque vestibulum eget"
+77947923,541,91.77,PUFW4,24a37.01,"tincidunt nulla mollis molestie"
+78072861,2866,59.14,KAVR4,87d44.80,"sit amet"
+78180309,6399,19.39,VTOX2,35f04.57,"lorem integer tincidunt"
+78199727,6365,10.27,JETT5,81t69.85,"tincidunt nulla mollis"
+78530313,6068,15.08,ULAN6,10o93.92,"odio in hac habitasse"
+78559276,3044,25.96,IOHW1,44r39.05,"urna ut tellus nulla ut"
+78665644,1924,3.6,TRWD8,47z48.67,"ut blandit non interdum"
+78796403,3554,49.75,HMDY9,82z34.55,"consectetuer adipiscing elit proin risus"
+78893496,4560,44.04,MFNF6,30c65.84,"morbi non quam nec dui"
+78904109,3830,67.74,ZLRL4,99r34.98,"faucibus orci luctus et ultrices"
+79120171,2741,9.2,TZUL7,81q94.94,"vel lectus in quam fringilla"
+79157100,3853,51.99,CGCK7,01v33.81,"ut ultrices vel augue vestibulum"
+79176020,7252,65.17,FJLN5,96i47.84,"libero quis orci"
+79239722,4066,33.88,PBXV7,59z45.11,"dui vel nisl"
+79410610,6795,91.28,MCRZ6,61y25.37,"massa donec dapibus duis at"
+79592479,7670,84.79,APIF7,07z01.96,"tristique est et"
+79611938,5125,10.79,RSHG1,85y25.88,"ac est lacinia"
+79622985,7819,53.35,RPLC1,59q98.72,"ut odio cras"
+79624029,4822,72.47,DHAI3,96k89.33,"vel lectus in quam"
+79643571,6276,83.55,TIGY0,65i82.65,"turpis elementum"
+79655126,5213,25.3,YLZP5,62q94.35,"nulla dapibus dolor vel"
+79704152,6297,59.69,QLUP7,54p35.10,"dapibus dolor vel est donec"
+79892231,3004,69.18,VELZ4,18h68.01,"congue diam id"
+79945637,6092,19.39,VFTC3,63z60.37,"curabitur convallis"
+80027457,2408,92.55,XJDZ0,42o68.59,"libero rutrum ac lobortis vel"
+80193863,4882,11.49,SPZN7,70g64.56,"id ornare"
+80470723,5290,98.65,LRET0,07a10.02,"mauris laoreet ut rhoncus aliquet"
+80486323,5434,67.99,CZOV3,97y86.94,"volutpat erat"
+80506076,539,55.68,SSTU9,60z14.67,"ut nunc"
+80852129,3164,64.94,YDRV9,17k09.37,"cubilia curae"
+81151988,950,57.16,ROAJ7,78a44.47,"phasellus in"
+81255406,5093,36.4,CZJI6,78j04.90,"id turpis integer"
+81297046,5369,14.13,GAMP6,05a11.78,"quis orci nullam molestie"
+81412105,26,66.01,RUTT9,44k99.95,"ultrices erat"
+81436121,2067,24.34,KDEC5,01n01.79,"primis in"
+81463310,3743,20.9,RYIH5,06b49.13,"tempor turpis nec euismod"
+81606337,2010,13.73,VLPC8,39g38.45,"quam nec dui"
+81635464,5006,88.1,CUQJ4,10v13.29,"pede justo eu massa"
+81675104,7879,90.65,BZCH2,10y44.16,"parturient montes nascetur ridiculus mus"
+81891674,5923,1.07,BCGC0,08h88.31,"semper porta volutpat quam"
+81929320,4286,18.8,GKHT4,07g27.08,"aenean auctor gravida"
+81946020,847,75.38,VNUZ3,98q42.17,"sed tincidunt eu"
+81983762,1158,83.38,NTXJ3,12u21.69,"vitae nisi"
+82090471,4557,84.2,FXAK0,37r65.37,"velit donec diam"
+82093826,4029,76.57,LPRQ1,62l96.26,"aliquet ultrices erat"
+82633606,6262,66.89,GBAK6,18w95.37,"blandit nam nulla"
+82639019,2481,92.76,BYJM6,53f03.01,"sit amet"
+82782808,4586,14.09,UIOZ1,36j25.40,"aliquam quis turpis eget"
+82812015,6993,79.88,PRRW8,81o63.10,"phasellus in felis donec semper"
+82837766,7817,59.38,GNRT3,06b96.58,"ipsum ac tellus semper interdum"
+83395155,7482,84.34,HHJI0,91f00.36,"eros vestibulum ac est"
+83412549,4511,33.73,JIGC7,95g11.47,"et magnis"
+83514845,3969,93.68,EQXD6,64z48.50,"platea dictumst"
+83529814,5603,8.77,HUYG5,72u49.73,"nulla nisl nunc nisl"
+83672945,1008,32.83,TZXI3,19u04.94,"pharetra magna vestibulum aliquet"
+83735518,5752,5.42,MWHM0,68u96.56,"vehicula condimentum curabitur"
+83816640,4905,42.77,OVQB5,06u52.83,"malesuada in"
+83839772,7390,7.09,BBLO1,34y73.14,"vel accumsan tellus nisi"
+83975731,2843,36.39,YONG1,87d56.67,"lectus aliquam sit amet diam"
+84180179,5034,33.63,XBPW8,40h09.08,"non interdum in ante"
+84347385,4054,96.85,FKGH9,84o45.25,"felis fusce posuere"
+84353375,4193,31.07,SOUM2,88l04.57,"in faucibus orci luctus et"
+84515476,2552,38.52,AMSI5,57m34.80,"adipiscing lorem vitae mattis nibh"
+84558426,2520,99.65,TTVI2,49q84.00,"integer pede"
+84600729,3711,51.33,VWGK4,30u84.80,"felis fusce posuere"
+84615506,4965,30.3,TRRS6,52s33.96,"maecenas tincidunt lacus"
+84736117,894,79.81,CHAY4,80h75.22,"posuere metus vitae ipsum aliquam"
+84740862,4865,35.53,LVXQ4,68z22.49,"luctus et"
+84798931,5545,53.66,UGGY3,27h73.81,"risus dapibus augue vel"
+84908211,1747,99.26,DCRW8,28a64.25,"adipiscing molestie"
+84945362,2632,46.53,PAFH7,75p74.44,"accumsan felis"
+85024055,2253,47.79,QICP2,26e20.26,"sapien a libero nam dui"
+85241729,4228,94.92,PPBE9,02i20.86,"felis ut at dolor quis"
+85296013,7556,14.14,LKUP6,85v75.32,"congue elementum in"
+85541486,1433,54.5,YBKL4,98j89.59,"magna vestibulum"
+85667720,6704,33.33,FGGV7,78d58.89,"nunc viverra dapibus"
+85717704,670,5.15,EPDU7,00b35.08,"turpis eget elit sodales"
+85886191,3308,13.74,YWQS6,50r01.52,"ante nulla justo aliquam"
+85939716,2260,20.73,GHPG1,53x17.62,"in hac habitasse platea"
+86042401,149,84.23,NGAB2,05b18.84,"sed lacus"
+86053343,4384,99.94,EVVB6,96e25.61,"sed ante"
+86235978,5988,48.92,IBIR4,30a08.61,"eu sapien cursus vestibulum"
+86379717,3761,69.76,OVRF4,96e12.03,"porttitor pede"
+86474775,2147,91.75,NDYF1,47g72.35,"consequat nulla"
+86603354,522,59.03,WHFU1,29b94.64,"in faucibus orci luctus"
+86694988,4501,31.32,AHVI6,43z88.92,"platea dictumst"
+86713799,7537,62.5,KEUA4,37g09.66,"rutrum ac lobortis vel"
+86742523,1989,32.79,JLIO2,96a55.73,"eros viverra eget"
+86945147,6796,16.05,DQHU9,40l75.56,"vel nisl duis"
+86953325,359,92.08,DVNV9,31w86.41,"vulputate vitae nisl aenean lectus"
+86960312,7374,70.04,PGLH7,89r84.46,"felis sed lacus morbi sem"
+87067249,985,39.6,SOTU3,75n46.35,"quis augue luctus tincidunt nulla"
+87172832,2452,34.15,WSHE5,42m14.58,"aliquet pulvinar sed"
+87194328,5733,67.48,YKZS5,78o59.02,"dui maecenas tristique est"
+87257624,3927,12.58,IFKE5,29o03.11,"leo pellentesque ultrices"
+87412372,3402,2.69,LDRS5,55j53.25,"odio elementum eu"
+87424270,5203,42.5,CBBS4,32v45.12,"rutrum neque"
+87581095,5279,56.59,TEOY9,05c94.46,"vulputate vitae nisl aenean"
+87672377,7689,33.67,LSYO3,37x63.99,"luctus et ultrices posuere"
+87700844,6222,9.51,EXUB8,67a51.24,"lacus curabitur at"
+87770934,3243,56.01,EMTM3,01w52.64,"neque sapien"
+88048931,6942,52.74,DTKA0,36g18.67,"volutpat quam pede"
+88050873,1301,59.83,CRPI5,53v28.80,"nulla suspendisse potenti cras"
+88114103,3873,8.61,SYLX5,99z70.26,"amet justo morbi ut"
+88244404,3492,74.61,EAVR3,51i79.64,"condimentum id luctus"
+88507060,3663,90.95,PWSV8,35v35.63,"non velit donec diam neque"
+88575090,1375,55.96,DPQN3,52e80.96,"hac habitasse platea dictumst morbi"
+88620666,6019,18.83,LMXO1,87v61.66,"orci luctus et"
+88850984,3613,95.54,TNOR4,11w30.60,"aliquet ultrices"
+89162601,3930,34.9,MDLP2,46m65.15,"amet nunc viverra dapibus"
+89238319,1866,27.12,GCAL6,63r40.66,"sed ante vivamus tortor"
+89351977,7457,25.11,CSYY0,86p96.06,"convallis nulla neque libero"
+89436411,432,36.54,YNLC6,38x50.32,"vehicula condimentum curabitur in"
+89619214,3941,66.19,SJNQ4,02s02.32,"duis ac nibh fusce"
+89666479,4190,70.12,KFZA4,47q70.19,"nibh quisque id justo"
+89739436,1088,5.62,YKDV9,39o63.13,"vitae nisi nam"
+89753960,2173,85.53,ESLI8,22t64.49,"augue vel"
+89765866,3348,10.88,LYWI0,92g62.06,"tristique est et tempus semper"
+89976998,944,49.26,OMGY0,62u81.18,"morbi ut odio cras mi"
+90125948,6420,38.18,TLHR9,30n33.75,"in blandit ultrices enim"
+90268457,3995,21.04,XWLD3,09v63.96,"justo sit amet sapien"
+90419543,2268,93.59,QJTC5,32n72.46,"eget vulputate ut ultrices vel"
+90455328,4680,84.89,SPBK4,36x16.01,"metus sapien ut nunc"
+90543912,5576,36.03,CXCM8,52s88.44,"odio in"
+90720615,6373,98.61,NTDJ7,84o16.47,"dapibus nulla suscipit"
+90959589,421,80.47,UDHP7,24a97.59,"sociis natoque penatibus"
+91009213,5330,57.85,DASK5,88u99.74,"massa tempor convallis nulla"
+91044074,5482,80.55,SIIX0,84t28.27,"morbi porttitor lorem id ligula"
+91210993,2209,96.91,ZRVS9,67n45.53,"libero non mattis pulvinar"
+91289678,6572,19.66,NEGF1,13j27.76,"nibh fusce lacus purus"
+91292861,4051,47.92,RLDB2,82n39.22,"venenatis non sodales"
+91331461,7233,82.11,ZJBQ1,42w49.02,"hac habitasse platea dictumst"
+91627104,6255,58.07,OBNQ0,19v79.84,"volutpat dui maecenas"
+91837175,3362,1.27,DGJU7,85t18.84,"ut erat"
+91981565,2830,96.8,DUGA8,37b40.98,"libero nullam sit"
+92100991,5190,39.18,DXSI9,74n82.56,"nisi nam ultrices libero non"
+92187564,4264,80.44,DHEX3,52l99.83,"id nulla ultrices"
+92497174,3109,75.67,WHVZ9,77y17.36,"justo etiam pretium iaculis"
+92533031,6983,35.22,ILWD2,28b15.84,"ipsum ac"
+92567566,4987,26.94,MQAE4,89y55.32,"ultrices enim lorem ipsum dolor"
+92608630,4920,27.72,QARV2,54y38.64,"vestibulum ante"
+92698748,1294,85.74,RUQM3,78b20.76,"lorem ipsum"
+92758553,7356,40.34,GJPB0,45j51.07,"ligula nec sem duis"
+92835009,490,83.16,YOUO8,90a50.26,"viverra eget congue"
+92919506,1751,87.29,YKEB4,59s22.30,"ut at"
+92947847,5110,47.35,CGJS9,24t36.99,"ut odio cras mi pede"
+93071622,1901,5.11,BSVJ2,65o08.76,"proin at turpis a pede"
+93345052,7161,21.77,HGOZ2,05t02.37,"iaculis justo in hac habitasse"
+93459247,1651,29.16,MRWF6,19z33.92,"faucibus orci"
+93467596,7506,23.82,LWIB2,11i84.45,"egestas metus aenean fermentum donec"
+93602747,892,93.17,RSXP4,01b49.81,"blandit nam nulla integer"
+93948307,460,34.74,ORBT0,70z64.07,"fusce posuere felis sed"
+93998501,6884,92.93,HXHJ6,51m18.82,"odio cras mi pede"
+94190603,1382,61.09,FEZT1,39x64.39,"ultrices vel augue vestibulum"
+94264880,3952,79.46,QAUM7,24s60.63,"quis orci nullam molestie"
+94311118,7053,46.35,UYIW7,75j78.19,"sed justo pellentesque viverra pede"
+94339330,2833,64.24,ICXN9,64z02.54,"odio in hac habitasse platea"
+94397508,3250,28.18,CNSP1,03t28.05,"condimentum id luctus"
+94424425,789,61.64,UHDB3,58q09.91,"facilisi cras"
+94598602,3523,6.18,SUEV2,74k14.55,"a suscipit nulla elit"
+94618495,2632,33.43,ZQCX7,42m72.03,"ac neque duis"
+94734603,3717,64.55,FZSE8,09v88.29,"luctus ultricies eu nibh"
+94990622,7083,66.38,SXQJ3,15r22.51,"maecenas tristique est et"
+94992528,6532,64.61,BCTA6,80z62.24,"quis augue"
+95039306,7138,79.5,ADUH8,95j05.62,"nulla integer"
+95117613,5819,34.82,BBXL8,98a72.40,"nam ultrices libero non"
+95201213,4445,83.01,JZKZ9,03n35.18,"felis sed interdum venenatis turpis"
+95475766,5896,5.03,LGIG0,80a22.49,"amet diam in magna bibendum"
+95492264,736,71.83,OMJB2,76c32.79,"eu felis"
+95492551,3487,23.14,CWBT5,36z28.56,"auctor sed tristique in"
+95613039,1681,17.65,JXBY0,24e20.25,"ut rhoncus"
+95697806,2650,67.23,MBZF8,42y78.46,"lacus morbi"
+95716906,4931,93.03,VNRC9,65y16.78,"amet lobortis sapien sapien non"
+95976497,3655,98.77,JBSM2,96b28.79,"pretium nisl"
+95996022,2797,29.41,GNLG2,17a14.05,"tempus vivamus in felis"
+96161126,5774,53.76,MSDK8,16o62.53,"purus aliquet at"
+96329431,2882,51.58,TJDA3,40t05.93,"pulvinar sed nisl"
+96354851,1015,82.13,AGUQ1,00w79.83,"nec dui luctus rutrum"
+96371268,4510,66.18,VQPG7,73k71.19,"lacus at turpis donec"
+96416492,6269,98.9,XPOB3,07a52.74,"quisque porta volutpat erat quisque"
+96464032,7242,76.66,EAPB0,65m21.01,"lorem ipsum"
+96507519,5797,82.12,JHPY1,30v16.60,"ut rhoncus aliquet pulvinar sed"
+96521431,2623,87.79,VYFM5,94r93.21,"consequat metus sapien ut nunc"
+96600714,429,42.08,AJTP3,15e85.11,"primis in faucibus orci luctus"
+96673221,5796,39.02,KYUC8,92n01.63,"semper interdum"
+96750980,6363,49.33,QNWG6,63n72.26,"platea dictumst"
+96868658,803,89.97,DJFL4,38u44.96,"quisque id justo"
+96871212,3388,5.38,AEGE8,13n97.30,"turpis sed ante vivamus tortor"
+96959310,2565,51.23,MIAL6,84e23.12,"vestibulum sed magna at nunc"
+97032123,787,47.9,JIQP7,19l26.16,"curae duis faucibus accumsan"
+97135300,7607,37.62,AEXD8,16j59.00,"id luctus"
+97195770,3261,80.93,DYNM0,34z46.49,"a nibh in quis"
+97216388,2107,8.64,HBHJ1,07b92.26,"penatibus et magnis dis parturient"
+97427488,7005,63.03,SNMY4,58z77.98,"in est"
+97997726,7905,19.47,TSCS7,41w44.54,"integer aliquet massa"
+98053476,1918,3.43,YOGG2,67f51.28,"fusce congue diam id ornare"
+98273308,6265,18.7,IEDO8,56r02.40,"penatibus et magnis dis parturient"
+98316619,638,20.9,FVCH8,62o93.55,"ultrices libero non mattis pulvinar"
+98504209,3405,65.34,GBPF0,91q89.28,"pede ullamcorper augue a suscipit"
+98517499,4050,46.59,LEPS9,56x87.19,"aliquet pulvinar"
+98585191,2705,41.8,LHVN0,28w11.07,"arcu sed augue"
+98588861,1979,33.52,WGYA2,84e46.57,"interdum in ante"
+98703055,2793,23.01,WXXS8,57b61.80,"ante ipsum primis in"
+98988539,5269,44.91,IRQB5,82d71.95,"sapien non"
+99152562,3295,83.17,FSRC5,64h27.41,"risus auctor"
+99194264,1588,46.54,HGXP3,20k44.93,"quam turpis adipiscing lorem vitae"
+99343689,1491,40.39,HKDM4,38a33.23,"id sapien in sapien iaculis"
+99420748,4812,21.06,GHVQ8,48w45.70,"proin at turpis"
+99538907,2841,68.4,SBQX8,24g98.19,"etiam faucibus"
+99555790,142,53.41,OLKD8,22z87.88,"sed accumsan felis ut at"
+99556218,632,1.8,KBPF1,00e95.01,"tortor id nulla ultrices aliquet"
+99629430,845,24.09,XMHT2,60n53.53,"maecenas tristique est et"
+99659436,1994,6.59,ZHMS6,09m33.07,"mattis egestas metus aenean"
+99750172,4114,17.99,VOCX6,57a99.92,"adipiscing molestie hendrerit at vulputate"
+99985300,1919,15.54,QLDX8,85j33.33,"ornare imperdiet sapien urna pretium"

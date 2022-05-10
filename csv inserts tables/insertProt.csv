@@ -1,691 +1,1007 @@
 ID,Nombre,Longitud,Descripcion,Transcriptoma_ID
-A02592,Ylgzumuiwyfc,246,faobsabsyovvglnobmzyizqfutxhovpinvzpn2,OV_282429
-A02751,Ljyqkymbwgwr,557,jxcdhiclxzgqwjozhqyivmyjijoqqmeuhriwd2,XD_921096
-A06168,Nzxyficcvefx,945,ozkbivbpyujhvgpxgoinazhpnmhgtycxsthib2,QN_934260
-A06211,Oxnwyvotomqq,681,jrlkddqmcjmnekxqbrecloolcrnjkeyixinuz2,SG_825840
-A10824,Bambjcqtehrk,655,rrkgvuntglwkasxovmtnezmutxoadydmilkmm2,JX_126487
-A14128,Uzibfvfohkla,294,uknfrioffbcfgefvmjicrupknasuazytzzkoy2,BC_646676
-A14624,Aokyznbjgvff,734,hicmhvxlshhugrfswktsxogmvniuwwgluxebs2,OJ_937799
-A17522,Noyqckjwbroo,783,bxdkmxdroywliqtctlqapodngwivdkqaolvnb2,HQ_787462
-A23440,Hrcaiykxvmfw,844,sdmkhngldpkyyvmqzqptctkbwgymjevxxmhce2,WZ_247069
-A28598,Zlastvoudpba,471,ijpvjqhntaonumwyoqwavtdktukcimievlffe2,NT_102315
-A37454,Uzjeavzkfmzk,174,gnsawhipqzarfkhqdszpmllwbpoxrezoaenfu2,WW_707316
-A38222,Tiiyayribqpg,878,xxrushgptqjkikkvglmllouydejhrtzahtmfu2,KM_657835
-A54133,Vewaktrvkhbb,717,tzqrnffxqkuvtabzcywucokirmjilnsekppqc2,OP_654580
-A62769,Sphhxldwrevy,982,qckwvajktqauqbgvorpoklqbzszkboaxcgwho2,YE_221906
-A63334,Tnrtmzemirte,632,mnaosmhqvkrmnyungathlzbirdagufsqjfolc2,IV_133053
-A63348,Opkqbloawoep,621,fymtgvghituunfevyofhvecvqpxfuolkogakn2,CU_685569
-A65021,Pfxkwuriwzdh,548,jileqwzpqmaqrltgwueyvclzfhdxvgyhqvahd2,GP_998669
-A70142,Ladiylibnzjn,768,zziytnmtunzcjsodypjjltsjlqwpqjdxjhjrv2,UB_239604
-A70651,Lfhaetbtuppf,154,txowfyvsiuowwczxtvgkyetsdtiexyvxxvhzw2,IR_641446
-A70704,Sfsilmjxvhmo,509,gtezheqpukygjnjabvstquqcqgnppgjolypbe2,HY_995892
-A84710,Ongqkjxdhjvs,16,ibppypoxligxbdjwlobllqgtddibyhyhykgxx2,RT_447663
-A86196,Kqzhfvalburs,35,ehgwvqimzqjymeskcusuvubmxsrrpambejdsg2,MD_749015
-A86556,Elpsvpvtfyao,657,jdoxmmaqlojdqunkyljdeamyeaaztwalfkgcp2,ST_739991
-A87160,Prcyjhzaeaaw,364,cnnxzplqbctxfthpndhgvupaogsqpkxyuqwqt2,QQ_477375
-A94820,Etmmmydifigu,387,gdkiwnshshqgpeclzbswncuprzmafwsxtjoau2,OP_630183
-A97455,Siqhpjbdgtsj,572,ghmnnmpyyjynldygveevzvvygxntnohdpzymh2,YC_703073
-A99861,Mffalozfiqrx,34,wzpqorzghiscqccmgunjimlvtyakrepgenwch2,CH_412659
-B03562,Boywyfknakah,49,oqebxfumrjgzwzwsegnoaqaudpcsvwakqyapa2,UY_555314
-B11877,Hssliaehmtlp,108,qolpphezebrkswvksnenwjbpkobjjnorqhdjv2,SZ_999985
-B13654,Hylixpnnzigz,897,ctparzrylflhahxvdsqcddylvfinvrouupjhc2,NM_001615
-B20133,Qntmxnwlhygp,288,zxkslvsphqwpzevrwdhvzeabxenjyxforjwjc2,GY_538956
-B20980,Vlthxzbhhckh,2,bwfnqmxsscokznhdzrwihpuieuiqqtqgyhrxq2,JA_904857
-B21291,Gcmysidgkego,537,nfjazdcbpbpneyucjspdgxkmqecjxdmcwfica2,OQ_044828
-B27803,Kbtcglqmytzl,739,tacgqaqhgcfetqqdnmeemrgiwvrqxmvpeiptq2,EZ_311953
-B28710,Cfmkkpsqnfzn,109,xmfylvhjuvbnwmhyroultnfwvoebvgxgnzare2,MC_327052
-B29524,Juyoisozjqtt,613,mvrkonmppdrqnvhgrjjnpqqbqnlnxxavjxojo2,BI_125090
-B31781,Svupqmhlhbip,85,jgodfvvuhtxbbohywvkwskvkzbxmdwmcxpoqo2,GF_728514
-B41676,Hscwxfgjiyui,124,ilivuzpgsuprsvsijjegjgflewyvczkzhtxnq2,KO_576481
-B43243,Abqsvniceajq,630,musmycbfztzkqaeqdqakuxvuhgzqbcfwyqazz2,DQ_005215
-B46645,Sfcwjpjuknbp,389,kctqujsmwbhcgweilsfiuumclvqzycgommwmf2,AQ_995774
-B51102,Odudzabbmocl,221,krbeztngpdoczygphfhcheybufkxfthfgjdun2,LP_654942
-B55204,Swsiirhaattv,300,ujdxbclnzcmxypnabttoewtctlbhmqmiollnm2,WS_111262
-B62150,Vmzfpvqredrw,999,ytbnrkkxrbfrcojcptdjraurrxxjjaxtbxfhm2,YC_930070
-B62711,Hxtwmapdwuvf,922,fvrfiwerszdilzuhiqmmnaeffdiuqbcayzduf2,GK_052322
-B63071,Axvactsqpawg,318,lokzyyjwhqnpwdetmqliheospbryxlcgkbith2,UR_229814
-B66600,Zttrpjxhvxeq,637,jnekjorxrkzvknvtzkimqindyroirzufdqifk2,SN_337633
-B66805,Ityiasgwxsxu,534,bwvywlxqidbydndwrerwpvsttomycynaaozje2,YG_105935
-B67047,Imbwhvhlgusl,467,xewdqzmykbwhdzygybiuumcxgftwpfvuhwnik2,ZZ_111017
-B70217,Untihekeosoh,59,kwhxdywmacxbqgofyerdgvjsrpaobwszpauxc2,VK_362253
-B70863,Zxrxthiwypbp,442,gyiudwququefncmosxgfgvgkturqlpgkalnfc2,ND_068262
-B79432,Bngpwfdojroe,407,tshlnqabgxbxnyphtijdurtnisvgauyhtodlz2,OB_043538
-B80886,Jcyxvxpbshev,810,cpnkvhcuzlregeesbvhklxdnhmosgvumvqhwt2,ZX_373767
-B87139,Tibevrsrejnu,448,nifhnnjlctkzjxtptxyqabubrsnqihpwywdyl2,RA_340754
-B88969,Royjechqpvms,485,rulxsodxxpfrulvltqnbwhrqmubnjqnfsnfeg2,LA_425712
-B92090,Dftcsqzgdqll,65,fnvchbpcilwalqjvdyvhwitoeqvgbqcoqjrrj2,RT_476828
-B95349,Jbxyryubmtkj,294,tbcurbdwuzilebyrnfgeykttphcyvkaoqwbec2,IB_921720
-B96004,Smggscpvqzvl,908,zyxdckkdbrugdalsyvzerpczztxdvfetqnjzo2,PT_654301
-B96645,Eqxrdulxvxwj,762,ufcrcjglrovpsoyvlqmctovctspifdxlafazu2,MM_072353
-C03537,Sscgafywiiow,730,yigfakrknwnqxdkpsfygegjgkffcribwswkzu2,ID_453549
-C14731,Gmxbmiqahfoc,213,enrqsxhsyeotsupiimgbnryjgctkearqhrqaq2,ZH_018433
-C18570,Sefscbrijcna,464,ygqapirwpgmjftvelbsgubxcdxxcphbdposzq2,VK_230486
-C20378,Acaqapcjoyef,320,roywzomhywlqynkjeavzakmgeckxobsldvnzg2,GS_178750
-C25024,Hhnnptjrkdgq,899,uxuxspzwzqygkkksatojozdaifclpildwderz2,UY_715613
-C53039,Kvvmtgfuoxft,905,rpcijlwlcrcketuiynfloakqjpinjsuhrsmtg2,VK_178262
-C54378,Hptdkvsyaglt,372,jizonimugxhotfmsspkwnloitnxsrkbzuziar2,NA_146860
-C54909,Zalrdgsbaigi,278,gfxfndrrpgyfdvmlixnvbhdbwsmxwihbwxqic2,WD_901273
-C58833,Onbfclxvnncl,377,afhfayvgpxhbknahuxlzfksdhixywtjqcspqy2,BM_591032
-C59713,Jjkzeetjdkgr,944,rhfapqugmmeasyyjzapfbusmqaadxroddbjqa2,UP_056302
-C60084,Cvllypfvdbeb,539,fwlycbdrjwkrneasaapkvrbnzdyqqvtlxbgfz2,AY_792635
-C61447,Svppcvrdiydp,679,vebbswcbnugcdlqzlbjkijtkmtvvkwnkmluqi2,YK_037627
-C67116,Rfkgmmqjydln,314,bkqcxutjkgrdaumgfmczsmldjtrxadqhbwkvm2,IE_429260
-C73788,Ndhycfxwhpgi,891,xvoxghntrekegjoygdxjzfpxhctnnbxcxqysk2,UU_962847
-C79525,Utklfcaqvqea,54,chqpvxzcushuuwgabeuhznxtxkejwjlfivbwf2,MR_566142
-C80694,Huuqyrnqmsas,461,owexnycpasogfzpivyygjdaxrzqzzhhyagpdl2,RL_629811
-C81558,Nlpehqppapkg,568,bpbaxtieyrmxtblmbiykbzylhrixfsggmrbfy2,XB_271227
-C82630,Asziaziehgxg,383,symuekuscimtomnlnbmdmkvrymgkmfkgsjjtj2,UU_045653
-C86375,Rfcboaxhwobt,448,jzusfyghhqiocemcpwjmbzlqpdshqcyfqvpeg2,VF_700972
-C96500,Hplusicrghrl,558,ucfdhkybsxzfwrqfqbnccuycwrrpbyxrxgbny2,YV_258598
-C96614,Nmwbpquioose,275,tixmkkpaencpxpxzlasghfhbejtpgnnisldge2,OV_048292
-D02436,Cqtofsmhanuo,747,vihlvsldaurmnyhclxrikizvzcwqysqjplcak2,RP_963908
-D08981,Ogcyagkefjfw,173,ykqwkciyurnpvdztsuslrcfejxpuoxbqpfbvn2,MO_290075
-D09415,Upedbvbagyhk,458,pupvvxyzvuaegvgmqzkcofhgnvkdrlcidaapr2,KL_179391
-D10686,Aslyyejhcjfe,357,zeyiidvexfgvbnsmscscymatruswrjmbjifpz2,MI_062327
-D12699,Aulhnetokchp,854,oseqkziiqwsdjbbtxnxupfnwuywalunathqth2,UK_565550
-D14863,Xqacqrdqlfcb,188,irufbmypkbjwpngiovwlugxahiswoqqresgcl2,QQ_601524
-D21264,Cdjchmgykxob,932,ytptgrdextysszbtsbsaiaxcktmostordxjyo2,KI_505397
-D21315,Lnueydicgpvg,197,nklhsgbokohgcknnzvvxcjycjjzwogzjssxcp2,EY_605508
-D22952,Zalnonbrywcg,179,kziaikfekuswazwhupqcbcjwkvxazgphaicbh2,TY_657152
-D36638,Qxernmezfqxt,317,wahvkirzyurnxkrqtyyxgwrcqpzsmythkqwwx2,DE_766623
-D37362,Dhnnmdptfwpj,117,mobgemyruvvoremarhqqowgimfokyljpwkgrh2,FH_805170
-D38606,Sprqgpvaqrqk,432,rjfxgmsrqhtyoizyiuegklejbyszlmyxzuqdg2,IQ_557271
-D42713,Flvajpvnwufi,247,elshivtvecazkbctyniwrfnkuaagohmtqsftm2,IY_862784
-D49028,Qeokvjydcxkf,925,ftfhoduimdytgmgxpznpntlwnieiwruklpmoc2,XF_272882
-D49524,Lesmnxyvlmua,549,dbrzlqdhqnbgogoiuyahykqlneipgweiavafa2,LP_346101
-D54365,Ndxcjikrkfcl,513,bsactbgukcjnwhclgkdcfvkevkbldxgtzeijy2,DF_163685
-D64932,Xtqmlmjlzmbt,463,vgsjvhdfwmaebqhalzspnilxuexzajgmsczxs2,IF_309641
-D66949,Bkhkhmxfwikg,544,euvhbxxetxtevsuzeehpxaiqgtgcilmbbedwk2,YS_507351
-D67855,Ihonqqkmasic,884,iemzkyblwbzgbkiervwafudvasaeauxnwhzqh2,UP_966393
-D75541,Usvplooyiuoq,805,zqyrwouswgvpivjhlqxfjzcusnlddialdgior2,YF_725433
-D76954,Nisytockishq,923,yjfrvewwglthvxvvdxvdgowscmueuonpifduv2,PU_802240
-D82347,Weomngluezqx,774,lnlqqiubhdatjnklawjclrukvstcrxxudqchr2,AC_422054
-D87752,Vbmisqcdzfie,110,hyscpxvblbmhnnbfzncxkhyrideijklasnwmr2,IS_688736
-D90519,Ypgrgakdcmqf,771,dbjavdcvvrhwcyygkxkrumjwfmpoejqkjxvum2,RI_550105
-D92652,Mzyoyqgtdwxd,239,htmoyvzafkojeuuyezhnujhozddpisuckdxmr2,YV_542440
-D97283,Gkgubpiveeya,214,pdsyknmkgfczreirahlqtebvkpqlueqmkkogx2,HC_431149
-D97730,Qjctjepsbfqe,794,ewubtbkqlshtxnqfthznhfqjmqjwkdywcetfe2,SF_524112
-E05086,Quxkbagvatpu,310,qcdhxibidyziubcpjyxwhmanccytooyvbktql2,MX_344039
-E06536,Citiwwaogdvf,430,ayzkliuexpwnqjkfxqacbatrescszllfycama2,ME_088186
-E06688,Jdubcjthvgwi,780,itkqkqhhnkkdvskwatkagaoxfognkjogilwbf2,KH_206547
-E15234,Kwqspgktqdvn,255,mlcvgpmjvvagoibdsltijrjlijdkrgbuxqwpf2,ES_554427
-E29210,Ehmzivzgsrlp,486,vukdhfdbiuqhwjvaidewyqtpkidtvkepzlsez2,CB_088233
-E42141,Hlfuubwefcae,657,aeyfdufmgqzfydbjdncouibnjszjqcsxxhgju2,TT_153307
-E50914,Ssfwsddtzflu,307,jgcghwjzzerloozphcmzczjajcuoufkshzbvx2,AH_992434
-E50917,Yykalzhirmqp,83,yennomozilzviofetuntdjodxomvciaoilujn2,HX_437143
-E51527,Omuepjxniyxq,295,jevgzeqginvownkyfwpomucflxpgihchbdqhv2,HJ_709383
-E51880,Icbdioddbfat,393,rknqkevubkhqtnfgfbqcwrtgmdzdwxifinoyr2,KN_840939
-E57720,Meaarmwynlux,831,kvuclclhbttafxapwzfigzyqlywhdcthrarok2,NU_999368
-E58885,Nrumnilipngu,905,zwzujsxhsrhpccvjwzrpwscgjanwdlvlcfeze2,JK_237180
-E61617,Ekjazzevkdno,452,vbrkwlfzgmihajkxugypyqpyyaiehdipmdpun2,OA_836891
-E63050,Caoscebtmldf,925,etosxpbkxvrqfxcznqkcqxgrvggljfaxxwayi2,XB_293538
-E65583,Csjsmoauuppf,935,vamtbwiuqznzibzklgfnosumzjrerpkxkcfib2,QD_142355
-E66627,Ltxnscvojnsd,377,voaqvojmczaizjngujfukfqwxgibztfuwwnbz2,PB_352322
-E69101,Chddqmwnpkta,979,akdlzekvkhjesjlggvaukglennjwfloentids2,RY_503121
-E79939,Qtleclvdudhy,893,skhizyqsewfmxuhafwgyrcjeokonelwwfengp2,ZF_548795
-E84929,Gsetroiervpe,358,ocmipygskaugqwigqpxwtnywmagwmqrjnciap2,EB_773737
-E88766,Mmwiunlodcca,995,doxqbomxpgdkwljhdbvlvoaharlcwrmuczkka2,TL_288382
-F06201,Cysulrfereaa,134,omjicktcsuzjytgyshjrhlgcjqprjgiiorviv2,IR_604818
-F06745,Dlofdqxidtho,314,nzaibqhlcbfndxnhbkdvxpzaovvmmathmhosz2,AF_586507
-F17955,Dzruosjjiltk,909,rkjfdehhdaqpkcdwidgvvvqlzstxvbqesojxv2,VD_506031
-F18715,Rucrxklvfbrr,614,coantngqayrodrkrhdfthhfxechktlqkdsrip2,LZ_483177
-F23831,Pxxkpyxzyvwu,209,agdsceodqgzwmcptkcgagzmdunjeagfbaqyko2,AT_021418
-F24681,Gwawghnhjxsu,568,qvyvmcwuekshswhsrkzhcbgqtvbrorjsdtmtn2,GH_188121
-F26670,Yqmpmxtgxviu,28,zzmxrexgppubzktdbbffflpwizluewveywyye2,FN_583012
-F37701,Cphueqtjfqqh,933,naltrjxjzoekhtspwivsshcvyodryfktdsyes2,YL_055526
-F39102,Waddvclwnjpl,618,ponlxuhnfdngelxmhrmmrgwndtclulupesawx2,RP_102556
-F40509,Optrtbmggnyk,333,pbnywkthruoggrkbtanrqutcemsfpmwesetae2,ZC_402477
-F46764,Ugpemkafckww,669,wwhsnzxgndopajhrbqsrysktraghcnpyzazxq2,GC_087804
-F48021,Jvyukjnaznml,343,hiortdlycjklfdnbwgkxdfkjyhwzkbxnguqvz2,CZ_336686
-F53021,Pyklkdhtqmtl,765,elghuaajaihbpevlpmblhyftwhmwgxildblkm2,YW_614687
-F58062,Sydqqvybbxau,386,ftcbzchuasenskrbxaqiahdokvvjtpcklpsyh2,PV_218914
-F67432,Tqtjiuzcwltf,30,cpprajgmkycowufiignxxgqfnlztpwoxylxrb2,IT_397986
-F69571,Pdqaadapwwky,285,mdlkfucamyftgymtmvojydqgzykdfyqkxiwwv2,FN_594358
-F70200,Fosifkssyybg,492,spivwgfojkntteroqkigygjihcqdmkohoukch2,US_766165
-F73138,Xfzidfipkonl,470,xfxfyocnaxkjjrecebnouclgjojswdzqhjlzq2,TC_809815
-F74683,Jisgnxllumem,518,fcsrshrivftvmvlivtciesenpdgfviuyqaqan2,IP_356634
-F86281,Aearrysabcog,62,ygzxhksvcxhhuitdyxdsvaaubpvwydfmvvsla2,AM_735190
-F89142,Utakevqlctyl,703,ydkyceokubncwivnczqmtfynrdzhqgurqfqwc2,PP_051952
-F93045,Vuiockybnvnh,258,wfocuirtubtacorlcsaqdgwmymhiqfcerhzsn2,LC_611334
-F95456,Vssfkzosnaem,937,nvjtydyapxhkzpqbysjpdxwguawqzabvsjqdu2,TP_609794
-F95495,Ctvzumxiwoac,554,uxraryyodnzecyfbdsqkpqmjdguxbffbsjiyw2,PK_674831
-G00034,Fagfmbszerir,884,hgprfivhejgwqaaethqdlwxcyfqzjdugsibyn2,QM_939508
-G02239,Ttowbyftycss,206,btwmjcpqsoatchlzfoztimcmhgvxqahfnovil2,AG_987348
-G09974,Swnvydkbokqi,803,vlqpkomffswtlegziknyvqjxdjjdaocsciwdd2,XF_938985
-G10124,Ydsijbivkiqu,486,pruiqeuvbqndpearcitnzfrxgozqldmnifhlk2,BP_766319
-G12605,Yoqnlqzmgbtf,732,djmogjkxajgarlexkzluvphltnsqmtlryvgsi2,PX_624278
-G12725,Cnjqyfamrlah,794,tmpcvudcqfxqrpmbwdqlwfgbrcgfomrrdvkqx2,VF_279878
-G23897,Thzwdwwasinn,371,zgqmnurdremetxptkhiaawwjxfkqwdzycnrdl2,ZL_650313
-G25235,Peqscekfqugc,124,yyvkvzzefupwquosgourvfmyxawcmzjqaujxx2,LB_678245
-G28506,Swwwapqodqgr,598,snpzfjjfvvszqumrjmjlfurlkhydmbdusyakw2,EB_394350
-G32842,Apruostuiaca,944,vmyectwjoxqsexeppjazuqiztavtvybkotxax2,HI_968436
-G36098,Nujdsabxbrhk,803,ayiqgswlbaiuwjquvkndhrahhzuajghnbxula2,BA_783963
-G47799,Fcshcdgwkebe,727,iksaykwjjwewbyonbemwtzmuigbbqmdeqpaxk2,DW_663585
-G49638,Nhvosdncfhjf,915,jyomqsnqpgudnvdlybrlukfwtnjvqzxmxqpqr2,CM_188584
-G55410,Loeyzrmojxfd,18,jhjpekwjdtuhwmgibofalmrtuuuejfpomssyb2,IU_723273
-G55534,Tjnceifzvnko,646,wztouyptgrshsgezypbmechqrzzxcbxfzdaju2,AB_887695
-G56378,Aojdjksvoilj,606,dppndexkdgqlsjijdbfxqhdrcehoicpfkxbus2,BW_203966
-G57176,Ninzmctruzvo,731,qwtvjrzfkmcwacbznkbjrfsdxmlvilbblhwxv2,EO_671822
-G58683,Zfvdcjtsuymv,256,ldpnqoenqwflfvzcypsxtjbvmheiadbmhnqip2,ZT_117917
-G59884,Tniwebpnqhef,104,ghbjbfbjqrtgsbodupcswksudkgcymcbnjfcv2,GL_643678
-G61202,Iulmcopmixoa,945,baybhrysadtplkdvdqoqjxrppdejlomfesmzw2,NN_918350
-G61599,Hmklxoevaamo,690,kzpoxhqjuvxzuapysmfnjjkyuurravvtjebpo2,ES_569116
-G63260,Ttgootxjxomh,545,ftszwlykkqagbypkcqhnyngrtxbwzxoddrpwr2,SK_970621
-G63980,Dkrmncbypepy,207,pwmlwiwoimtegncovjnnyyrqorrbsypenitmi2,DV_510314
-G74284,Waizckcjrtwb,395,wgnqaqmgbwyjxlfzatwybjircifvzeukmnthc2,LM_899954
-G77081,Aalgejhcnfim,495,pqkvataqywfqnqartsouwluwexfsygihbcpfo2,AX_114356
-G78756,Hdccsvoytomb,289,olxvczwaocrdumsytylsstuaklqjgxghldtcs2,MI_723299
-G85427,Ahigpvdguhvv,788,kamhvzunvuucqhhnhwfqdzarndwnhicbefhjs2,LF_489325
-G88498,Fqktbghlwvsv,598,vnpcmfdpgglhwqtkajfxddveyabnyropvgdus2,HH_143355
-G91018,Pzqgiipexgno,375,pbukaawdfjkzrpbkjilnwaejwbukumnksdnet2,MH_470854
-G92124,Ppkzuikhvrnw,226,qdrfnsoajcrolwibvsmfihtvsjtxhsrykxrck2,PO_267339
-G93787,Jasasssmbqht,853,wwrvdcfpawnzlcpywzlrgkyrpuwbsxxejlqjw2,CT_565261
-G97665,Dptpsfbnifgb,15,ymghjeuxcvuwezlqtgghwrkazvxebbifmlbav2,RQ_717220
-G99479,Ojamspigbppf,261,enqaaghrkptzyqnhmffoyplsqxyrvhqrcinkr2,RS_992179
-H02080,Qzmeihxrzzib,548,bunmgenujkjwioiuvvacekfiuxkrkiucadhge2,BM_373033
-H02205,Skkghllpjodu,942,kusdahxeycikujrxtthyqrvxkgerqyghmopus2,MF_054194
-H03464,Dhoouqdsxnxw,269,rnvpkjmkvbptzigvnhrfjqukljjnvqfurkywu2,TD_472276
-H04912,Gozoqzspdtyu,603,ypnkjpzpzvmzymjdjfzrudjwqohruydgjlrzf2,TX_304151
-H05537,Ajqvlvppkhgd,30,dytnocpauclnwhjgttrgzbuxnmaneclqkvhcb2,OI_631997
-H05688,Pneaosttihnz,984,wmkaxafnmxahybjjtniwwevbttkxkwllultpe2,LU_329903
-H07114,Hatevnuilpln,210,azrftdkicadgsscfwlkwcooxdnkrqgsjlqnqv2,KT_608163
-H08725,Gxjplfibqscj,539,wsmqwbvukuwqlodxagofmkbzluqhbahxqyros2,TF_265327
-H10969,Bfdtlkrunfqc,336,izzemphorgsckiduxhuzqyihzhyrctunvxizo2,BG_543833
-H11835,Urbytprbrzpd,793,xshesthzqbttpmhizoqypogirtvkyblewsovr2,HN_960461
-H13337,Zxbpavkrhamb,232,quldnvtzsthxgrsbqzzlbqzikcnowvkfuiigh2,VF_775317
-H15887,Feirbmokrhao,22,brebbgamcptzaktpoavkeucvpybapsjojnuel2,LI_887734
-H21007,Hhfzztanlobc,579,iovyzysyxwijjncvrxhibuvemdiqtjtcoocsb2,NU_677317
-H21671,Hcafdfwvwlto,452,aettbltljsqxcghhypksynonkdwbkmqromgxu2,DS_527076
-H22456,Wcwbwxlyekwo,942,pehkuspenbnvtkvsqxvdgkfiyqvxjwfxglngv2,RQ_684945
-H22908,Bkngbxixhuyo,165,vszbyyrflposdmsamsvhzfxeqtpnvzyyjnipc2,TR_798030
-H23091,Flprgkhstcui,215,oqlksyzowkakwbxdhyuejuzdzegemigrpeaaw2,TG_619273
-H23790,Mvyzkcafzxmm,307,fzaquktyehntvjkluzsnlncqdmdhqvqgboozj2,DK_200767
-H28088,Zmgepppkzhfy,120,sygvaanznoivxmxazspbbrhnrqzrcaegtqada2,KJ_492623
-H29081,Kxkqoodykene,817,allqwqhswvcfrqshdaitypjmgjjlaaestkggd2,DG_189217
-H30106,Fcajbxjgldrm,887,zugbbowbgaxtxuicgbbmnmaelcsbtuywtfeil2,ZA_503859
-H31916,Ojgofvuzdbwl,944,tqyeootckrqkppfrcyqozipsabaxxizyqepqx2,HZ_402999
-H38674,Pohlztbmdjbw,338,xmjqaanvirkmgwnnvnixotlsvybjdgywvbbnh2,BN_211755
-H41365,Hamqclcxvyxh,650,wtzzedcunmsbfizrndephbgfvntqtvhmlfcjp2,KB_192095
-H46724,Jijxiocjtceh,563,vtwyijbkskdgsdhenjsnogtxaypwmlpkamgpo2,CA_269375
-H58131,Xsfewlnzxrda,85,ttllwmcnbxvqzrmdlwcrwpqursahavcwdbnmw2,LQ_125145
-H62635,Rqnmogibpggr,304,qzllsvujxfdwtitqeqiiwohynyjhnofqnictm2,TP_918260
-H67233,Bshokoolqxch,238,lkzdglmzzwwmdxeucwymjszoxeqwoqehvehmt2,UQ_439019
-H72241,Rgxraisfwmqg,496,stlskvnhhbyqhnbdnolzkywjvuwhwbbgrzcia2,VQ_950721
-H77425,Synmqahvfnur,64,fivxetjqptgbzotlayxjlmlflcylwmxrrapcp2,TK_363419
-H80312,Kjnqlunhuzrd,600,ejmjzsdhiewvssnbxiewffpuurouchfmxjjnc2,OW_184423
-H84624,Rvepuzkvhomu,118,crwwjumlofqbeimathafrzamygamaeguiztoi2,IC_923677
-H99472,Dexldkfmkifx,855,zcfiobuvpghmrjzomtlmjhwbsgstyjvlvasfb2,AZ_217808
-I09295,Yqfzpzgfuvdm,283,tduqfzlecchsggiseevdxgnmwnqkhskidfsuo2,AT_855985
-I09744,Diigukvxisgw,267,svaxqkixueyntncnjicszadaukshqnxdzjnmi2,LK_609995
-I15523,Qdynovpuzhak,500,lrwrgrosjsquwataaxkmnrpwxyidngwnhlvut2,NM_004153
-I20227,Dpfyemqypxof,713,bjpfttjxmkxhaekdrrziomapxowmanpsmjfmi2,NX_875822
-I25664,Weuufrmritlo,846,itsiimjynzftnwoqoedayyxvdpgjkirsbscst2,EH_120413
-I31852,Uzpsdhwljjzr,870,fdsoxkeqqxxogtaebnqesfuvwjurvfnlcaqzv2,PY_152141
-I36007,Rduavmxogxln,459,kmxrdvuvcximcahnfevoccwikqgikvqgxneii2,QE_767497
-I37882,Mrmchgjkkmlx,347,mivejrxmzthbwunkwmrhydhpaupbmezwhdvwx2,NO_768351
-I44482,Sgnoashzggwl,898,lfelkxqbvvzjflpbdrqixrxfzvpsvppamxcnu2,BJ_027759
-I48518,Hfrojzceoytg,931,pqwweyoefronjenhzqzfhhukzhkndrgsewlhg2,BM_691736
-I48960,Wpznwqptgxwe,676,tgvbqhmdzobmccpevhohtogtoqzvfzakrgunu2,BC_082445
-I49786,Xbzuwdtgqiyz,251,vhgdphmsgtdqsviwbmtsqfgswvbnukxwlrads2,JJ_118608
-I50417,Ruglttoarxgy,321,hzdovxqtemaleecbfwxzocxzxfqudtsqifjen2,SR_520110
-I52390,Aeytcvdrootq,115,mmxrqbexyjucadlqnvcxtxnmuzzdogpddwein2,KA_928942
-I56878,Xpihuamgxera,374,ldtjksjjfqmvflgvxjgfvgynpvguegucqdrph2,WA_842770
-I60293,Dbuhdoskfxtd,593,nvyboedmcbbtpwetjqspnspohhaozwskcmcxe2,NV_822866
-I63447,Tqedphoylqfc,160,psqrozwgywsrseougbajunxifkpltfyrxmjrn2,GE_086915
-I63923,Txhajnipxecd,68,smxmpfxxyxnypumdmtcyagoghsxjbarksixck2,GE_649794
-I70470,Lslpjmdphhwd,621,trjdurcwpcgqmqnpecllptsfaleroaarddskq2,JU_234747
-I71819,Sihltcnkowpl,774,xzcjmgqljrmcsgndqqxkkpeavipvwadkeofsl2,KJ_982294
-I80534,Zdvckqevozbx,891,soyocbdiahtobhbjpgjgzjksgnlcrkulccujd2,XR_946649
-I85582,Gavjazucqkas,385,cocheboiuujjyssreszogkzmfhzckrrwopdto2,EP_809093
-I85731,Ubzgvapunemv,97,xmkubntskqafocrylvecgovrzentyjtttutut2,BP_637377
-I87258,Wdgollxbqeuk,143,tsypcsyhitdrsgtiqnglxbueosellegbybhkh2,ZU_866662
-I90583,Mlprawczasya,528,stzggbiiqsjhaientziplzqyneoupmukowryy2,HL_613081
-I97403,Utmxvrdaucim,617,cgkulmwogwijzspxcjirhgzrdftlajzukvmym2,QI_142447
-J06246,Hxtbvamkspui,247,nwemkpictbpcfzzqxucmufftpdlqkwkqduaza2,YV_347628
-J12160,Ctdczsctiaiw,816,odtxnmsdvsaeiggwkjndbfmroujlsfgfdvqxe2,MW_041775
-J19131,Qlreqowkfwbu,249,kctanzttbxeacwurqawwiubuyhwqzlefjzmbc2,DM_206847
-J27198,Lbequdvekvtd,319,bwjcgadkpcfadgefslhcvlvupugzojbqcjurs2,TB_237049
-J28715,Cktxuxtmorkx,530,pbpcuyrrrqdiatjqmydzjvvzncizzixjytkdu2,TX_442475
-J30774,Hxlphmusnzkt,423,zmguqkfnwjaiuvscgpgushoahygqmtpeankto2,DM_520511
-J32833,Lrhcmvnsgrgv,900,wfpfhkvtjurmutagzcsinchkuxmtslryybxcl2,CE_284323
-J36851,Rxtcazxlmtzb,281,xzufqgxosrtpmrpyqfcodocargbegotrhgtvk2,SB_746161
-J37637,Kgiazfvdvexc,888,ksiudgkoahupzdxfqxdufqpjpzujfofmcqvpp2,YN_008455
-J43038,Pgqzruionfuz,443,kiwinwrvmsbydlrefhybpmvssbxvxxgiufiqa2,WO_275304
-J45423,Aqugmjtcwfjn,200,yalzgaacorrdjwoicthwwsgwwsilzbknctbyi2,YJ_314506
-J46336,Scvyruugjrjx,620,rncfyaeozecclxmcgqxefsqqfbicvgycnuztu2,UD_269257
-J52055,Uusixtazaewo,890,jsglqpwfunhlqtxsvjjnzxmnvbtcesmnfsckc2,NK_268109
-J58709,Smnliaxnpqks,182,onpragdmdwamrglxxlcyscjrebhkdbptqynlz2,UK_417491
-J71266,Xunyuucnemea,207,mzgkpwkumvsomhrfujagunqsykmljaebnntnb2,VS_991000
-J74682,Iigwkbyeazre,573,inbhacztfmvkfuifuifjcbyuesmogiofpqfsa2,EJ_806339
-J76067,Njubmcjseixe,146,rtsfmuyzsjrwoivvoykgdoyovwoitgtxmgtbn2,JX_962142
-J77819,Pcqcbvewvhku,252,uucyuccbdsqnaypnivkyqrexkkayrzdharzzs2,LR_486980
-J86458,Otruqlvtjcbr,3,wnzzdvtsfzbswznaglagqbzrgxmwayfkgvwmc2,DP_109461
-J89589,Twedhhnjfenh,697,bplcnkihxgjtgbetpfdeooqbsokkzxskebhwe2,US_147027
-J89741,Ytzfffzmjkbv,148,oqocognvgwbbjsahsmbgurljficuurvttbpyp2,ME_949419
-J94690,Wdlotxkyeshd,11,mrfvtqrjfzifkykojvrxemoyklmjxswplickf2,WU_360622
-J96476,Roxyvjsxrulv,174,cykqpcntrpdyoqrlshguanqvpwuwueorahweq2,VJ_869946
-J98252,Sywdphmxuldr,689,rjjunimlmiojvpvhgrvlfrqutfunpgdidkhvk2,MI_039143
-J99644,Xegqdzjhxxbn,323,iuqluuxtpoimbgkmxqsaesmifaiedsukfpvwe2,QA_410768
-K06536,Vzamqqbmfzrx,75,fukvflzqeiuhyojrejmpreshneiabomqboayd2,RH_939540
-K07898,Rogcujltebfp,523,hrmzgovvjpnsjbrspcaheqeghcukcigzllyzl2,QY_506880
-K08639,Yaseorljxgtn,2,cagsmjqydbycntmkcloycfxgamoatqhsnzdwk2,QO_091104
-K10555,Vmqjbnnzhvyz,482,wpwevlavcswpjiuooumzapvyxmyrpsgrfqnlp2,OB_845865
-K11432,Hctqaspodkvu,161,djlwhbeoahrsqdaoilyiptbsruddffawbdjuu2,PA_634945
-K14260,Pqrwrktgsblk,588,rbmruxpmcomakwdqmfhhblkvtahcyjmnmykkw2,AZ_755522
-K15965,Pxdpoqsmfsvo,796,masydjtefvcxlitaxzsqlbwiyyorjxhoaaltr2,MM_734522
-K25047,Vlalgnvhxtsg,948,dodbuvnlggfeuhzjlpfisplyiasesiabbkjwy2,ZR_777239
-K27567,Fooitapxwutq,344,gnaboowvntjcwlckzmizgylmxamdseqlhgecq2,IZ_866428
-K27622,Qrnvcelkbjey,41,cesoopyojkejnmjvpppmllfpnxothhhwdabyf2,FF_077943
-K32274,Xhtzbrepyhgr,810,pumgtbxlkghtrhnspivdhhktuvcipptgsqvpv2,LB_894755
-K34560,Qupgkdlnzoid,281,iecuakrfumuqtubbnkupwwlxozfnhlprglugi2,ABAT-V1
-K42793,Vpmrroxbepyw,537,aexugrgwmpwwechbikiodiqcaznqjbgiynbns2,HX_644424
-K43001,Azkwaxhosiee,424,gcslirfuxjhibonpsfuxbgbcbfgsaguwagscl2,FV_529747
-K43210,Zqtqnpipwwqo,600,qstxzcljplgodunrjblgmpzltjoxpaeniktzf2,OZ_002947
-K46798,Upsmzimyowiz,717,zcsumysqrldtutyxfghroopvovbyapsomgujj2,SW_285320
-K48063,Hszfepupascn,457,qyvzhxnlbrylqffrwsvhbylzftxmnlzyjrenz2,MO_436730
-K62678,Zjxucgsrchyy,127,ewxihhzaxxaefchcnvqndfyioefpzxcgzgqer2,KF_970764
-K70277,Voxnmteabahr,268,sienlrnevmjuiwibstyvtqilgqxmobsyzdwjo2,JN_859924
-K73406,Wdrazybfqqou,127,docosqqdnptewneblwdwdmrcrjiehcirlhwfe2,HV_587004
-K78218,Fqbdzdytspmi,217,vkwsdghzezadlivntwaeoceruefsernbxemrg2,SV_866702
-K80704,Bfutiumgudqo,195,lpixxaxahwtawnhlcsqjliiyjqcsoyfrlulch2,SA_856295
-K82254,Ldmbksscsgbt,947,diebgmipndkwxleyjdjhzmjsghctchhaivvtl2,EC_367130
-K82587,Mzojezalwhfh,598,sisdfoxkvoictimxiasjziblcyclxwghydmda2,OA_858189
-K84198,Sfltyptwdktz,51,ifsunwusqnlcnsrfduitbuncdawmkppwrsrvc2,PW_652842
-K91626,Wnpqwswiqvzt,566,ajvqtyabdzlidgmyfyhhkqjnzgstcyuijiivd2,TJ_831004
-K91938,Pqsgbnrclccm,14,hnfcznmjmusucmregqosfrnhlsvrdoeiltbvv2,GH_272875
-K93146,Lviqdclbollf,887,deihqzddnkhiiausptkdzciefekxjzntzhakw2,MT_784182
-K96004,Sfcfnxzkmcdv,679,txccgkaswvaifrvzwsffrytnhrpchdwxheoho2,UD_918914
-K96296,Ywgutovhsuwq,234,ezchrsbqzqfmobznapenpuacmwbvziubgnojx2,JS_659304
-K99486,Mtxbglgdqfpp,918,ykoobelecaqedcpkkulbaqnnhxkfozlicjiho2,UW_051449
-L02972,Pzywwuvenjxq,502,eqsdwxducsfxylzlfbhczmgrokninntwtjqjs2,YO_319059
-L06487,Aqqkwfhizrhq,471,saahmvkezelcvsyndpqqogtpghzqkcxdbfhyy2,BN_757068
-L07820,Rdjbizgqzwtm,637,vlanzvkebfaxvsmhyelinwxgorzvoqpqkqepm2,XM_909913
-L10693,Nlceojtutpis,131,eauicwhdjmjashiepggpqjpiaauawccjcbbgv2,EV_721697
-L15131,Thanayqilsth,576,rsaxulqfrssghzgkchayyeyuryeifrjiraego2,PT_262560
-L17283,Baonixbjdeln,394,cwdsrqtzjzrkcswupscrjhivcmxcbxwqayipa2,CF_910875
-L22146,Rxrnrcqntjac,145,vghqdoaxqovrafgypohrfrkvfseegkamuxcoj2,MK_920381
-L22314,Afdqpygxcyec,785,wibffxaausjskssxquauysyricqpagdboxfje2,PW_245113
-L25366,Jawebpgohugw,983,devbzdzvmnpzmrmwktygumniyugrinsxkhytx2,BM_733178
-L25565,Xctdedorgqun,654,qpesdeymtapzumgppdwibxjexunhmhfaxrpbr2,UE_209907
-L35209,Yqyayujdfaeg,331,cfpzyrdritldbansmcxprzmdaacffxghamiuz2,LS_124037
-L35707,Qznphzlrdfpf,400,leqekbxegeviogdwaxgygiygizsetbbvmrzsm2,SA_095591
-L40971,Tellslldcvfd,804,pnthbtfntlukcavussjkgxngssfbrxfvgmzpd2,TM_847352
-L42219,Hzffjqabitlk,51,uqambgwgmlxjwehogyxdgegtfvutjnxysdinj2,RR_488337
-L48407,Mmhmmotcitam,119,ygeqyujlkkmtpriqtteuzvhtxcapfrpgoeqck2,PZ_043646
-L48425,Hebrwdoucwfe,915,cqzmgaixounvwlgpjxjeiqznzptcmctfpukcq2,ZP_864503
-L50656,Twywpvgxmoym,406,vbplgiipfrboozknbfslozsuswdscusxjmyur2,WV_532100
-L67347,Adaxveddkcto,836,xxmrvtxcrdqfztuxibltheygwoddytxgmlnqc2,SQ_321589
-L70191,Awuybfnkymyi,99,mfcarsbfteoniotphkoqzkyqgjxfxekazieqz2,UR_906641
-L80276,Mmzxpyvohnlj,510,gtzricflfxeaqzacrxmpmmdwvtmmwqgajhknn2,GV_200716
-L87856,Ulouclvfvgiq,149,asabfvgdbdqlkzhqqfbjdfyvlwpvdqveiriem2,WP_597258
-L92306,Mtgqxphzwgqi,598,uznrxtuwwutgacjuyonhiyjvrrhnolebswrmf2,ND_220023
-M03020,Vdupwfvluddv,33,wjqfruosaphntskjnsfezbxewavzwvwuyymfs2,AV_081053
-M12132,Gtnmmkkuqahx,821,zdxpanjoqrwtkqeksgapnebhnkalaboecioyz2,IK_970402
-M16799,Zlxledjcpzxd,2,aisjtfldwlkkyimjtvjnqlmfzpcnexfgvyvnk2,AE_638828
-M26199,Dbgtffrtlryt,248,pxhuuvmytqyokodjbaszvfmllklczwlpjnqqs2,KB_359022
-M27918,Xqanwcejibrj,579,qxhsrxlfzfzocumaofnhqtgaqahzkxpnaqswq2,RW_489431
-M29934,Efzvuvrnprow,465,zpjlrcpxzzpynjntvuxisdmdgnaccxyisgdzx2,WE_656142
-M31978,Cvqibbnlulrv,96,xwgvybppgzyysspexvwzdnbhtvynjugxfoerf2,SB_708354
-M33722,Rgiutyyukxjo,923,citzgbhqpbncslrmomwnrhcinpawbzmuodyfm2,MC_093564
-M34072,Qfusowtnmksk,510,yjwcfbxtlmtrvxepgjjipdsrfypqumqacipmb2,UI_116824
-M34421,Zyjnikfbcdmt,723,mseuznvgzrlxzdequxulykobjyczgajistpng2,BW_923028
-M40953,Feczfonbldwt,625,cupxjqleruajnmvevwrpqfogenbcylerbmgfa2,CC_032227
-M43010,Hjblzsffxqjs,652,kvsgpbnubbuzphnfsykuqnwedplhihlhzvhgq2,QT_960845
-M47193,Amrjzsxrcvym,157,hpxstaqfaohnlgwtfulcybacgpfgtbjvrvhjq2,CA_243114
-M51712,Ryjishvoeapd,106,mbxzytrbdwlutqrrdllqyhrvsqhktghljajgo2,HJ_853466
-M58938,Knyteovbnnnn,161,svekngsqimcfzmtclqkerhxuwijyxowxjxtbx2,QN_271342
-M61788,Aunisemujqth,58,zacvgklviykecwhztccjnhywttnkeppxqvxrw2,MB_195860
-M63362,Oanrdlkdwimd,358,jiziyddvbsctumrkstjnuqslpxbngqzraxurh2,WN_097252
-M66835,Itxdwovmwhty,522,anxnvoowtteupnqzbotzhoqpbiddjeotsgzfd2,OF_266914
-M71290,Lwzxegxvmasl,363,cdrscksmmteamcczwptvnaorlwzztekpusxbr2,TI_882375
-M79146,Siqgbuzarftu,912,mbouaobsjnauruojcigpmrxozhgqxlaazxtop2,TN_420585
-M84044,Qomnztznyrpa,406,vssichbztppbtxztbtqmidgvskwveugqsvioq2,NM_000052
-M89228,Hgrsigxxjpti,622,zwscjybeptqdsraezewozgexfsrhwkhreqzrw2,GE_246017
-M89318,Hhjpvjfeulaf,656,ixqxhnuqcgipnfajxeqcvygbcstscvvubxaxz2,QP_188283
-M90762,Pcwfsobrtesn,594,fybnsdpjsyhizqfhygrtxmapoapnjjlyvedsk2,IB_674424
-M94420,Vogptwoufqut,759,wlcwhokrfwxxhrmfgwbcbwwslcanwmiimctia2,ND_865413
-M94650,Imlzgpacawhy,557,kjcsugdxdsbvtpgttjlnppkrugbcxxwrksbmn2,LA_464567
-N07564,Xwmefgodpfki,343,pkmskghslszovybchzhowyfmapauoxksadjqd2,DC_871795
-N09808,Yspuhvsgpdzj,536,kdbizcwutjfevcafrqxpppochjtwbeplyxvpr2,ZF_140508
-N12250,Opcagwywsirj,892,yvvhxbwzwiunfvtrrmiqtcniujucuxaeushvn2,BQ_631092
-N12640,Tcaqfjlyutzm,453,snagrxkbxxvrhnqtesyolcpzfouisnpcixbqh2,VN_618083
-N29039,Nzzlymxrnozy,328,cbxhcubrmgsuzndubqdfcgjignownyazmwgnt2,UY_648995
-N33970,Sqzqsraaaeou,832,gwwolyoieolbpcidbgvavuvwurhcjxuudfsug2,ZI_942873
-N35428,Msoxvlhgtwnu,476,nyaovqqphvdpugwkthlgjwoikujihvkoxchwd2,MT_465613
-N45990,Dfbsyonulmea,983,ciihxrqkvarxewqwpxnjwwoibenmqcogxwvpn2,BL_664473
-N46438,Jxaamjjgbbxm,491,giikbihxykufowqowskmexthfajpukmejfnnd2,SW_964169
-N48653,Tejtiatmonyh,593,ytivrnwqaamucmgvksfxtfmfzhpwgjsgncwqc2,VO_655216
-N51633,Ficgsyhsrneo,914,gvvoyrljjbtsrdjkxjhkjlrwcwkzynppmeorc2,SN_840532
-N51666,Beupsfkcdoym,373,trspbgkgatcltyixmxvmenufqgmoatvyaisoe2,VN_768765
-N57801,Lrgvyjumwdxh,93,vakgskbxlvsmhuupprsitrqlmfwikowojuymf2,DU_253730
-N63855,Iqkhrlnmvcni,700,yguqulingvrigquylvdinehsljhysbsfqiefj2,FX_075238
-N65910,Mxdqaitccexv,311,pectqctjsqyhrqpzwsiakotmqadvvtwjlsyoj2,AN_884507
-N67858,Vwzoqbzivdgk,493,djbkoavugrzhixsfalsnyxylfnxbatdcjbpav2,EK_725086
-N69338,Mtelelubqgie,958,nmezdprkudyeyqqvemjuouorbefqwwrdjhtjz2,XU_858067
-N79548,Pospggbiakmn,473,ujlhqxpfiyuairiegedaumdddoopadmeianow2,PT_302760
-N80940,Icgoukyjwsyi,814,dudlmacursmclegqwarlssrthhotdxgznyvgg2,KK_788112
-N81282,Sqljwnbbyzuf,496,vsqfasldbkjbnsnmneubefoxcidfhskaxvzbz2,PU_710453
-N97695,Fdxakrwbuxuk,689,zwrrruabkpqykfiluhouqiithuzziwjqhdlng2,JR_097992
-N97939,Ujjdjeqnekyn,896,nezgqsisuddbxwwynnqxypzwsxinynemckzsy2,EY_688826
-O04144,Ehucmxswkphc,153,vhevynpjgutmpscrzvxjwydzsrjlwttjnrnda2,PE_558462
-O05625,Odzcsxanvhpa,449,bdpumclvcnxkzfvqmtyniyzzajymrorqfaxno2,MQ_150803
-O14214,Umeivyskdhha,224,fuhuatyapgbmezlbrbihvclfcpkszoiqbqksx2,PF_398530
-O18847,Hycqnvlvydkq,163,joujujrxumucjbablqcpuhaewhhvjirmtxkcs2,BI_983065
-O41004,Wrzdmfnviyvf,566,dxrixsaedwrsvszfclzbcljoxhrbxwievpidg2,QH_442023
-O43499,Xtzjkdsudygq,546,huozxohlispdxzgyeuoqgvxplbsbbhopwxxjs2,VH_320084
-O46801,Setujarymfns,705,evhsrvxhmvwvqpcggbainlvgynpkxgilbbbmb2,EK_049697
-O47015,Gsoqlgmqiguq,921,fvoyhkwohsemnhzmjjgwsjadlsmznyeydbxpo2,KD_044829
-O51819,Lylxekzpxtmf,29,atxygyexfxjzszalgvnzpcvniriostemrcywi2,PI_897245
-O52019,Vvepjvtceoxo,452,wxcfpuoozumlpzvxtdrgumcmvcjwnqwityqjq2,RD_988283
-O58467,Cqupjbmokrov,874,iqmqvehuntjlfwfdmcfvahpxupzzfdxlcqhdo2,TJ_342265
-O60287,Gpmrthpsafvy,270,qadqdpesrttuttojpbzyngrnilaotxfbbphrg2,IR_537811
-O61643,Tcupsnodlrxi,947,tdriwsywcnylwzocmtyvjcdvijhjhjbjbdgns2,HR_948500
-O68324,Mibyzzhummuy,3,bedwmegknwigwvuyooiyxzhudppwtnuidqdup2,SS_065779
-O69526,Advmvzwxtnqu,115,pvzqxfbkvenesgnqzkjxofleqadtcczawxeea2,OD_604599
-O72961,Ulplcuangzbr,453,msjqtpnaawqclspfvvfzkflqqavrnmiszelnq2,YQ_150000
-O81611,Pcvpgoyqlhxx,954,phdprxcgroiymuriuhrmqcbadeyatdxgfrnyr2,MJ_697324
-O81827,Awedqdszifjx,504,lupozhnzmbelzeqsocescqxeezujggcacsmlc2,HN_740504
-O82367,Amfuhvdkswqa,468,nbadnesptgazgkxaoycgfuhajhzeafrmhouvj2,DQ_545505
-O86185,Tarexfewadum,333,lpkmivwidmxmlouilnymmcvcygalmvwapitoo2,NH_106264
-O87815,Ivhjespghspy,487,uuqtjbbkldprhxufhnwqgkkywhdeonirjkpdk2,WY_529739
-O88411,Dwtoyztjhkbb,283,zehltwnfeeralgqxgwqzkbdtdidxmlazhcxly2,FD_663605
-O95164,Oddsezbspznf,195,hejnaobccdvaidqnrmieqtdkgzdiotrkmpczv2,FC_626630
-O95942,Qgeajtrcnibm,881,pnjaupekxpdsseegcxvyyytacxyylgivnagir2,IY_203795
-P00008,Iqkcmfagfndl,666,cpvywidqcontmjlpmrmkrgrnhkdrllwxiztev2,RL_975998
-P00694,Nurzcahhknrh,854,jbfzjaevnnpbeejreeiavxorwrqftiddphyip2,UW_018710
-P08001,Blncbevlpeqc,522,qhcsxhjrmcuppxclaxsmbgebryaqczuqwkrtm2,PJ_342853
-P19034,Dqlhkjurydtb,467,ohoregcefssvjseffmzeahclolmmaogsklpsy2,PZ_791210
+A03429,donec,812,"eu magna vulputate luctus cum sociis natoque penatibus et",RB_514275
+A04987,"leo maecenas",620,"aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra",QQ_973137
+A05166,vivamus,1014,"etiam vel augue",NY_497934
+A06212,"phasellus id sapien",2169,"tincidunt lacus at velit vivamus vel",LJ_200104
+A13753,ac,776,"vestibulum sagittis sapien cum sociis natoque penatibus et magnis",RL_335158
+A14067,libero,938,"pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem",CC_930849
+A15647,"integer ac",1561,"ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices",CJ_696864
+A17349,"odio condimentum id",609,"maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede",ZJ_556659
+A18314,"dictumst etiam faucibus",1468,"mauris vulputate elementum nullam varius nulla facilisi cras",NJ_027492
+A21103,"augue vestibulum",95,"integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla",HD_806096
+A21248,sapien,1211,"diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue",CL_016789
+A21359,"non interdum in",1600,"nunc commodo",UB_616632
+A22315,"erat vestibulum sed",2227,"bibendum imperdiet nullam",LJ_001434
+A24598,ac,448,"potenti nullam porttitor lacus at turpis donec posuere",OX_600709
+A30035,purus,675,"quam suspendisse potenti nullam porttitor lacus",FS_649385
+A36212,condimentum,2378,"quis lectus suspendisse potenti in",PX_486969
+A37433,"ultrices phasellus id",1336,"purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a",SP_962637
+A38617,nam,2000,"eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor",FY_595020
+A38701,"sapien urna",419,"non mattis pulvinar nulla",AJ_121665
+A42406,"adipiscing lorem vitae",1672,"nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque",PC_013907
+A42734,diam,1224,in,NN_693804
+A47006,"adipiscing lorem vitae",714,"odio condimentum",HF_562212
+A49418,"tortor duis",978,"sapien arcu sed augue",DX_583732
+A50484,suspendisse,672,"mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh",QB_019230
+A50683,ac,995,mattis,ZI_974071
+A54891,"nisi at",2250,"odio condimentum id luctus nec molestie sed justo pellentesque",LB_217124
+A59835,ultrices,1644,"nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel",WR_236438
+A62215,"interdum in",1588,"sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus",TR_836925
+A63579,ut,1355,"phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in",LX_741774
+A64452,consequat,147,"venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl",VG_562591
+A67587,quis,1817,"venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet",HX_027128
+A72911,aenean,1868,"id luctus nec molestie sed",CM_654512
+A74398,"sed ante",509,"purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam",TX_390261
+A75406,"amet consectetuer",1095,"nulla mollis molestie lorem quisque ut erat curabitur gravida",DK_831253
+A82868,tortor,239,"posuere cubilia curae donec pharetra magna",VH_458363
+A86817,nec,2111,dictumst,SU_510638
+A90499,"tristique est",2473,"pellentesque ultrices mattis odio",EO_618592
+A92431,consectetuer,430,"donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst",JK_414399
+A96570,"venenatis non sodales",129,"felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam",ML_688434
+A98164,"nulla mollis molestie",1423,"vel nulla eget eros elementum pellentesque quisque porta volutpat",NI_317976
+B06342,"habitasse platea dictumst",2212,"vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi",CH_936620
+B08998,vestibulum,1113,"molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec",TM_398467
+B10027,"est congue elementum",204,"lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in",DR_109112
+B14805,"sit amet sapien",224,"molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur",JW_430796
+B15748,habitasse,2285,"sit amet sem fusce",PO_307584
+B20387,"lectus in",2406,"ipsum primis in faucibus",CS_220675
+B20591,"nulla eget",1055,"nisl aenean lectus pellentesque eget nunc donec quis",KN_627275
+B24619,iaculis,2421,"mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing",RW_758651
+B30418,"vulputate justo",335,"libero non mattis pulvinar nulla pede ullamcorper augue a suscipit",IT_161633
+B32496,"purus phasellus in",1424,"aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non",GA_533527
+B32842,"enim leo",1109,"elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor",NC_460603
+B33891,"a pede",2379,"amet sem fusce consequat nulla",NM_004153
+B39618,ut,271,"platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum",KX_121374
+B39790,"est phasellus sit",1974,"ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis",NI_752237
+B42611,"proin risus",2163,"fermentum donec ut",GU_759492
+B45085,"ac consequat metus",2056,habitasse,YA_071149
+B51091,"ipsum integer",774,"mauris eget massa tempor convallis",RX_655266
+B54309,eros,2102,"lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla",MF_024135
+B55380,"et ultrices",1477,"enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec",IL_920641
+B60215,"orci vehicula",516,"ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum",AQ_809655
+B63202,"ac enim in",807,"interdum mauris non ligula",ZT_323569
+B65274,"nulla tempus",2157,"ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium",PO_847773
+B65621,"condimentum curabitur",192,"nullam porttitor",UV_383495
+B69028,"viverra pede",1514,"mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a",KX_033043
+B69678,"elit ac",1946,"eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque",ZI_854622
+B75085,leo,1954,"ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id",UM_436007
+B77044,in,2212,"suscipit a feugiat et eros vestibulum",TW_975211
+B82917,"viverra eget congue",1120,"sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam",ZO_700810
+B87720,justo,747,"ultrices aliquet maecenas leo odio condimentum id luctus nec",KT_572890
+B93551,"nisi volutpat eleifend",673,"in imperdiet",DA_785995
+B97110,"metus vitae ipsum",2010,"pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit",HU_860587
+B97399,"cras in",192,"lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et",XG_958517
+B98504,"augue vestibulum rutrum",1368,"dapibus augue vel accumsan tellus nisi eu",VL_675032
+B98917,"tincidunt ante vel",1567,"et commodo vulputate",FD_183958
+B99625,"ultrices posuere",163,"justo sollicitudin ut suscipit a",BL_015934
+C04318,nulla,552,"hac habitasse platea dictumst maecenas ut massa quis augue",JZ_157502
+C08487,enim,892,"magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus",CA_919683
+C09734,curabitur,1325,"curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris",CR_731885
+C13029,"ipsum dolor sit",100,"ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo",RG_085101
+C16686,malesuada,1957,"ultrices erat tortor sollicitudin mi",HA_144118
+C18002,"morbi non lectus",228,"ac neque duis bibendum",BD_235300
+C18480,"ante nulla justo",2000,"volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec",LI_686090
+C21218,"in est",288,"hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante",GO_222461
+C22295,"montes nascetur ridiculus",2379,"sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor",DU_236279
+C24681,"nulla suscipit",1279,"in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu",PT_257985
+C25948,tellus,986,"turpis a pede posuere nonummy integer non",MG_920040
+C28492,mattis,650,"quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus",ZV_051675
+C29292,"non lectus aliquam",1302,"lacus at turpis donec posuere metus",AL_722257
+C35669,"curae donec",1398,"morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis",NE_730143
+C41903,"nisi nam ultrices",1905,"in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at",RI_913184
+C43907,"nisi nam",2461,"viverra pede ac diam cras pellentesque volutpat",AC_389025
+C44474,montes,2161,"volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet",LP_645496
+C47114,fusce,1522,"ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in",EE_423478
+C48184,"nisi at nibh",1541,"ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus",QK_674820
+C49031,"integer ac leo",1387,"nascetur ridiculus mus etiam",JQ_160570
+C49953,integer,1573,"tincidunt eu",ZH_072700
+C50455,mauris,60,"ipsum praesent blandit lacinia",VX_168605
+C51190,velit,2471,"nisl aenean lectus",KP_180346
+C51821,"semper sapien a",1329,"lacinia eget tincidunt eget tempus vel",PD_357582
+C54109,auctor,1571,"id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede",VF_486552
+C57104,tellus,1088,"felis eu sapien cursus vestibulum proin eu mi nulla ac enim in",UZ_926929
+C59414,"ultrices posuere",212,"congue elementum in",ZL_989767
+C59753,"quis libero nullam",751,purus,RJ_271379
+C59947,"pede malesuada in",691,id,VU_075671
+C61883,"nulla nunc purus",284,"felis donec semper sapien a libero nam dui proin leo odio porttitor id",AO_827596
+C62292,praesent,1651,"odio odio elementum eu interdum eu tincidunt",VT_020208
+C62901,"tempor turpis",887,"ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque",GH_312230
+C69827,amet,1219,"cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan",YV_091837
+C70055,"quam suspendisse potenti",447,"non pretium quis lectus suspendisse potenti",NQ_095358
+C73973,"amet eleifend",1884,"sapien a libero nam",KL_640184
+C74953,"nisi venenatis tristique",1568,"id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio",CY_179842
+C81961,"libero non",2093,"ut blandit non interdum in ante vestibulum ante",WQ_835956
+C85173,"neque vestibulum eget",1584,"ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis",NL_917954
+C93036,"nisi nam ultrices",450,"ligula in lacus curabitur at",XQ_956915
+C98442,"porttitor id",1011,"tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi",VK_932064
+C99177,"vitae ipsum aliquam",1623,"suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non",OS_864592
+D06190,tortor,2424,"in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut",CJ_868092
+D08545,quam,470,"nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus",QS_766973
+D15497,"id mauris",915,"dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae",XU_368957
+D18316,"hac habitasse",901,"in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate",MW_764612
+D23260,"elementum nullam varius",2078,"amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci",GQ_389644
+D27683,"in hac",1276,"justo etiam pretium iaculis justo",PW_305831
+D30232,"faucibus accumsan",1607,vel,YO_375736
+D31957,id,601,"lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non",BG_339525
+D32239,"sociis natoque",562,"ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce",XH_636458
+D33484,"nascetur ridiculus",2155,"tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl",KI_818297
+D33738,"nec euismod",2157,"nec nisi volutpat eleifend",AP_570536
+D36879,"quam pede lobortis",332,"amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus",QS_240313
+D37682,ipsum,2162,"parturient montes nascetur",UD_204238
+D40056,"quam suspendisse",1138,"phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie",YM_324416
+D43133,congue,821,"dapibus at diam nam tristique tortor eu pede",ES_592711
+D43250,"est et tempus",237,"maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida",EH_884337
+D46735,"at feugiat non",305,"non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla",IH_426559
+D50347,"semper porta volutpat",571,"odio consequat varius integer ac leo pellentesque ultrices mattis odio",YH_169015
+D54416,"sem fusce consequat",229,"platea dictumst maecenas ut massa quis augue",GW_633597
+D59955,"suspendisse ornare consequat",1770,"vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet",ZD_475542
+D60589,"fringilla rhoncus",1891,sapien,CB_287648
+D61554,"rhoncus mauris enim",136,"lectus vestibulum",PR_054319
+D63810,"imperdiet nullam orci",1066,"ultrices posuere cubilia curae duis faucibus accumsan",TL_293225
+D64010,"mi integer",458,"adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a",MK_392306
+D68164,justo,879,"penatibus et magnis dis",EX_711717
+D71069,"convallis nulla neque",1626,"potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes",VW_990705
+D72366,"lectus in quam",329,"volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus",FM_794534
+D74661,"sit amet sem",2392,"luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend",CO_623776
+D80345,"sapien non",1323,"porttitor lacus at turpis donec posuere metus vitae ipsum",WR_271459
+D81927,in,2428,"dapibus duis",NM_000052
+D83521,"tortor id nulla",1697,"pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim",DM_042404
+D86613,"tempor convallis nulla",84,"vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget",PR_010287
+D88800,"pharetra magna",318,"vulputate justo in blandit ultrices enim lorem ipsum",BJ_960039
+D91886,aenean,1447,"tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed",SW_856016
+D96220,ac,1955,"eu mi nulla ac enim in tempor turpis nec euismod scelerisque",RB_231687
+E00305,"luctus nec",1622,"varius integer ac",LP_221032
+E03065,"bibendum felis",1247,"sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede",XF_797131
+E03548,pellentesque,73,"vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam",LH_207468
+E04641,"aliquam sit amet",1480,"at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat",AP_775485
+E04748,massa,2035,"mauris enim",FI_722498
+E14647,"pede justo",1251,"ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac",OO_085721
+E22249,"nulla dapibus",1453,"porttitor pede",OR_505853
+E23753,"sem fusce",1101,"a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus",PD_195693
+E23957,"nonummy integer",1074,"ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget",ML_752887
+E26614,"justo aliquam",680,"ut ultrices vel augue vestibulum ante ipsum primis in faucibus",OB_428336
+E27221,"sed ante vivamus",501,"sapien ut nunc vestibulum ante ipsum primis in faucibus orci",BK_138147
+E27544,"est phasellus sit",903,"donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium",MW_100048
+E27567,"ipsum integer a",1072,nibh,PL_708419
+E35280,porttitor,1331,"dolor vel est donec odio justo sollicitudin ut suscipit a feugiat",NQ_876063
+E39429,"amet sapien",1568,"faucibus orci luctus et ultrices posuere cubilia curae donec",KL_067106
+E41765,tristique,1431,"orci luctus et",QE_014315
+E41880,"amet nulla quisque",976,"lorem ipsum dolor sit amet consectetuer adipiscing",LB_606041
+E47202,"erat quisque erat",1693,"hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget",XA_553827
+E48107,"tortor quis",1909,"nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas",KT_555128
+E50148,vulputate,549,"adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus",LM_717969
+E60033,diam,56,"sagittis dui vel nisl duis ac nibh fusce lacus",WA_750713
+E63364,"augue vel accumsan",515,"enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis",BG_877405
+E67068,"facilisi cras non",1189,"vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet",JS_315607
+E68578,"consequat metus",1912,"mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula",QY_177442
+E71255,donec,569,"ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida",DW_982718
+E75428,interdum,2344,"nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat",JA_855523
+E76186,justo,1237,"augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices",FI_818382
+E82615,"pellentesque volutpat",1501,"proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis",RL_679724
+E86754,"pretium quis",2026,"tortor risus dapibus augue vel accumsan tellus nisi eu",LS_454623
+E86945,"ac diam",278,"vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna",ZG_412787
+E89073,"eleifend donec ut",2359,"platea dictumst morbi vestibulum velit id pretium iaculis",ZY_875435
+E93308,morbi,2008,"etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate",XC_255560
+E94524,"vulputate justo",64,"eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea",EG_427749
+E95621,"venenatis tristique",1147,"nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in",KS_943710
+E97673,"dapibus dolor vel",1787,"et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor",EB_871305
+E99984,"accumsan odio",450,"vel ipsum",CY_817614
+F00978,ante,1711,"vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet",NY_908731
+F06273,erat,746,"aliquam non",GW_136310
+F06970,"congue elementum in",1904,"et magnis dis parturient montes",ZN_891228
+F07562,"penatibus et magnis",260,"cum sociis natoque penatibus et magnis dis parturient",OD_890471
+F08923,ac,326,"vestibulum sed magna at",LH_901655
+F13430,"sit amet eleifend",1173,"sociis natoque penatibus et magnis dis parturient montes",CE_967698
+F14514,"volutpat eleifend donec",1652,"libero nullam sit amet turpis elementum ligula vehicula consequat morbi a",XR_446570
+F14549,"orci luctus et",2067,"nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt",WV_963259
+F14587,"montes nascetur",149,"sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue",US_786736
+F15016,magnis,271,"molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in",RD_997111
+F15815,"nunc donec quis",1696,"in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio",GW_248328
+F17734,"ut mauris",395,"nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo",JD_171953
+F20194,"in hac habitasse",1869,"placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse",SV_604770
+F20817,"in faucibus",1960,"rutrum neque",PB_466267
+F30492,"bibendum morbi non",1862,"placerat praesent",ET_173518
+F35488,vel,1347,"habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum",UF_368530
+F36943,"elit proin",957,"lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed",MS_718945
+F36954,sit,1619,"luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat",IL_125666
+F41740,dictumst,1658,"molestie nibh in lectus pellentesque at nulla suspendisse potenti cras",MP_885616
+F43056,"nulla pede",2174,"euismod scelerisque quam turpis adipiscing lorem vitae",PX_825840
+F43311,"ut erat",1237,"pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices",OS_802402
+F46101,"quis libero nullam",739,"tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis",ZN_087305
+F47443,consequat,2490,"id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in",AA_328604
+F54212,"orci vehicula condimentum",2498,"vel enim sit amet nunc viverra dapibus nulla",RP_950116
+F55132,dis,1238,"adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque",UA_373335
+F56878,"nisl nunc rhoncus",1197,"vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus",RF_545322
+F64240,"sed justo pellentesque",2335,"vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl",WI_342280
+F65230,"iaculis congue vivamus",850,"feugiat et eros vestibulum ac est lacinia nisi venenatis",WG_724752
+F68668,"luctus nec molestie",1590,"suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut",ZV_901844
+F68988,justo,1101,"amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum",UL_259030
+F73959,"id ligula",599,"amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus",RK_337577
+F74949,laoreet,2377,"imperdiet et commodo vulputate justo",KD_632304
+F77517,"commodo vulputate",667,"viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a",VZ_895462
+F79101,rutrum,1638,"feugiat non pretium quis lectus suspendisse",WX_480146
+F81940,"morbi ut odio",811,"sit amet sem",TJ_871246
+F89434,"vivamus tortor duis",1018,"mi integer ac",TP_513884
+F90003,"sit amet nulla",1055,"nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet",FI_791442
+F91088,"sed nisl",2424,"mauris morbi",MI_374041
+F92869,"cum sociis",1860,"turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna",JU_987602
+F93520,"vestibulum ac est",2045,"etiam pretium iaculis justo in hac habitasse platea dictumst",MK_037326
+F95953,"lectus in quam",1312,"odio condimentum id luctus nec molestie",AA_675789
+F99277,lectus,506,"rutrum neque aenean auctor gravida sem praesent id massa id nisl",PV_800276
+F99585,"primis in faucibus",1208,"cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut",BC_078815
+G04378,"eleifend luctus",85,"pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut",KQ_905299
+G09805,"parturient montes",446,"vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis",MP_399130
+G10184,"praesent id",282,"eget congue eget semper",ET_775881
+G10847,"ornare consequat lectus",1288,"sodales scelerisque mauris sit amet eros suspendisse accumsan tortor",KK_745384
+G13792,quis,840,"vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget",IC_049822
+G16803,"interdum venenatis",1838,"ultrices phasellus id sapien in sapien iaculis congue vivamus metus",BC_283789
+G28986,"morbi non quam",596,"blandit nam nulla integer pede",YW_654751
+G37114,faucibus,1200,"felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit",RT_126856
+G38946,"erat id mauris",82,"accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit",JY_175330
+G40308,purus,1288,"eu nibh quisque id justo sit amet sapien",XA_175206
+G41430,vivamus,2024,"sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla",FX_176298
+G46258,proin,938,"pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac",HS_136981
+G46393,eget,1761,"phasellus sit amet",AD_882006
+G48093,ipsum,792,"dolor morbi vel lectus in quam fringilla",DL_074100
+G49698,"sed lacus",2373,"id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque",FA_849490
+G55771,"integer non velit",150,"dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet",AM_963774
+G56320,"ut erat",997,"sapien in sapien iaculis congue vivamus metus arcu adipiscing",NC_279201
+G57893,"elementum nullam",1043,"vestibulum sed magna at nunc commodo placerat praesent blandit",LZ_763807
+G58278,ipsum,1264,"elementum nullam varius nulla facilisi",PY_856302
+G58767,varius,1657,"proin leo odio",CA_040118
+G59236,"fusce consequat",497,"mattis nibh ligula nec sem duis aliquam convallis nunc proin",IR_984014
+G61436,"massa tempor convallis",1074,"dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium",KV_534718
+G61751,"leo rhoncus sed",672,"lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec",IK_602424
+G71369,"diam cras pellentesque",162,"mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis",VI_940161
+G72306,"proin risus praesent",1703,"nec nisi",ME_643664
+G73621,suscipit,903,"lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam",QS_703862
+G73892,"eget tempus vel",1607,"tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu",KC_531285
+G75576,ullamcorper,2397,vestibulum,IE_432643
+G75917,"turpis donec posuere",835,"nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit",OV_850969
+G77475,metus,2116,"amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris",RP_836823
+G79248,"porttitor lorem",2322,"urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit",QB_553901
+G79713,nec,878,"sem sed sagittis nam congue risus semper porta volutpat quam",DO_771633
+G86036,vel,1173,"viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus",ED_915472
+G86767,"nibh ligula",2471,"imperdiet sapien urna pretium nisl ut volutpat sapien arcu",ST_330098
+G87429,"sollicitudin vitae",1259,"erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy",QK_028046
+G87954,nec,1049,aliquet,FO_766280
+G90969,"nisl nunc",582,"erat fermentum justo nec condimentum neque sapien placerat ante nulla",BV_979500
+G92833,"duis aliquam convallis",192,"faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a",AN_494973
+G94581,a,1287,"quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper",FN_637075
+G97383,"magna at",561,"donec semper sapien a libero nam dui proin leo odio porttitor id",YZ_267559
+H00198,"interdum in ante",1174,"eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus",PH_652844
+H04608,"ut massa",1221,"neque duis bibendum morbi non quam",JT_719721
+H10581,et,849,sit,GL_284926
+H11998,"sagittis sapien",484,"in felis eu sapien cursus vestibulum proin",VD_310751
+H18898,"ligula nec sem",455,orci,XE_628015
+H19786,"rutrum neque aenean",540,"maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui",GE_151708
+H25668,"a feugiat",2284,maecenas,UZ_104146
+H29807,"mus vivamus",2405,"non mattis pulvinar nulla pede",FZ_164244
+H30804,in,1434,mauris,RP_845361
+H31806,"aenean auctor gravida",2068,"cras mi pede malesuada in imperdiet et",RR_696052
+H46373,"massa tempor convallis",1421,"rhoncus aliquet pulvinar sed",IM_596515
+H51423,"sapien arcu",384,"mauris enim leo rhoncus",QU_263608
+H57315,"lorem ipsum",823,"id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio",BE_408388
+H57827,"ac diam cras",2075,"orci pede venenatis non sodales sed tincidunt eu felis",US_444289
+H58332,"auctor sed tristique",1044,"ipsum primis in faucibus orci luctus",MM_719522
+H65187,"posuere nonummy integer",729,"ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque",ET_950085
+H68818,"erat eros",854,"erat eros viverra eget congue eget semper rutrum",BS_165471
+H69822,luctus,225,"felis fusce",OT_376376
+H83283,"elit ac",1496,"bibendum imperdiet nullam orci",MJ_936576
+H85337,"et ultrices posuere",2084,"sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis",TH_753560
+H92770,"velit nec",635,"magna at nunc commodo placerat praesent",OF_877168
+H93560,"suscipit a feugiat",1871,"at lorem",FT_528275
+H95253,integer,1625,"in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus",WO_089423
+H98185,"sed ante",1604,"ac lobortis vel dapibus at diam nam tristique tortor eu",YL_754546
+H98991,"dis parturient montes",2404,"tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras",MX_060601
+I01783,"ut tellus",1328,"platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at",EY_602729
+I09023,"nam ultrices",917,"odio consequat varius integer ac",YS_267241
+I10363,"libero nam dui",213,"hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci",EC_326129
+I10750,est,1211,"dolor morbi vel lectus in quam",ZI_804530
+I12107,donec,653,vel,UA_422491
+I13149,"nam ultrices",1656,"ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis",ZA_311323
+I14313,"aliquet pulvinar sed",1046,"bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed",MK_565057
+I16032,vestibulum,2005,"velit donec diam neque vestibulum eget vulputate ut ultrices",YV_895367
+I18903,auctor,99,"congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis",TJ_588750
+I27073,diam,1599,"sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis",BP_265071
+I27713,"odio elementum",2057,"eget massa tempor convallis nulla neque libero",NB_634823
+I28947,"luctus ultricies eu",1020,maecenas,FH_556707
+I32827,"metus vitae",1162,"sapien arcu sed augue",HW_217444
+I33141,"varius nulla",1360,"vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer",JU_136963
+I35547,"posuere metus vitae",913,"ultrices erat tortor sollicitudin mi sit",UL_591464
+I44062,eget,2053,"nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat",VQ_048618
+I44480,"vel nisl",1282,"semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in",DS_321950
+I44931,"mollis molestie lorem",1097,"sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium",HA_498684
+I52013,"nullam orci",239,"justo lacinia eget tincidunt",ZO_017719
+I55617,"convallis nunc proin",718,"luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus",WZ_244188
+I56919,"ultrices posuere cubilia",245,"in quam fringilla rhoncus mauris enim leo rhoncus sed",NP_799359
+I61169,quam,1078,"montes nascetur ridiculus mus",LM_031003
+I66230,sagittis,1819,"at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",NM_004309
+I70035,donec,63,"mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse",LP_497054
+I70411,venenatis,622,"blandit non interdum",JH_605645
+I72644,vestibulum,388,"vivamus metus arcu adipiscing molestie hendrerit",CT_313193
+I74489,amet,685,"molestie lorem quisque ut erat curabitur gravida",RD_887465
+I77778,pretium,1188,"quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris",TT_332178
+I78684,"mattis pulvinar nulla",1798,"libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis",MJ_887847
+I97357,vehicula,994,"consectetuer adipiscing elit",FL_230684
+I97841,"mi in porttitor",1037,nunc,KP_840783
+I98694,"aenean lectus",1124,"imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere",IG_690625
+J01304,elit,868,"faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat",TR_984063
+J01912,"mauris non",659,"justo lacinia",IL_092391
+J03487,massa,535,"lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam",XA_090919
+J05503,"varius integer",674,"ac est lacinia nisi venenatis tristique fusce congue diam",LI_663087
+J06649,"consequat nulla nisl",2130,"enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in",NG_500970
+J16271,"fusce lacus purus",1830,"fusce consequat nulla nisl nunc nisl duis",YB_329014
+J20865,"lobortis est phasellus",164,"rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo",QP_850643
+J26442,"id ornare imperdiet",615,"montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes",GO_322914
+J28972,"turpis nec",881,"lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna",XR_617136
+J30981,"sapien cum sociis",758,"blandit mi in",BT_030588
+J35411,"lacinia eget",295,"nullam sit amet turpis",AW_277416
+J37502,"molestie lorem",815,pharetra,AP_516955
+J37976,dolor,1887,"sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet",MH_467246
+J39602,condimentum,287,"ipsum dolor",ED_343967
+J41257,"platea dictumst",1244,"vestibulum eget vulputate ut ultrices vel augue vestibulum ante",IB_885352
+J45962,"ligula in lacus",60,"mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id",DO_189681
+J47990,"lacus morbi sem",776,"id lobortis convallis tortor risus dapibus augue vel accumsan",WW_999149
+J49924,ultrices,810,"ligula pellentesque",IJ_625766
+J57098,"quisque id justo",1620,"mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem",VH_584341
+J57641,amet,408,"tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis",XT_958667
+J60360,"amet nulla",434,"et magnis dis parturient montes nascetur",WM_428185
+J75744,congue,1026,"vivamus metus arcu adipiscing molestie",JI_854182
+J76718,"semper sapien",406,"luctus cum",WS_072082
+J80268,"vel enim sit",2258,"magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque",UW_640777
+J81443,"dictumst aliquam",1299,"integer pede justo lacinia eget tincidunt eget tempus vel pede",IB_932088
+J81692,"lobortis est",2190,"nullam molestie nibh in lectus pellentesque at nulla suspendisse",AY_181267
+J82515,id,1722,quam,NR_924840
+J85226,"tortor quis",1697,"nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a",IB_901521
+J85404,"habitasse platea",1561,"vulputate elementum nullam varius nulla facilisi",YT_974664
+J86948,"cum sociis natoque",1297,"dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet",KM_496111
+J92472,"eget tincidunt",178,"vulputate nonummy",ZP_368779
+J96322,id,1486,"tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique",BX_088857
+J98654,"odio cras",865,"accumsan odio",RS_285540
+K00778,iaculis,1079,"integer ac neque duis",IH_515443
+K02523,"vestibulum sed magna",1694,"pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin",SV_708658
+K03459,ipsum,1062,"erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim",SJ_447891
+K04529,interdum,1332,"sem duis aliquam convallis nunc proin",RG_067035
+K07227,"felis sed",52,"blandit lacinia erat",US_087694
+K07449,"sed nisl",54,"volutpat sapien arcu sed augue aliquam erat volutpat in",KY_980647
+K08001,"primis in faucibus",1008,sed,AJ_004638
+K19850,turpis,591,"metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra",DR_104090
+K22439,convallis,2145,"porttitor pede justo eu massa donec",BT_353969
+K26250,"eget elit sodales",1267,"rhoncus aliquet",JB_476588
+K26806,"praesent blandit",1235,"ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris",RZ_669911
+K31755,"id mauris vulputate",663,"lectus in est risus auctor sed tristique in tempus",PD_681195
+K33091,"varius ut blandit",138,"ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer",KT_015712
+K33254,duis,651,"sit amet erat nulla tempus",TZ_860284
+K33649,"dui vel nisl",2189,"nunc vestibulum ante ipsum",KS_997780
+K34287,"eu interdum",799,"semper sapien a libero nam",LJ_467085
+K36011,"in ante vestibulum",1366,"sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu",JS_215222
+K40382,morbi,1706,"amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci",KC_835381
+K41019,"nunc purus",1496,"velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum",OS_686255
+K41936,"eget congue",649,"integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet",TJ_873804
+K42043,tempor,2059,"faucibus orci luctus et ultrices posuere",ET_240365
+K45212,"duis bibendum",630,"nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et",YK_893858
+K45271,"dignissim vestibulum",1528,sapien,IZ_626456
+K46566,sed,178,"faucibus cursus urna ut tellus nulla ut erat id mauris",CB_301232
+K46978,"in hac habitasse",688,"nec euismod scelerisque quam turpis adipiscing lorem",SA_229446
+K47195,"ut nulla",1587,"magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id",RI_286466
+K55559,id,1671,ut,NM_596674
+K55791,"orci nullam molestie",601,"odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit",VT_953441
+K59003,"semper porta volutpat",666,"nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient",MD_528778
+K61418,at,1273,"quam sapien varius ut blandit non interdum in ante",KS_897495
+K63234,dolor,75,"turpis adipiscing lorem vitae mattis nibh ligula nec",RM_931478
+K73472,"congue etiam justo",1232,"mi in porttitor pede justo eu massa donec dapibus duis at velit",MN_718063
+K75364,"gravida sem praesent",1076,"mi in porttitor pede justo eu massa donec dapibus duis at",VJ_782786
+K77141,"quam a odio",1478,"ornare consequat lectus in est risus auctor sed",MZ_507913
+K77704,consectetuer,151,"posuere cubilia curae nulla dapibus",VP_444591
+K78491,"suscipit ligula",1149,"ac diam cras pellentesque volutpat dui maecenas tristique est et tempus",ZU_226012
+K79757,"mauris ullamcorper purus",1181,"ullamcorper purus",AY_824869
+K84176,"odio porttitor",1039,"rhoncus sed vestibulum sit amet cursus id turpis",LC_263010
+K89672,risus,2494,"in magna bibendum imperdiet nullam orci pede venenatis non",FL_288317
+K90737,ut,1116,"interdum in ante vestibulum ante ipsum primis in faucibus",OQ_260528
+K94877,"vivamus vestibulum",863,"justo in hac habitasse platea dictumst etiam faucibus cursus urna",MZ_689886
+K97126,vel,2160,"tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis",WD_117614
+K98354,"sapien arcu sed",444,"sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus",IS_490984
+K98892,"dui maecenas tristique",2263,"justo in hac habitasse platea dictumst etiam faucibus cursus",RK_122155
+L04354,"quisque arcu",2498,"lectus suspendisse potenti in eleifend",EJ_498007
+L04473,"consequat metus",573,"vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis",NH_524878
+L08022,nulla,739,"ut rhoncus aliquet pulvinar sed",QW_629786
+L09821,"sit amet",2054,"lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat",NL_295619
+L13300,vel,1087,"dictumst morbi vestibulum velit id pretium iaculis",JN_046375
+L13439,"blandit nam nulla",1516,"blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus",BI_661182
+L18989,"sapien in",2408,"velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus",CD_009022
+L20564,"ipsum primis",2043,pellentesque,MU_757387
+L20905,"sed sagittis nam",1998,"primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus",UX_982551
+L22489,vivamus,243,"sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla",UC_875725
+L24041,"sit amet",1198,"ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque",CB_568490
+L25720,id,1897,"eu massa donec",HR_747887
+L26821,lobortis,171,interdum,ZY_641155
+L31806,"faucibus orci",1862,"et magnis",SI_292132
+L33572,"at nibh in",458,"faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel",GE_331557
+L37283,"duis consequat dui",1862,"mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus",WJ_306458
+L42079,"donec dapibus duis",238,"potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus",KQ_043831
+L47909,"integer ac",1332,"dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium",ABAT-V1
+L53646,mus,1530,"lacus morbi quis tortor",ID_320673
+L56057,erat,278,"lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam",UX_712678
+L56596,elit,205,eu,ID_229245
+L60418,"phasellus sit amet",2488,eleifend,JJ_284127
+L65012,neque,1453,"sociis natoque penatibus et magnis dis parturient montes nascetur",MM_920713
+L73110,natoque,291,"molestie lorem quisque ut",MQ_132092
+L74180,"velit eu est",1455,"quis orci nullam molestie nibh in lectus",AH_282459
+L77797,"erat volutpat in",2252,"faucibus accumsan odio curabitur convallis duis consequat dui nec",HR_826216
+L83714,"nulla suspendisse potenti",1531,"nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse",BR_089160
+L91912,"velit nec nisi",1119,"risus praesent",DV_770006
+L92965,"sapien ut nunc",1487,"rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue",FI_979945
+L99795,"curabitur at ipsum",1685,"penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",SF_410226
+M01926,"in hac",1417,"sed magna at nunc commodo",ED_780559
+M07298,"ullamcorper augue",1832,"sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique",HA_505802
+M08935,"ac leo pellentesque",1416,auctor,GP_956035
+M12599,"ut massa quis",745,"nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed",UC_044991
+M13619,"lorem ipsum",720,"volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in",VD_137213
+M16771,"faucibus orci luctus",1540,"in magna bibendum imperdiet",LN_109864
+M28648,"sagittis sapien",2063,"volutpat eleifend donec ut dolor morbi vel lectus in quam",YF_095844
+M31279,ullamcorper,2231,"praesent id massa id nisl venenatis",WY_184803
+M34339,"nisi eu orci",2218,"nunc vestibulum ante ipsum primis",WC_560082
+M37149,"fusce consequat nulla",834,"diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed",LS_257147
+M41576,"augue vestibulum rutrum",2471,"aliquet at feugiat non pretium quis",CV_879247
+M44712,"interdum venenatis",1856,"luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur",WZ_504118
+M46941,enim,1451,"rhoncus dui vel sem sed sagittis nam congue risus semper porta",AK_642235
+M50862,"morbi non",1603,"ante ipsum primis",UZ_129080
+M51623,"lectus suspendisse",764,"et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo",BR_268582
+M51975,"sit amet",752,"mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at",IT_875971
+M55000,"purus eu magna",895,"vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien",JG_922677
+M56393,"lacus curabitur at",1889,"ligula pellentesque ultrices phasellus",BK_600909
+M56665,"pretium quis",114,"nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula",EU_100546
+M57395,risus,2106,"blandit mi in porttitor pede justo eu massa donec dapibus duis",PR_208564
+M57810,"ipsum aliquam",1351,"non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue",OM_602369
+M59122,"tempus semper",1712,"odio elementum eu interdum eu tincidunt in",HL_201115
+M59559,pellentesque,985,"neque sapien",FF_323593
+M63792,velit,1421,"pretium iaculis justo in hac",AH_021274
+M70235,odio,1801,"sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in",ML_543194
+M72357,"et eros vestibulum",73,"sit amet justo morbi ut odio cras mi pede malesuada",QP_585463
+M76862,a,541,"primis in faucibus orci luctus et ultrices posuere cubilia curae mauris",QK_191811
+M77226,"mauris laoreet ut",1433,"et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui",BK_165102
+M81143,"metus aenean fermentum",784,"consequat morbi",TX_563717
+M84729,"diam in",2155,"hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer",SX_428139
+M86316,"maecenas tincidunt lacus",122,"mi in porttitor",OW_434215
+M92540,"elementum pellentesque",2010,"orci luctus et ultrices posuere cubilia curae duis faucibus",OI_262496
+M93317,convallis,66,"sit amet nulla quisque arcu libero rutrum",IX_226732
+M93439,"dui luctus rutrum",1973,"sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae",EJ_694274
+M95874,"cras in purus",93,"id massa id nisl venenatis",JH_518076
+M97021,"metus vitae",1622,"libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt",NN_064469
+M98186,"nulla nunc purus",1254,"platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis",WQ_238807
+M99548,nulla,1668,"in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis",OM_334175
+N01122,"orci mauris",1573,"vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in",HX_799574
+N05592,"tortor risus",695,"suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum",SD_706960
+N05848,"sapien dignissim vestibulum",2341,"in tempus sit amet sem",ML_830715
+N07938,"duis faucibus",327,"quisque id justo sit amet sapien",WU_811076
+N09381,"in tempus sit",1644,"et ultrices posuere",WI_562733
+N11817,"eget massa",357,"tellus nisi eu orci mauris",OA_942030
+N20402,"fringilla rhoncus",2299,"dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien",TD_973747
+N20493,interdum,121,"luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi",CK_427846
+N30169,"dolor vel",1078,"vulputate ut ultrices vel",BP_564208
+N31163,"ligula in lacus",1501,"eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient",GN_296925
+N31355,"lectus in quam",2219,"nisl ut volutpat sapien arcu",YT_796628
+N37101,"at ipsum",2443,"quis orci eget orci vehicula condimentum curabitur in libero",HL_987033
+N41229,"penatibus et magnis",1252,"consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor",FV_322822
+N42370,risus,1196,"nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non",OK_620589
+N42712,"arcu sed",2262,"eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum",CN_245862
+N49405,semper,2378,sapien,VQ_442576
+N53013,"pede justo eu",108,"dolor sit amet consectetuer",KX_803093
+N54206,"luctus tincidunt nulla",1137,"rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis",ZR_369806
+N54285,ac,709,"montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida",RG_043892
+N60073,"primis in",2126,mauris,TE_374300
+N61849,"phasellus in",1312,"augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea",AW_844821
+N63904,at,1978,mattis,NR_911075
+N66640,ut,940,"mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula",VS_909296
+N67745,"sapien iaculis",1205,nec,BQ_891997
+N68144,"proin interdum",696,dolor,JE_576598
+N68857,"pede morbi porttitor",67,"id turpis",DR_896423
+N69101,"purus sit amet",1523,"lobortis convallis tortor",OL_974371
+N72375,in,904,"duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce",KM_067668
+N75135,"pellentesque at nulla",316,"quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa",HG_587863
+N75844,"eu felis",1131,"sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed",XO_231340
+N77046,pede,2176,"felis eu sapien cursus",XM_349137
+N79896,"nec euismod scelerisque",1454,"scelerisque mauris sit",PD_487216
+N82368,elementum,989,"curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum",NV_163706
+N82861,"posuere felis sed",1430,"duis bibendum morbi non quam nec dui luctus rutrum nulla",DF_500361
+N83099,"nulla ut erat",394,luctus,EW_282008
+N86212,"velit donec diam",2332,"vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus",CG_983901
+N97235,"aliquam sit amet",2202,"amet eleifend pede libero quis",UV_546228
+N97989,elementum,744,"amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris",BA_362985
+O01562,lobortis,2089,"turpis adipiscing lorem vitae mattis nibh ligula nec sem duis",ZF_158432
+O05053,"a nibh",2010,"integer ac",ZJ_001868
+O05447,"id pretium iaculis",1377,"dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer",CI_772939
+O10302,"neque duis bibendum",2342,donec,LW_043347
+O13254,aliquet,2170,"nisi venenatis tristique fusce congue",PF_820058
+O18696,"maecenas rhoncus",354,"condimentum curabitur in libero ut",VN_831114
+O19991,est,782,"montes nascetur ridiculus mus etiam vel",OP_078998
+O24217,gravida,2212,sapien,RT_823291
+O28336,"fringilla rhoncus",241,"imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing",UE_216669
+O29030,"ultrices posuere",1315,"primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis",QH_727134
+O31496,"diam vitae",416,"vel augue",VX_192097
+O34746,"orci pede venenatis",1379,"quis tortor id nulla ultrices aliquet maecenas leo odio condimentum",EB_782793
+O36721,"adipiscing lorem vitae",2256,"ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel",OK_734567
+O39095,"quam turpis adipiscing",413,"elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis",JO_671998
+O47142,"sollicitudin vitae consectetuer",279,"eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan",RQ_637214
+O50491,"in lacus curabitur",112,"volutpat in",DO_336006
+O53955,vitae,54,"diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis",QX_931297
+O61530,at,2374,"aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce",JW_590962
+O64545,natoque,1859,"lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam",JO_322791
+O72194,"turpis enim blandit",1494,"lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero",UW_906143
+O73434,libero,2166,"quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis",FI_707314
+O73485,"molestie nibh",2262,"elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla",CN_980118
+O76802,"sit amet",2185,"nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede",RC_481453
+O79763,"non lectus",2106,"orci mauris lacinia sapien quis libero nullam sit amet",GU_971517
+O84700,"curabitur in",206,"volutpat erat",ZS_632896
+O86009,"duis at velit",2307,"ipsum primis in faucibus orci luctus",HE_719326
+O86650,amet,1071,"lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui",IO_448697
+O90428,vestibulum,823,"duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla",NA_270358
+O97525,"eu magna vulputate",2135,"sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu",DR_804655
+P01840,"et eros",726,"nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor",LA_462371
+P03753,nec,1578,"pretium nisl ut volutpat",VP_565849
+P05590,quam,2229,"lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc",SF_241760
+P08036,"lacus at",997,"nam nulla integer pede justo lacinia eget tincidunt eget tempus vel",JQ_612909
+P08133,vestibulum,2386,lorem,QA_604937
+P09179,vestibulum,601,"nulla pede ullamcorper augue a suscipit nulla",NG_299826
+P11509,est,1027,"mauris lacinia sapien quis libero nullam sit amet",VM_104342
+P11772,"tristique tortor eu",899,"non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui",XO_433116
+P16858,"quis turpis",58,"amet erat nulla tempus vivamus in",QU_181484
+P19137,"hac habitasse platea",2298,"donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum",LA_988575
 P22059,"Oxysterol-binding protein 1",807,"Lipid transporter involved in lipid countertransport between the Golgi complex and membranes of the endoplasmic reticulum: specifically exchanges sterol with phosphatidylinositol 4-phosphate (PI4P), delivering sterol to the Golgi in exchange for PI4P, which is degraded by the SAC1/SACM1L phosphatase in the endoplasmic reticulum",NM_002556
-P25226,Ecksygwhdshr,558,fozhsugpvacctxngovkwyvkhmxdqutyqbpfiu2,XU_335838
-P30995,Zfbxwnkzoxxy,193,tnmobmgragwvejdoccvufdiqqgbbafunecqhm2,AU_456371
-P33178,Juoiecdebxck,565,dpjirqmdpcyaundxackarvhaicxmbwqalnkdo2,PI_593156
-P36768,Suqrwffjbxpr,830,kgbrsgknzvevvtchxjdmjdomhgialzfqbewvg2,LG_564005
-P39737,Qrusjuuotwbv,518,mssrazbxnwlimwsumbkemgovnjgdlqfnxuggq2,KU_685891
-P45070,Zxsumdjtgqjm,410,arnqhfvgektxhouunkivqakvyfyimyxmeshuc2,WL_618888
-P48565,Yurqitzepdmy,943,okqfzautmbckhxfdassyhupajehrsdflwfcgd2,QJ_649822
-P51645,Fivwsiqyrgdi,244,ukgnbtitnafppazfbdhixzrznwmgxxaspjzfy2,EZ_524821
+P25111,magna,298,"suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit",IM_969238
+P42117,"mattis pulvinar nulla",1495,ultrices,LC_571835
+P43276,"lorem id ligula",228,"ultricies eu nibh quisque",KC_826823
+P45489,magnis,2134,"pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate",WM_475906
+P48762,"fringilla rhoncus mauris",1583,"vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque",FL_589337
+P49986,"suspendisse potenti",1701,"primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec",EO_351888
+P52050,"id mauris vulputate",937,"bibendum imperdiet nullam orci",EK_083352
 P52565,"Rho GDP-dissociation inhibitor 1",204,"Controls Rho proteins homeostasis. Regulates the GDP/GTP exchange reaction of the Rho proteins by inhibiting the dissociation of GDP from them, and the subsequent binding of GTP to them. Retains Rho proteins such as CDC42, RAC1 and RHOA in an inactive cytosolic pool, regulating their stability and protecting them from degradation. Actively involved in the recycling and distribution of activated Rho GTPases in the cell.",NM_004309
-P61464,Oaijzvseutfx,767,ygbjagcbztxgrekjdiynbecspcpymuuvrwthd2,WH_342783
+P52753,"aliquet at",2487,"porttitor id consequat",TG_020391
+P54815,nec,676,"velit eu",VD_352755
+P55231,enim,1397,"pretium quis",SK_611147
+P62033,venenatis,2176,"nunc viverra dapibus nulla suscipit ligula in lacus",XN_567596
 P63267,"Actin, gamma-enteric smooth muscle",376,"Actins are highly conserved proteins that are involved in various types of cell motility and are ubiquitously expressed in all eukaryotic cells.",NM_001615
-P74110,Luazxbdrqwfz,70,kugnlvsidxhgbehcurnbjtwvgmiphobflmcwg2,RG_663750
+P65003,"tincidunt in leo",174,"nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper",HM_490421
+P67852,"vitae ipsum aliquam",630,"suscipit nulla elit ac nulla sed",SB_227833
+P67868,"in quis justo",2091,"donec odio justo sollicitudin ut suscipit a feugiat",TM_086746
+P68479,"posuere cubilia",474,"at ipsum ac tellus semper",KA_456805
+P69646,"morbi a",1044,"vel nulla eget eros",YF_119584
+P69741,non,1472,"eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula",HP_679242
+P70662,"in tempor turpis",1091,"etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras",PC_694308
+P72422,"ut suscipit a",2269,"mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at",HK_475894
+P74990,amet,907,"nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta",SY_013152
+P76174,"at velit vivamus",357,"sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis",WQ_985137
+P78842,"nibh fusce lacus",1349,"id ornare imperdiet sapien urna pretium nisl",YH_139125
+P80020,et,1081,"lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat",RZ_404013
 P80404,"4-aminobutyrate aminotransferase, mitochondrial",500,"Catalyzes the conversion of gamma-aminobutyrate and L-beta-aminoisobutyrate to succinate semialdehyde and methylmalonate semialdehyde, respectively. Can also convert delta-aminovalerate and beta-alanine.",ABAT-V1
-P80499,Ixbiltbheoww,345,rrmcnkbefhaieqcrrqghqmxadgrtiqyiujlms2,MJ_743080
-P86355,Yflafezwnvpc,68,vfmvlxzziveikbpquunsgooamnruzpjortfxp2,MZ_340732
-P91130,Edbjozryshfs,292,irtcimifsodpwdfcdilmrlpdnizjoetkrakiv2,HC_103561
-P97611,Aohzuolhqvdz,682,wjgeykbjrtmixltihwuarbiattvmijencwjkh2,MX_389762
-P98942,Asoubniwwnab,875,jftmgbvjweqggrsxdfmnfkxcrfmybpmtwjrby2,IN_371948
-P99623,Ckuhsvctdgtb,806,xqcijnjaldikvcwpgebpvrtndrmczlmrcvyma2,UK_643846
-Q02851,Utqskmvqaypz,5,kxryllokazjmldzijvmmqranttvqtmpmcvqgu2,DO_611473
-Q04340,Quhelqxwlcrn,339,vpgfjbkntvqrmitheyqtaqesibgbheowvdppp2,WB_274749
+P86164,"rhoncus aliquet",824,"sollicitudin mi",FA_356884
+P87682,sem,1157,"volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien",JF_481096
+P89579,ut,2259,"sollicitudin vitae",OG_732571
+P89691,"non mi",919,"non interdum",UQ_328800
+P93453,nascetur,2419,"pede posuere nonummy",JS_439701
+P98594,turpis,1256,"volutpat sapien arcu",QM_550527
+Q00552,ut,874,"lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc",FH_733199
+Q00654,"odio cras",382,"luctus nec molestie sed justo pellentesque",QA_944359
+Q00981,diam,1896,"et commodo vulputate justo in blandit ultrices enim",RU_799887
+Q02517,nibh,2106,"in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst",PE_185473
 Q04656,"Copper-transporting ATPase 1",1500,"ATP-driven copper (Cu+) ion pump that plays an important role in intracellular copper ion homeostasis",NM_000052
-Q07016,Qcytjfidqvzl,116,lrklthwuswaxxntjrixjgahktvzqnacpnsciu2,PD_564096
-Q07570,Xxzernrdviwc,2,dcenhcwczrekvcjniwzqrtkkaglbyfjdyrahj2,WT_568111
-Q10680,Xednnkgupzai,499,tnobulizjvtkbxwnyhcitfhndlnkcmdboeaij2,JS_636031
-Q11546,Wulmkrvhscsy,722,kqtdimmlwthhpenoajntuarxqpjfqvrnacrcd2,GF_618213
+Q11472,eget,2279,"cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus",RM_301754
+Q12252,"fusce congue diam",368,"vulputate justo",WI_205790
 Q13415,"Origin recognition complex subunit 1",861,"Component of the origin recognition complex (ORC) that binds origins of replication. DNA-binding is ATP-dependent. The DNA sequences that define origins of replication have not been identified yet. ORC is required to assemble the pre-replication complex necessary to initiate DNA replication.",NM_004153
-Q20381,Bowtlmwjdvdp,36,kayiixuiqwgjbkumbacyalboscdwqimjqlfvk2,BP_531444
-Q26377,Fochdmfcdyft,59,dkhsanpgouamlaqvsiccdegemqeaffqmjluhl2,NM_004309
-Q29730,Imhqgwwuoznh,861,xxhdgdfgndptevdlnmotfsqmytahjvxuxzkky2,LF_867345
-Q30386,Khtexijqnief,996,mepcvtbbxwsqvbsqnngjamzriafkoqfbpxubs2,RT_146244
-Q33130,Lpqtihxewqed,792,nlgjbdqehwshsrduburlvbxdsduqkkeknrlso2,CZ_935759
-Q36529,Lmbvnrxsoqji,391,iceogoknelfaszddjgcssgfsvzfbtaolddvwt2,FF_457762
-Q39651,Ltafeogdnjcj,910,visujqsvmjyglnomisjptntmioktfoiadczam2,UI_540178
-Q46507,Bpgwelilsmzs,492,jpnjcodjkzaebzodqmampbqumikwnqkrzarwu2,QV_775252
-Q59490,Xozgzjevkicz,97,qhdinaygmutupeoevqifenxxfgadiqxviyzef2,RB_560467
-Q59992,Cuuzfbkiyvmg,687,mtpzbzqtoupajitrlltpfbxgxwawbnpbmddlq2,YB_020242
-Q66981,Iginoqridiux,723,ypybzzseqdljfpzlqzedxqdglsmqalkckhnrs2,JN_444688
-Q66984,Sdrkciwyvwfj,106,jtwmmasgspmlysfdgavkivoyedihihtywkzjv2,BD_372747
-Q69695,Pzuebeluwabd,90,oqmppkohddnrykitrvpgnjkwzqlmjmxttuyrl2,KK_920806
-Q82695,Terdvbxghtwe,701,adqdqwtcyghfcablvolvuiieoqziledujujza2,CN_057118
-Q89378,Hhuzurtkdkub,654,jtesxwbucoeyrtyyqxrhlxfkewzhuenktwuvn2,KP_597499
-Q96357,Rgpsenniamks,339,ypnutleprbsqjyopkwkbjqlivevopipfoclli2,DN_264242
-Q97965,Xpcknyvmggao,464,xqvfhxedmrabwitkauqgahnhegkxpfzqeehut2,OM_432975
-R05587,Ifdccwqgamjt,831,aqzuqnxgpnavoomcutukbyrcrlqdgdrpqfxtu2,KC_189266
-R09588,Bpygyjniqlrq,353,ownifscdlqwqwpjnjhbkzwroqkooapkehzqlq2,VE_319496
-R11040,Njgyfcgkofpg,848,nhlvnkhmbtvxptsdcikphwjkvveqobevwmsct2,KN_890322
-R11394,Nxjlewnjjrgd,300,dxugtmlakosdwcqpfofafbpccprdxwxurkduy2,GB_397235
-R21680,Poscfzceqewo,685,zrwtwnxkgbncbtjweidyskdfkgdrxqfdivqid2,QA_463252
-R24651,Crrnjlotsuef,623,cjcxrbewfenpjvwrxxnwlwjrdtzlinmvwwcku2,IE_751768
-R25847,Jxbgcvuhyhsw,78,adokfhpsjpyrlyogvktjjhomrfmdwtckhdyms2,GC_072077
-R28585,Zrjbvwacxvnq,953,kcjbtezmiplmsvgbtsdsalitkdbyonansgtvn2,KC_307484
-R28845,Hsfdnkoxcaqr,228,kizuspxsylxyvmsvmslrjbujqyqllbbcumznx2,SX_931993
-R29939,Tsmdjblzfefr,921,hnkxksllepprvkmyxmxjyxuhllzljwwnnxfaf2,YX_820241
-R31985,Ougkkxuhyhum,153,oekhzyfqyuimhfvialhoiiggspzareqhzcnxa2,DH_132233
-R34762,Errwwnxcygdt,201,ygbejvkzqoxqjgchelqfwzejetjjbnysbaxsg2,TZ_474430
-R36767,Ygrmejllexoi,918,pzuwknwsiqguldnhyhaxvtmzprvkxmrpjujng2,IX_859309
-R37427,Kkuzmhroqeyh,899,stjxbucslouzsxwyomvofdafnzqqtczxsgnnl2,EW_056897
-R43437,Yencmjlgecqz,947,cxitidyxtfgjnnofjguyehjbwezetoiiavezm2,QX_005434
-R43904,Yppmfhwgnvka,501,fcnzzbkppwlfrimoajqgirfxaxrynlzfzhczo2,YD_330137
-R55798,Gnzhybbdzrwr,463,gmlrllypywufiumugtxamxnzbxxhjldwvcvuf2,CW_070194
-R61856,Asnyuxsocpmn,293,lnazcsyuhpsjreukninrjuztcfccspngswriz2,ML_768855
-R63213,Wbtrtfsolljh,539,hldkfllomgxsvauzfirkbxkrfawzxoukuiadr2,NC_182965
-R63935,Yyagdqbrfudc,72,gehzithovbdxrhekirnkmcauhtdcqpqmvvmtm2,NZ_682326
-R66011,Gucrxdcvuifm,143,fnniolfpzijtggyoqasxrdzacrnvgtcpcexwl2,YH_141382
-R71038,Mnyvtqvewvhi,549,kytzqfjmnreqevrflxwuwavtamjcarpnypovd2,DC_317325
-R73147,Huvjpsqjcoix,676,mddlwblkdzsbgmkqkgurcramfwdolkmuqlhxz2,DU_727361
-R74483,Ifohgvkyximc,423,ljhowvmqfeffjrywjgeugmomvjkzlapanyfxh2,WO_323431
-R76501,Elnzuvzmqbed,54,pxwhgjhulbyygbezqhnoydqxlysmeexjaqnoy2,HW_969425
-R78217,Lleyqlbhcfap,703,njmboemrcaglkjptgssympkzpfrgggxdanqhs2,XV_482008
-R78413,Dxsfsmvzmrsi,114,qfzmzyeaclxqcjrnevvncnhveqysjknrjnaam2,GK_398923
-R78915,Fozfpkbqscci,461,qcvrirlfiuyddymgequjgbkqwszgetmzarwza2,JK_227397
-R79355,Szgajljsbnby,118,jhflhfadtmjfodaslwkqgfvrfuxubqqxrfjxw2,MX_075513
-R81478,Lucjkfnjhzby,560,impydlsdledhosbtqhlwqlfshtauevgakglko2,XP_584879
-R93331,Wplhnzgqwvfk,162,gnfldriilizfqhlbusqqnvivnmgnrefsfwkcw2,FQ_952811
-R94523,Yrsvhoggrhfd,946,oxoapvkrvupjevggtveqveanydkqxpyiigaky2,IW_249409
-S04723,Pyxipdryjaef,36,yiikcpafywemhctmhfteixlpoxuqizcwhaqit2,QT_799741
-S09042,Tpohwhrwghuy,86,sxcpqgzvdoovebybvdtccusylauctktkulbxk2,MB_175453
-S11198,Kjqhmsnmwlku,969,wvatdbycoqwokfyreuinykrmgrqrocsvcdltm2,VG_224223
-S16840,Wkwvklwehehy,574,wndukrzbhsmxntaxnbgtmmiemdywemlpmqnvy2,BD_219456
-S19921,Joszwcqsgnhw,69,rffoyljfdlejtyzcsulgfphqjmivlfujbagtq2,BF_081641
-S21743,Ccptvcholhol,221,ujxodfxnpiumcdtjtzotkzahykndszlvvixzh2,VF_286446
-S27848,Xwpnbqnuqref,320,zrjpsxgwliyhsaujkgfiqauyjmwpgekpycmgj2,DP_133938
-S32043,Umgzlcpiooax,438,jmhnbbfxlhvhjbagbbxtmwuygauaouuzqnujp2,KV_866149
-S33747,Hszrahlwshui,422,fvrlpjdcpdgcohnwahgjqpkenplarhvevpqzs2,RX_546042
-S48133,Hsdilwniawlx,773,hucfrdfoowpktlxgrxbmepiuuquwadbccswrc2,XJ_326715
-S52693,Oycrdgklrity,707,wftwfzcuvkvecgatkstgntbpksbydcaqtpdot2,MA_474392
-S54294,Yqahmmutxhir,594,nwordktduegayrwcrltvwpqwvluwsuqgdrshv2,JL_963744
-S57131,Nducrfwapunz,585,rynbhfupzvzhphewvfyjzveleundbkvlhqiya2,GG_534657
-S59801,Mhidqeswurwk,705,ycvdvxqduybmrqrlxzuefstjayivqufkjxzgd2,TX_867677
-S69416,Jdewvieyqgjz,142,klzgdfuikamgmyqocqugkudouqmbijrmhmvht2,FZ_855503
-S69687,Nwptriibosxs,582,ntgeiwiloxggihvkpvheusndbqjlnmmfbuezg2,EX_468365
-S72511,Sluddfblbtuo,421,hkqubtirjuxnsavuhmpzxcvtvaushovftadmd2,OZ_459840
-S76296,Jkqpznxspsjd,422,zldqjpzhtbtqylsrpihjekbgwflvssktfpljr2,WN_423356
-S77324,Jmgaaacgudeu,898,thhtsnzmzqtmvlaosfkrfmsckwpwtyficnymj2,RC_158950
-S84156,Wqxpzivkwdud,794,ocwqhlmetkazxjryslnmcjuxbzpdoevzfuaqz2,ZA_277735
-S88175,Quedoagnaaca,672,rpflhiijcvchrbbjwghvlkjxmfrofjdxpgqjn2,NM_582933
-S90273,Hfdlpgwbosoy,591,ogkmgbmmrnpwuweolkeyygbgkjfpshjpkdsks2,GO_559275
-S92833,Tncywfhubgcx,486,hjzzrdewcltangncamuptmqdsalsmeezliyma2,SY_143066
-S96134,Vvcovnqhwspw,864,muqojhmfknboxirevovqwzcmogltbndsdztlf2,AE_377279
-S96829,Mhjzpqvdmdjs,886,smhiytutrnrwgmmpwbxuunmakoffpkvwpdamg2,SN_743007
-T06812,Phksnqggzyzt,551,vswvruldyexepyftzmboqdrgniqxvhmvasycu2,WW_706476
-T11579,Kpvctxelwvrg,944,ezxepfkoxlztphsoncjlxdfxptkdyvjbyylac2,VW_717500
-T22777,Fbdogycrhuaz,740,rkbdrithjrqtnirpytvfcpoqttrnevmmripms2,HJ_466255
-T29423,Klwonmudjqfo,529,cmotkjjybbaqkowkqvawyowkrpceglwjbwrfe2,WC_262168
-T33159,Qinjwljclkmj,79,uhntzbitisqukadqhdnzlupbmjfpekspwudco2,DD_695284
-T33669,Amexcwbwqqyk,493,cxytqcevgpbfnniwraickpegwqnihkmfnmizb2,BJ_995742
-T40692,Hniydczrgkec,870,tjzqfurtyuqlheychovnbumqbhovuejuoeicq2,HA_192309
-T49672,Iihzxfjtmdcg,611,qmsfwgytkhucxepsqclduqwybunwaayqplfhr2,PI_864488
-T51796,Ndjucuuchenh,139,bgejhtgphgddezzntdjzvhjoabacimwgextvv2,PU_728985
-T52029,Vqlvstpydbjh,192,mqjxhxnnlgddvahlqvhtkeahebxurncnrpuni2,CJ_758295
-T55772,Kbsrnhqvhfzm,907,jnptbabcdbcfjtbqunsywxezovdkymjemyzze2,OO_035130
-T58975,Wlyrilfmqudk,921,dcmhcsqfmkggoitjzypbnlcsyboqorkplpyxm2,TV_759765
-T65249,Ymyzyfvxvhwo,338,xlillkoxftcfcpcdbwyvtyfybwsaysfmilfro2,GK_006183
-T71768,Ishdrbzfsrcd,261,iubwwkiijzbwipggczlpkbeqbmgxqujdxlzaj2,GQ_656792
-T80563,Tuvtuxvgqyon,619,rmfkjwcaggmmnrfodnstqccxktdsvcelnsfrq2,PT_014278
-T89514,Hprhueuepjmq,522,pvommuvclshkiwycjvmddmwlfyczckiogoqph2,PE_977717
-T95051,Gjckpbaowwhp,766,lkmhgygwhqnizdoirpsvdtgjdggnvungtrazk2,KY_715108
-T97218,Pqwnzkberswh,391,ivghjvmovopgfpuazanycmtbivubnughozmpk2,II_067396
-U00704,Ewrdbyzboedb,878,tahtgliqtpowrbxctpbkldakzvsapaemmvtho2,PS_493338
-U06661,Elgzruspcsyk,372,eccwlrxoqfziqfydiqbninqyoutnbrufojihc2,CB_543102
-U10166,Dstxyfjrjcvv,682,akwshlmhopngdgfxsfynkyqjbodqfzofyicew2,XM_759298
-U12009,Hetgcoylfhuy,931,bciemwhhnouomoxvtpafcumuuudxfqpqmqfhk2,XF_595195
-U24912,Dyaumcvjuony,993,fdyutacjwkynzawxzozigtvychrcluhsdyisw2,GI_991712
-U30223,Vsqruplubevc,274,haokkhrsbwsjqxvqliauxtglngeqipcfnisla2,VF_771167
-U35262,Eibcaobboklx,315,oafjxkmjsbciftawcepxjwxxrifpjpxipskgh2,TZ_323215
-U35322,Cmpxwcfkuffy,132,qkhsnbvvodpwmbhysgbcivagoanypebkdqtdl2,CG_721168
-U42649,Yhqpumalbluf,600,dptnkpoyygfiffwihyupjadjrryosgyrrkwcx2,BQ_599332
-U47420,Sybbknhtjhpn,285,hwwsspiyimtbmcinsspthwqfhcgnkimucewfs2,TM_470626
-U51690,Hyxfqbsobasm,671,azwohggeslmnuaijbhdoxsvwvsxcdcproctsb2,FH_930263
-U53335,Ngmjqxzowvai,125,fddhjnjlczyaabpoyrziaelltmhjelcvezmig2,RH_184631
-U62967,Tuocpgdctokn,257,dengqdtstseaxnpyzitmqwhbkxlwaxvtazhjv2,CV_140858
-U66303,Cixtkugsgesc,320,ppkovirhptkdgavxxymucqppcqrqdhsazfumb2,XB_450552
-U68460,Qconjgmrpiiu,256,wkqqwjqnjbczokspgzaovdaqnokhvyuwaeoto2,WI_860500
-U70150,Hjjznmisurgo,359,jpqsexhrsesjkoazpugebrlawwvpkktfdctck2,NO_601051
-U73777,Kpusgeelfdfo,874,zxnjugayifldsjwszuldqgpexrqdaebgjmhim2,UD_921270
-U75477,Nlzdtvtethnj,946,vkddkpqrdtahvwdlonxxofqvpjaaqzoxfywwz2,LU_502325
-U75829,Reazqldgrqva,94,bujtcrtkkouyheefoomcvkbvlbjvoxtaeucug2,AD_319569
-U76022,Qprvlduguhro,981,oqhrklniqylwhoiyrawjzefbtrsgvegljkyjv2,ZU_164779
-U76453,Vxjkjotdtmxk,283,pejdjjywwedjprkalcynihyokadomtihdnyav2,UJ_731767
-U77070,Pivohpmmflub,331,xntkkdpydpgwurctfdkszzqtnsrzdnsxlzfnv2,AN_067061
-U77526,Tiaszreqjizi,119,kygorkjrajzahffzrymmpwxtagpqehhjoypch2,YQ_383527
-U79798,Rnmndedmeptm,984,fjsqcmrakszprlwwhlwfhopatphbxodvqarrn2,RQ_082284
-U80813,Gvkmfiqhczje,195,dicduthjjrjgeifdteotajyhzdcxtsmuforlq2,FZ_384981
-U84726,Ymuahrtpizrj,550,bjqbhdaevwbrtqowiiqvayiihyutdiugxchze2,CU_441112
-U85177,Wnsaazuxvhzx,254,xbgwkmmizxdbytztumlhaljejcdpuhvnatwhz2,IV_895222
-U86796,Bwqjlthsslcg,469,jqioouberdwhgnchmybmhcirblxaiklxqzlox2,YB_461761
-U87115,Fzactrjqqbax,288,tyqlysmrjejebhdkltdbmuvuljlbiumnxdmtb2,AH_525963
-U89022,Kjpxtdwvajvs,348,dgkcwofkpmhuhhjwcthygpxhrgfoubaysevbj2,JA_091353
-U95535,Rdljcukbnhwg,879,xmtowwewwmxjlbrpsnsipjhlcgowrnipfdawv2,HV_089221
-V01690,Gknwcogognow,984,pfgajhwcmoxhwlugwomdhgynxichhddwciblx2,JJ_786906
-V04999,Kazhkeuuuwzt,30,gdmibltayfiwexdcysyjinggkfsirlmpaxtxo2,KE_379227
-V06335,Upuzkgmrzrtp,313,nnkajemujxvxwlrrirbtdseetilrwkomxkxiq2,ZO_690477
-V08451,Awlkbruemdqc,819,esxkgcyczhrpgvebzqvvqdeolluljhingubxq2,WF_023319
-V19645,Nclwpsxviorx,875,znzszcgqcvvxczdygvduslchsokwxnnkzhqkz2,YJ_569110
-V31413,Zokfqgminhie,512,gedikrmhxejpttsjezfsrvngjubgwctrfwxwm2,EM_043675
-V32692,Tgzdgryhgpba,170,jdzgeeszapohgiigltwkunvpgmpymipfyzwwr2,UR_862942
-V34871,Piagyddevjdk,318,bwvzlbztstbtzoozrsjgqaimzbbuogobuuggn2,TA_237835
-V35716,Khzhfigglrqj,684,saxisymwobzhepguhlwpzhbdtgzmwwxiobnzi2,GZ_685541
-V35944,Srcjbnolcsgw,263,qudiydyhsnxufqpsffyvgtvtwzbjjubqtygfk2,TJ_079650
-V37392,Jhpvzkfbhxnk,816,qigfoyfanxdknpmdkkgwsbzgizdozgoubrszm2,RS_449089
-V40651,Akgvnussuasz,504,tokzmuctnrcbcnzuuipqwjnkpydtlbwvqbegm2,QN_759203
-V41624,Precswbaoefl,726,hyzrlmrthkjmnepcbwbdacutxscycbmfrsbjh2,ME_068284
-V50482,Dhwoinigjafo,423,hzxiehucxugpfxppzcfvlyjugiqgwcsjefnsl2,NT_869310
-V66137,Jxqpknlktohq,41,ognoohiwsahecrmusdoadnxfizvijrqknyylx2,XY_604013
-V66241,Rpgircjijsxr,595,lwiamnuclbdgqjlwzewngduvbarerhuhopxyd2,UV_957445
-V68066,Kwyntxvdjfpb,711,kguedflvogomvaxuylifiusnuxblmxzqigoyn2,VK_812684
-V73813,Pufggytduynx,546,hycmeyhtgdadhmyfhwpyxwqnzzltelcfiudso2,YA_081845
-V75847,Dfnkhhgtqczc,422,psihuydbslnubmzwjzvcjhqvwhrvfewtvbriq2,YT_014760
-V80539,Okmtfhooreix,410,fdxlfxhydhldpwithzzdaotavdabrykzajnlc2,NQ_264733
-V89924,Kbsssyvobtwo,425,xxlwbuhnekiqsqtrnntcwxdojvdotapeawsgo2,CQ_206678
-V90383,Ycdfpdfngftz,335,ueedsmhdtorhwxzplfopikgdtcyrkwoyyzbhc2,OV_852496
-V91292,Dfaqvaoomqqv,421,ljsmrtnhukbzoulorfffwnuudshhwtduexvzo2,FJ_537924
-V96193,Unkvxjyparad,761,olgoxleloltgldklnlvipuqsbcomtzofbdtcc2,TO_079958
-V97365,Clcdmxdcnmsl,218,psdcifvukaozkkfapwnuxcpdqxcmcsjkvqfok2,AF_368791
-V99107,Ffxkdfupocws,308,jedkkfkxkclgrsrliixxrmhelblekzqztfiak2,LG_203701
-V99411,Chbnwfwmvbqy,159,ddsiiygyeeevupchxtxbwqqpztqlnnjqjotew2,YV_603520
-W00929,Wtqbpyqwoeyr,220,plqmjsckpyaovetakbqueaqovotucashsxhyg2,KG_904820
-W02923,Iadeezgpdstc,426,korqamhttbmntydbtafywjabewnlzdyibyvmn2,YB_464818
-W07301,Tloeyepvmhrh,95,wttwrmacnbhcrvbeepogkmvyyafdcvttibavm2,JG_540400
-W07615,Ckmynnjtmaoe,957,ozhsodzzsudvbbtbgifbqpjzwboukqqgwbtjw2,CJ_587812
-W09875,Mcogktwyseei,898,tupcvdpjginqwqfqpaynfyryqshhcljetsegw2,YG_819618
-W13497,Llsfbkytdgbm,922,tqdiagtbfagafridjpvthpetyxhgukrqqwlmc2,IF_426201
-W15936,Pyzhhzlpaxhp,34,fdgellnenxsibbzzisofqluoesckkrbsplyie2,QD_200532
-W18977,Mgxdeeqvvudh,902,otkzhisenypndyrozbcvavwgyvqjmeqaiidqx2,OV_864721
-W22949,Esrpjuglgvaa,144,uovxhbsqlayucdsxjdelijkyqgoikdksalkkw2,CT_520632
-W26992,Rkmfvbuxvmjb,86,gathbzquduqjzwxukincgpbyvedjwkkgkmsmv2,TT_150805
-W28441,Xcmhqkowyjds,489,vriysdpfomtkhqkktdlntyskvrbnrrnvbqvqg2,ZP_373664
-W30042,Wpbhukdhhimn,794,kgwkkvzxsoctvtmzfnorctcojlgjogvhfowvt2,VL_733302
-W30992,Annwnaasgihn,197,sxainimenhlopjtflqqxyqadynkhckcucddmd2,DT_319488
-W31601,Zpfzadchbeuh,68,esodrqdekbwhrnpkzvqzxteijuqfgfyqcsgzo2,ZV_803246
-W37161,Bqitrdhempvp,746,bwselisaaoutlmsryqargqufplfavibhtxyad2,RZ_591699
-W37663,Adolwllycwhy,461,ooocnwnmwabxaiavcpfjulatuogqywxcrudjj2,RU_968877
-W37971,Ftwogyerrmdn,978,pcpomvrmmbrzwojqqundzczfpghybeljvrfwh2,PP_613792
-W39101,Hufaemyvungo,870,imdknvobfiqniolurttsmtucvzdpwnrmwrpqu2,VC_636017
-W43506,Gfhrqztznjrq,834,vaundmnaxcejhmgchsxuvhuihlhqhavjcfnjy2,VA_584703
-W45089,Ghxoiyjzrtxj,175,hkfsbszabgithbgmfzzogxdeisdefxmoravco2,ZE_638730
-W47473,Mvylyggkbebd,15,ioghgcsfokmmvxgznxugtyozokxmlorkkulqc2,NT_334835
-W53804,Lxinjpfuxjnv,14,dlqpzumyiwmopmcsglwoiydpbmridvgkmymju2,NK_807181
-W63777,Ggmdsttyorze,340,xzebbncsbnrvjgjigzuslkkkzevkbqmmuucsb2,JD_016539
-W66657,Datfztishldd,207,loylttuqkixpllzpkxjdoybzawdpoeikaefhi2,KA_200450
-W75359,Lnzrlwpiryft,733,euxpvqjkitupahwduhifpkxdhsccyewmppfxu2,FV_338629
-W76459,Egbdtfcndhjz,554,nzzwfevvwoeffjtethcwurnmetapwalhxpcro2,CF_405438
-W78068,Epnzhtcfrjen,885,hyaxlexsoklnupchkfkxxpfoorhkqlhwktymz2,SC_471192
-W79405,Jspogqucwzds,388,lynuaocupdgwvusgzcarulbfjixjioxjbxqmk2,NS_226674
-W80870,Xvjdobzpiqzz,483,iqwjegqmdxlrbovzyjfytvgrifvahkscwkuxf2,HE_819731
-W84348,Nznjokbbihoq,647,cpnokbboexrnatqmqbvrvrahsctcketrfmyaw2,XF_873432
-W86373,Rwdheqgfdjfx,795,kmdkanxkzmvskxihakxeoarsylftsvxbcmgut2,BH_765414
-W88511,Otfbgxbuxkel,500,oxwbeoddzuaoikpgwycjqtztjuckujuzttodw2,UR_958500
-W91414,Iadijoryitec,59,kqdsdlkwvjcjbowovbiqwwyiobduoxhtrcxiv2,IZ_873250
-W93479,Teenklxewjzv,82,pqgqyjnalcyaxdzerznpocnkrbsgctjlizhdk2,GW_350894
-W96280,Utajpbelpysy,903,xltommfwgwxdfrzorjlxidxvomukunmwjbztt2,SH_518830
-W97955,Toddpguwkrxk,722,pgtndzxczfmokdrevzcdjagatgqxwnxknnnrw2,XX_878238
-X01247,Tbxujjpfrhgv,659,vxxxporxhzhhywtntbcrkmyhfqwziiatrfyxu2,NM_002556
-X08039,Oikvmnjrlbsq,601,whpjnnrvmwggtcakdpcswdzqjfbfwhuzxgqwj2,ZI_760696
-X09002,Rfrjgadnnaei,677,dotbmxqeanpcryeyzpjcsmikjdbmglkvpzjkn2,XN_140118
-X09166,Gimskkybpeht,891,ciywmwhixjxnsagkikxsyqehemslermwygoss2,LI_676607
-X12978,Yuejhfjnewjf,245,wcdoxxyyragjpdsqfmirhjdfpolwmbzblgvux2,GG_356252
-X15078,Xycxzytzxdkn,712,meocfkmwzwshinjxyrooxduwreibswzlqypay2,ZY_269107
-X17494,Pykjcbecozzi,137,bmerdxthodxmoiumdreedewcmrhotxlccowgq2,ZA_325954
-X17863,Nstkahdekwvj,348,eyaogabyxmcnzkkzxbkmoxkyfyvihhvcgbpzb2,BT_645917
-X20715,Vuhrfoqoeqsb,133,wtdlwtzkfdfqzmeqpbgrtyiiplwsbfrfrcjjl2,GU_126718
-X26099,Aykqyqlazmvk,525,efljulrfkfpklxbsicbzjepmybduupsmzrzdd2,ZB_347310
-X29397,Stmgeufxfomt,161,bmdeqgjtgrmlprqpfrhhghhpaeoevguorkedu2,LU_918060
-X31114,Sfkxevhjwtbd,528,swqxrybukhecbgavckpsqodgbofauaauzgibz2,DA_589367
-X32839,Cmsaabtrgfkf,991,usdockrjxmbrrpczstfvweslhvxlpmqzxngry2,EF_256946
-X35983,Npihgjiafjgb,186,dungpyipvuxyuuvzmneacddfbpieaxtjietsa2,LU_462833
-X36266,Wksdawsdshaa,532,fycdzbcrbrcucimkvmydzwpglypvhzhvwknlj2,VS_919483
-X37151,Qmwqywpeyngh,399,bwcamfekymhxoraolxxppjfvveornrngsvlxr2,OO_178518
-X43169,Arpudxjzuvdj,718,lsmcvtngwwofvvnolmrolumeopmfbixboweol2,CO_513178
-X45145,Ztgfzihdravf,404,swvmrgdignedwaijjdguwtuptbdgpshnwxnco2,AK_421948
-X57137,Pvyomagabrhd,573,siwbjveedmvafeyeubxfrmeyecejvzfgnlkiq2,PT_839713
-X63889,Oftcbznmzsyp,808,mugnumiqeqrdhfxpayafmkgkgcdogmvototji2,AO_114844
-X68465,Krtlexgykdwp,673,cegfkmnajngrgbnzlwkoixvwdfxcdcxnkgopb2,HW_877284
-X69172,Purtjbubhmsv,658,mljrjvkrmzcjtjtazhwrzxiabrovsueudxvmw2,AV_914721
-X73909,Fbifxjonmmqy,197,wpdbowpqcuckftpyormjbxtueyfywmtqmhtme2,ZM_936766
-X77998,Wyzcqxsvnouc,517,qdtcpsrvjeskrrnzldeexlugpkliltanhtvna2,RR_171954
-X78440,Jvosdjpwjaaa,603,voxbhtplrzzizmhmmgvxbrbdzazzhqwommncg2,QN_428877
-X81211,Pebqkitbdbai,895,ztzwegyolizxmewmeebxrzgwtswynmxclrady2,KC_923378
-X81639,Lqnkovgrfcqz,557,ccrdfxpkhgbazxnziphbummgvclmhlsdvdzzp2,WU_282678
-X89409,Lwiibtknlfer,69,wyxympfakfgjdxzrygujvnfoqskopqnqwquiu2,VH_977303
-X90350,Lgyltczgywcc,296,bdekxymizcdwcwnxxnnthbboqmqmzbyssrghv2,LF_574489
-X91394,Lxeduouqjjml,544,voasxofmzrazaqqsrmytcebvkdpkpehsasrnt2,OG_282198
-X92269,Erthrtdyaati,579,wnqctsvksvedroffzsybdrpxlksuvaswrperz2,ZP_489936
-Y04850,Koeutuqwnrkx,238,nypjlohwuhftzvocgmpkhnhwpndshkfhnuyrr2,ZK_370885
-Y14604,Jzvbptnsxqly,444,yzwmfstdmxyecarmithgkmyhednwbhpqemypu2,GD_591312
-Y14747,Oommrmlfbozl,765,tdbodbpvfemdlsbmnzvvjbdhkwtupquzdlmkt2,QR_989948
-Y16380,Huyorjllxeje,504,lrfcosuetwkflsgixvvvcsjveyrybpdrmhxyx2,OU_902580
-Y16726,Gefjejnpisgc,948,cgdsidbeqjalpovyadkvjbgxesctgopuyybdd2,IO_635867
-Y16768,Ptrtnwivdnhj,810,cznkhmzjvkkvoeftomejwrqlezuowtwgsdyde2,QX_297856
-Y19209,Jzczhzkniiur,900,dlluduzsbbyghqaseasrqtrpmhawzxcxbduzg2,UL_265749
-Y22237,Vtwafkcvahcp,752,ajvrzjbwkitrtzuwbkielqmuhfdqxikfwdmcd2,ZJ_412953
-Y32324,Lxohoprjlnoo,668,bnnmoprrffmlzcrqqvbziddirnodsanlxxqyv2,XA_735358
-Y37605,Dkulzthtfnle,111,fgywwlicymhmtlvlwrdzjqtvqizhukiaufrkw2,UC_501516
-Y38168,Pamrzfcnbyfp,503,ggzdbqsrmdtwcvlyxsitjrhnnhlydgwrkfewn2,DF_359187
-Y45110,Bagrgujiyoqb,772,ewvqyazlebftgogxleihbxcbcffikjlljspbg2,AU_430762
-Y52931,Wfvceyrnbsyh,721,lrtjsfjcqsuvqrbyghtgrkigsxpjrwyidpoxd2,SF_262548
-Y55265,Kqrkmjunkslw,125,pzifetpmwhkrlddkhailikokldhhqrudvpdmv2,SY_901381
-Y55939,Xuvbzeknvpgv,960,rocqrwdbqjznucdrzzonjttrvzqucwlandlkk2,FB_207243
-Y66728,Aacfzvovwngg,221,marukpcbalmaxpgjrailnepvmjpfbejoqaqci2,JB_717489
-Y68213,Iealtkrcycvl,158,autpgzorwxmggewdusptnxurjtyripdejgedd2,PW_271989
-Y70295,Ablxbhdbpwnk,103,wshzgnuqwarqnskaqefeyymmespippyumsjpw2,FP_221677
-Y75516,Ciuocqsdcqei,78,gluaveijkljnbgmdymdtdzuyoodjeydivyfmo2,JF_686629
-Y75609,Dwphwhlskowg,377,pwxeuhutgczkzstqrmswcpieflveipxgzgxli2,OT_714411
-Y84195,Xkupomgmrftc,169,sijrcbjosnismfungkyjhzpqmnsiqmgfznabo2,IF_806319
-Y90306,Gmqnywgjgvnm,936,ixqdfaecuzbkhffplasnxqjhsfksolbrgunxw2,TU_433989
-Y90595,Ombnwmzrryfr,213,impclndijfepjszdwdymzqaqnqofqbmsvypfi2,BM_244310
-Y92551,Nporputqquyv,80,klgxivhkvuzpusvmscwzczzpydeagmtilxnkb2,BZ_488008
-Y94603,Esuriphuxaml,792,actjtscynqckyrfqaghrwzhgulmqtnqlvkkum2,YB_416574
-Y98998,Hrrxwkdwuluz,883,mybzybleriosehjpytlkhlzizjerlzmurdexk2,WL_416281
-Z03227,Wbhbwtkazhac,793,qxhysbzzabtqivjxlbvnshuoebryjxahpxlje2,GL_694673
-Z13274,Ilakfentgesz,253,jaaucsrqhtpjmtksjhcfbqywahgwvyebgbzjh2,GR_128180
-Z13347,Waonzezvivyx,778,zxstszamnpghpohjugxdfxdupzhkjwjswldet2,NG_214522
-Z26263,Dzuqfoqbxyvt,767,olddodfuqhrhykklkubhilakstphwzsbwohwz2,ZE_609611
-Z27418,Oetdtftybszl,868,ptrnecmkirkehdshyygdpnsmofsjodryvujpa2,SN_885599
-Z27498,Zzwxpccupekw,630,sqgqpleuzpgvohtyoyubszpgvzpxccpiuilke2,DB_523524
-Z29052,Zmabyefhyjeg,898,emnpmemrmishbitusdvwrbbcqdghecwxephvv2,VW_191389
-Z37142,Sdbcfiwribbg,372,kqipjozyiwrvljigydunjgunbnisgguxzbcrc2,GR_745406
-Z38932,Uvnyerqymkiy,971,nhfsgebwnbpdfewokrrwiuztdkrocndvaqvnx2,PJ_884749
-Z43606,Besvtxoyvsyz,657,nqkihhqiyygbsavgpfvrtcewfjjnssmtpkxri2,YK_592301
-Z45416,Ckdaaegdvxry,292,itibkiaslerwbzeooajbbibfagxjqmiafvvlw2,VC_216394
-Z51733,Vizweokvgraa,907,szgvmrllbdsvuaeawxhzjhjbmquububeshqqo2,MV_817799
-Z53437,Iwvjmhxcnkwa,273,bszghsybhmfbkwihqcgpziplxhuhpeclhkugz2,UN_623639
-Z54747,Gluwyjnauxrp,581,mfoohupobhypegcscivxpnknmchbvwlkuxxkm2,MC_323831
-Z55761,Cdcqxruggfbz,991,centzhhaumnqbprzweignjuevcbxjyurykovx2,OJ_291535
-Z58438,Nvpxmhavoxps,76,ypzwautyqfztmcofowjjozobhkgjxypupiplv2,TP_905975
-Z59692,Evnweabhrcnf,75,yrrhlidhyoipgnebqdizyqybraohnefrjnmit2,DS_356707
-Z61373,Qcxuwcwwsheh,641,ngpolfhogqkmftklprfukgzgpysidhdysjvoe2,PM_476156
-Z61418,Laqvbipzmfnl,278,fauvbabtprymvrqeansdquqryngsatryxyrhr2,MY_157539
-Z62312,Ugnivcaelvgo,476,exqdqyayyevhhmejtundsqeugzyfivlgyhcsz2,UI_779823
-Z74709,Hsmdhtreonow,252,fxetutkehzwdquxczmhwisufegpzlgmbvekqn2,JQ_191719
-Z79683,Isoohhrzlskz,587,xsgntbhmbukwejcnwkmuizupocbhluysdroez2,AM_894938
-Z97590,Srwnqcvbccsl,81,llclapzxdigdjvulggekmwspyxvyayifxpzaa2,CS_400407
+Q17245,posuere,2267,"ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim",PM_363746
+Q18286,"dui vel",430,"nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla",QD_840774
+Q18495,"ut ultrices",1119,"sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus",PE_430989
+Q21053,nulla,680,"donec semper sapien a libero nam dui proin leo",JL_761629
+Q22736,nam,1495,"interdum mauris non ligula pellentesque ultrices phasellus id sapien",RL_874701
+Q26285,diam,1864,"luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus",NP_503844
+Q32065,"dignissim vestibulum",910,"et tempus semper",QM_206811
+Q32129,"vel est",1111,"tincidunt ante vel ipsum praesent blandit lacinia erat",HA_918532
+Q37450,suscipit,1966,"ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor",LQ_971326
+Q37951,"id turpis",528,"enim blandit mi in porttitor pede justo eu massa donec dapibus",XP_396249
+Q39918,"dapibus nulla suscipit",958,"amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis",MS_408190
+Q40247,"lobortis ligula",133,"sit amet turpis elementum ligula vehicula consequat",QO_334821
+Q40588,"libero convallis eget",1212,"et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat",FB_615600
+Q41512,"fermentum donec ut",2175,"odio in hac habitasse platea dictumst maecenas ut massa quis augue",UQ_174931
+Q47008,"ut dolor",909,"leo odio condimentum id luctus",QC_672291
+Q48449,"volutpat dui",2487,"faucibus orci luctus",UR_796250
+Q51816,"eget orci vehicula",194,"sit amet justo morbi ut odio",EC_577908
+Q52043,"blandit ultrices",1521,"non quam nec dui",UC_894587
+Q52974,felis,2424,"libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in",JR_005693
+Q55658,"a suscipit nulla",469,"curabitur convallis duis consequat dui nec nisi volutpat eleifend donec",EM_248664
+Q60881,non,83,"sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam",QG_918556
+Q63221,"pharetra magna",744,tincidunt,PJ_935036
+Q65573,"donec ut",701,"nisl duis ac nibh fusce lacus purus aliquet at",OK_259575
+Q67801,"consequat lectus",1328,"habitasse platea dictumst maecenas ut",HF_408097
+Q69112,"justo in blandit",380,quis,ZR_222633
+Q70010,"primis in faucibus",2288,"ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum",BY_096147
+Q70060,"est et",2485,"leo odio porttitor id consequat in consequat ut nulla",EU_130921
+Q85695,mi,112,"turpis enim",BI_404662
+Q85968,"eget rutrum at",1893,"amet sapien dignissim vestibulum vestibulum ante ipsum primis in",OL_687256
+Q86639,"proin at turpis",301,"nam dui proin leo odio porttitor id consequat in consequat ut nulla",IO_494106
+Q86800,"convallis nulla",2313,"ipsum dolor sit amet consectetuer",BG_849303
+Q88947,lorem,1478,"mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis",NR_925012
+Q92207,"odio condimentum",2210,"mattis odio",UC_780960
+Q95599,ridiculus,1038,"dapibus augue vel accumsan tellus nisi eu orci",QS_621489
+Q96938,"orci vehicula",1758,varius,RU_513698
+Q99433,id,1790,"mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor",EE_738543
+R02021,"venenatis tristique",1569,"vehicula consequat morbi a ipsum integer a nibh in",LV_834373
+R02058,tempor,1472,"pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat",KZ_282639
+R02741,"magna vestibulum aliquet",2363,"metus arcu",IM_761825
+R03511,"in leo",2199,"vel pede morbi porttitor lorem",QP_827202
+R05530,"scelerisque mauris sit",1925,"a nibh in quis justo maecenas rhoncus aliquam lacus morbi",HU_255362
+R08205,porttitor,2454,"donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum",CQ_788916
+R08392,integer,67,"in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur",YO_415047
+R09620,vestibulum,1833,"elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus",GI_955746
+R10914,"porttitor lorem id",1153,"elit ac nulla sed vel enim sit",HH_537704
+R13610,"nibh in quis",1756,"integer a nibh in",KB_897830
+R18728,ipsum,1391,"leo pellentesque ultrices mattis odio",RQ_415398
+R19801,"lectus in est",1031,"et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit",QC_356971
+R20670,"proin leo",1446,"venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed",OD_834687
+R21246,"nunc proin at",1695,"nullam orci pede venenatis non",PN_073183
+R22665,"nullam molestie",2390,"a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices",QH_102829
+R24876,"nisl duis bibendum",1160,"aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non",QU_751469
+R28846,sit,2482,"donec diam neque vestibulum eget vulputate ut ultrices vel augue",IC_724861
+R29441,metus,301,"pellentesque viverra pede",OV_119545
+R32295,"sapien sapien",1735,"neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis",LN_046630
+R34654,"vestibulum ante",422,"eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo",WK_740228
+R34867,"nullam orci pede",300,"nunc proin at turpis a",UZ_771376
+R40216,tempor,2267,"duis bibendum felis sed",AA_851197
+R40941,nonummy,650,"ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra",KS_756502
+R41849,at,1221,"mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus",DN_324036
+R42455,risus,1248,"eget tincidunt eget tempus",YR_581573
+R42570,"consectetuer adipiscing",800,"at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient",NK_887912
+R45831,"eleifend luctus",2460,"eget elit sodales scelerisque mauris",JR_325087
+R48842,elementum,1036,"ut mauris eget massa tempor",QJ_408087
+R51849,"maecenas pulvinar lobortis",1950,"nec sem",XQ_937192
+R52138,"magna at nunc",2238,"volutpat sapien arcu sed augue aliquam erat",PB_506114
+R55021,vulputate,2365,"potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi",ZT_995564
+R60447,lacus,700,"penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida",IK_124049
+R62241,"orci luctus et",1801,"donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum",KI_265329
+R64504,"morbi vestibulum velit",499,"in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur",FP_869788
+R64517,nam,417,"quam sapien varius ut blandit non",QM_742533
+R65771,"ridiculus mus",1976,id,RG_392319
+R66558,"justo etiam pretium",953,"neque duis bibendum morbi non quam nec dui",DH_555741
+R68880,"etiam pretium iaculis",1432,"luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea",TE_175699
+R71650,montes,1690,"in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit",XS_816026
+R76053,eget,1107,"massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt",HD_284385
+R77495,"amet sem",476,vestibulum,CW_735661
+R77725,est,1973,"eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero",OC_235712
+R78187,"vestibulum sagittis sapien",1338,"porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat",XP_353799
+R79280,condimentum,1276,"tortor duis mattis egestas metus aenean",XL_882414
+R82268,"vitae nisi nam",1170,"sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus",SU_465331
+R82742,"donec pharetra",1829,"nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque",AS_231168
+R86259,"neque vestibulum",133,"felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in",XG_726226
+R88627,"dolor quis",100,"pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate",UQ_751036
+R88906,"erat nulla",2138,felis,FJ_699728
+R92670,"morbi vestibulum velit",1053,"velit id pretium iaculis diam erat fermentum",HR_738070
+R99495,risus,2018,"nisi eu orci mauris lacinia sapien quis",UE_858452
+S01751,"non mattis",1254,"at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at",BF_786322
+S03476,"quis orci nullam",1448,"urna pretium nisl ut volutpat sapien",CV_459580
+S04640,"odio porttitor id",1757,"montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl",IM_862619
+S09232,"nisi nam",130,"odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit",CF_778277
+S10386,"a libero",1882,"accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus",VI_611086
+S13693,"congue risus semper",176,"nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis",QQ_382750
+S15754,"ante ipsum",218,"sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy",KI_005392
+S16195,elit,906,"fusce lacus purus aliquet at feugiat non pretium quis",ID_806209
+S16500,vivamus,1851,"dapibus at diam nam tristique",QV_530982
+S20282,"eleifend pede libero",2384,"auctor sed tristique in tempus",KS_460686
+S22767,"in felis",1479,"maecenas tristique est et tempus semper est quam",VJ_952145
+S26613,sit,430,"vel nisl",LL_797686
+S27001,"integer ac neque",1847,"at turpis a pede posuere nonummy integer non velit donec",VM_942166
+S30176,"nulla ultrices aliquet",789,"nullam varius nulla facilisi",UO_825329
+S31276,"sed justo",612,"sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et",VC_020600
+S32055,"maecenas rhoncus aliquam",1913,"nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum",DE_052787
+S32786,"donec quis orci",230,"cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam",WG_584151
+S33381,"leo pellentesque ultrices",538,"ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse",NF_314704
+S33482,"sapien placerat",2105,"vel enim sit",BW_171602
+S35258,"vestibulum velit",1768,"nulla dapibus",DM_922723
+S37026,"blandit mi",1482,ligula,NJ_076057
+S38420,"quam turpis",1406,"in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor",WK_669673
+S38479,"fringilla rhoncus",991,"vel nulla eget eros elementum pellentesque quisque porta volutpat",CV_249157
+S42557,egestas,2128,"elit proin risus praesent lectus vestibulum quam sapien",IN_130087
+S48207,"consequat ut",2191,"venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu",WS_947381
+S50279,"amet lobortis",1870,"fusce consequat nulla nisl nunc",TG_439258
+S51882,aliquet,537,"amet eros suspendisse accumsan tortor quis",GL_161511
+S53034,integer,173,"luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse",MW_447642
+S53550,"amet sapien dignissim",2209,"sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus",ZO_199254
+S61645,ac,212,"nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id",IB_171803
+S62712,ac,2015,"et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam",XB_506709
+S66106,"odio donec vitae",650,"lorem quisque ut erat curabitur gravida nisi",ZV_273201
+S73350,"quisque arcu",2350,"donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit",CE_146672
+S75670,aenean,1296,"mattis pulvinar",VY_009671
+S77459,"quisque id",268,"dolor quis odio consequat",JT_404589
+S79133,"quam turpis adipiscing",1943,"vestibulum aliquet ultrices erat tortor sollicitudin mi sit",KD_327737
+S80283,molestie,1936,"quisque arcu libero rutrum ac lobortis vel dapibus at diam",JT_684163
+S81621,"sed interdum",2353,"rhoncus aliquet pulvinar sed nisl nunc rhoncus",QU_730045
+S82501,"ligula vehicula",776,"ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla",UP_927450
+S83520,"in imperdiet et",933,"porttitor id consequat in consequat ut nulla sed accumsan felis ut at",PO_987583
+S84205,"magna ac consequat",483,"non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae",EJ_018957
+S85044,lacus,139,"mus etiam vel augue vestibulum rutrum rutrum neque",AD_215842
+S91410,"et tempus semper",2464,"tellus semper interdum mauris ullamcorper purus sit amet nulla quisque",RC_867835
+S92368,"iaculis justo",1133,"eleifend donec ut dolor morbi vel",BX_507194
+S92441,nulla,672,"duis mattis egestas metus aenean fermentum donec ut mauris eget massa",TF_137785
+S95503,"auctor gravida sem",2468,"sit amet erat nulla tempus vivamus",HM_624133
+S97442,ligula,1431,"integer ac",DE_220918
+T00168,nulla,1348,"turpis donec posuere metus vitae ipsum",AJ_452306
+T03635,"mauris laoreet ut",320,"vitae nisl aenean lectus pellentesque eget",RF_146984
+T07516,est,2044,"praesent lectus vestibulum",QE_460186
+T09800,"aenean auctor gravida",1628,"ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",ZH_799380
+T12134,rutrum,843,"parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus",TV_782676
+T13973,"non sodales sed",783,"justo sollicitudin ut suscipit a feugiat et eros",LD_191952
+T14024,"in lectus",525,"convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor",DL_319973
+T18776,"orci luctus et",1052,"congue diam id ornare",BS_928175
+T19752,at,982,aliquet,DC_927675
+T20093,"elit sodales scelerisque",337,luctus,FG_096848
+T22332,"neque sapien",113,"dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat",GJ_648291
+T22961,nulla,971,"libero rutrum ac lobortis",YS_156342
+T25856,"aliquet maecenas leo",2390,"condimentum id luctus nec molestie sed justo pellentesque viverra pede ac",JZ_545688
+T28153,"in faucibus",601,"primis in faucibus orci luctus et",BM_495419
+T28268,amet,1476,"nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia",JH_302951
+T34295,porttitor,417,"ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam",ZX_192464
+T34545,magna,2190,"tristique tortor",MA_813496
+T36913,"pellentesque at nulla",1997,"donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla",YI_750563
+T43662,"sit amet",2485,"ultrices enim lorem ipsum dolor sit",UX_080756
+T46418,massa,1626,"consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis",LX_440080
+T47430,mus,2148,"eleifend quam a odio in",WR_100219
+T49903,"eu massa donec",569,"erat id mauris vulputate elementum nullam varius nulla facilisi",UF_703027
+T51443,"natoque penatibus et",1736,"lorem ipsum dolor sit amet consectetuer",KY_807764
+T54747,"convallis eget",2389,"ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor",PA_965438
+T55946,"rutrum nulla",2331,"nulla suspendisse potenti cras in purus",HD_141503
+T56943,"egestas metus",2116,"in faucibus orci luctus",AB_791081
+T57460,pede,1791,"nonummy integer non velit donec",KD_153937
+T60615,"lorem quisque",1114,"sed tristique in tempus sit amet sem",KL_618727
+T60711,morbi,964,"pede ac diam cras pellentesque volutpat dui maecenas tristique est",XW_198950
+T60893,"eleifend donec",1043,"sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo",BN_639956
+T61079,augue,2384,"libero nam dui proin leo odio porttitor id",TC_971958
+T64931,at,501,"adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus",LU_481967
+T71062,eros,208,"tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit",SY_586895
+T73120,"vivamus in felis",334,"ornare consequat lectus in est risus auctor sed tristique",CP_383874
+T74352,at,377,"in hac habitasse platea",LR_591063
+T75747,id,2243,"congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam",AA_099907
+T76053,"ante ipsum",808,"duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel",UP_779860
+T79190,posuere,924,"justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus",IB_731504
+T79894,id,2447,"hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis",ED_030838
+T82264,semper,2308,"cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus",VX_606449
+T83591,eget,1838,"nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede",ZJ_857493
+T83627,"massa id",1206,"quam turpis adipiscing lorem vitae mattis nibh ligula nec sem",AP_398941
+T85824,"rhoncus dui",101,"eu mi nulla",HZ_365658
+T88626,"dui maecenas",762,"eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas",YC_776293
+T90010,"non velit nec",2487,"ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum",BN_737602
+T92315,ut,2466,"montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean",EC_602431
+T97969,"pulvinar lobortis est",2484,"et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id",ES_604404
+U07095,"nonummy integer",1089,"libero non mattis pulvinar nulla",CW_924047
+U07096,"at turpis a",1368,"in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus",DS_322919
+U08418,"mattis egestas",2485,nulla,BO_520714
+U11019,"iaculis justo",1092,"commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus",XQ_135909
+U11640,"nunc rhoncus dui",1095,"eleifend donec ut",BA_991698
+U13560,"mus vivamus",2189,"eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc",OF_405567
+U14344,"odio condimentum",644,"elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante",WD_369226
+U19599,"morbi non",493,integer,ZR_876532
+U20624,quam,2486,"in felis donec semper",WA_931230
+U20847,"tristique tortor",254,"ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum",NP_394539
+U23885,"sed vel enim",1965,"tellus in sagittis dui vel",YZ_399136
+U27441,lorem,1289,"adipiscing elit proin interdum mauris non ligula",DC_024391
+U30711,"in quis",1567,"felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices",SD_887078
+U32550,"morbi odio odio",1437,"massa id lobortis convallis tortor risus dapibus augue",ZO_080444
+U33318,"proin at",1219,"erat vestibulum sed magna at nunc commodo placerat praesent",XY_679246
+U35480,"in hac",1333,"bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt",AS_196332
+U38011,"enim leo",115,metus,NB_273720
+U49881,"est congue elementum",729,"curabitur at ipsum ac tellus semper interdum mauris",LX_108866
+U55434,in,915,"quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices",AS_962041
+U61477,turpis,965,"erat fermentum justo nec condimentum neque sapien",GL_858000
+U65692,"viverra eget",1833,"ac diam cras pellentesque volutpat dui maecenas tristique est et tempus",PR_473783
+U65823,"in faucibus orci",1260,integer,ZJ_246037
+U65868,"amet nunc",1206,viverra,YB_882489
+U71461,amet,679,"tellus in sagittis dui vel nisl duis ac nibh fusce lacus",TH_991654
+U74482,"iaculis congue",2497,"eu orci mauris lacinia sapien quis libero nullam",MZ_144394
+U77089,magna,1725,"donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo",KU_546518
+U78499,id,1741,"cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque",FY_949944
+U84896,"nunc purus",611,"purus aliquet at feugiat non pretium quis lectus suspendisse potenti",DC_783604
+U95024,"in lacus curabitur",1036,"interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in",LL_079998
+U96703,"faucibus orci",2299,"justo pellentesque viverra pede ac diam",UE_092554
+U97349,vel,676,"ornare imperdiet",FE_691950
+V01718,"feugiat non",2330,"nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam",YB_181273
+V04816,aliquet,1037,"ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo",HM_778984
+V10366,"aliquet at feugiat",1288,"facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum",FB_629683
+V11533,sit,1959,"enim leo rhoncus sed vestibulum sit amet cursus",KJ_775420
+V11661,"vestibulum quam",867,"ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu",GR_386910
+V11668,"sapien placerat ante",1049,"donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo",XB_942222
+V12632,"ligula nec",1343,"amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus",DW_531773
+V13631,"ultrices phasellus",1377,ac,TF_104938
+V15356,suspendisse,77,"nisi eu orci mauris",JJ_952026
+V16241,"convallis duis",1625,"leo maecenas pulvinar lobortis est phasellus",CM_637982
+V16441,sed,1464,"ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit",HP_669320
+V17579,"primis in",1169,"id luctus nec molestie sed justo pellentesque viverra",ST_011644
+V21188,"erat nulla tempus",1449,bibendum,IR_365955
+V23878,"elementum in",1114,"vestibulum ante ipsum",LH_744257
+V25112,lorem,590,"primis in faucibus orci luctus et ultrices posuere",ZM_770823
+V26241,et,905,"in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam",KP_829829
+V26422,"congue risus semper",2167,"integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet",NM_001615
+V27614,"eget semper",1359,"curae donec",QG_891367
+V29177,"ligula sit amet",444,"integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit",SD_559484
+V32643,"convallis morbi odio",916,"iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris",CH_820350
+V35874,"orci luctus et",2153,"dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan",UM_426916
+V38134,tortor,1902,"dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",AG_924100
+V44878,"aliquam convallis",684,"sed tristique in tempus sit amet",KN_053318
+V46052,quis,1926,"erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt",TQ_708552
+V47411,"ornare consequat lectus",1978,"consectetuer adipiscing elit proin",XO_528775
+V56552,dictumst,1170,"vel pede morbi porttitor lorem id ligula suspendisse ornare",NF_008436
+V58238,vel,589,"donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu",JZ_443052
+V60480,"ipsum praesent",1712,"vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla",VD_004152
+V61550,"in hac habitasse",1843,"mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui",MC_853766
+V63557,"orci vehicula condimentum",736,"potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla",CS_218444
+V68745,"ultrices mattis odio",747,"turpis sed",UX_489438
+V69038,"mi integer ac",1422,"lorem id ligula suspendisse ornare consequat lectus in est risus auctor",RH_835521
+V75746,"sit amet",1079,"neque libero",OU_320537
+V77084,vestibulum,1791,"vestibulum vestibulum ante ipsum primis in",UY_952616
+V79001,"morbi quis tortor",1452,"eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium",CT_009923
+V85448,"erat volutpat in",523,"pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est",WA_657859
+V85689,"amet eros",1316,amet,ZG_526526
+V88032,nec,206,"luctus et ultrices posuere cubilia curae",FH_568544
+V90471,pede,2229,"accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend",JV_198380
+V90596,"sed lacus",252,"ultrices aliquet maecenas leo odio condimentum id luctus",IR_948243
+V94840,"erat nulla tempus",1606,"orci luctus et ultrices posuere cubilia curae",CR_946219
+V96966,"cubilia curae nulla",2006,"aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu",SP_302389
+V97334,"sit amet cursus",776,"auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo",AO_396765
+W01584,molestie,2132,"condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque",AW_023941
+W06227,"scelerisque quam turpis",1055,"dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed",RB_190744
+W09081,"sit amet diam",94,"consequat lectus in",RB_473357
+W25531,"posuere nonummy integer",124,"volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium",MM_556316
+W26010,"dignissim vestibulum",329,"sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum",ZO_032826
+W26811,in,1264,"viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra",FU_280652
+W27909,malesuada,1837,"lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at",NK_282375
+W29222,"quam fringilla rhoncus",525,"eget eleifend luctus ultricies eu nibh quisque",WX_031686
+W34859,dignissim,2354,"tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor",BJ_080725
+W38136,scelerisque,1182,"lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus",ET_220605
+W43250,"felis sed interdum",1386,"luctus ultricies eu",YY_569520
+W43944,"nulla mollis molestie",599,"platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat",CB_835853
+W48232,"risus dapibus augue",957,"nulla justo aliquam quis turpis eget elit",ZF_512252
+W48396,"massa volutpat convallis",1159,"elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis",AA_953139
+W49903,velit,2327,"posuere metus vitae ipsum",SS_755902
+W52822,"in lacus curabitur",1482,"turpis nec euismod",XD_758452
+W53379,ac,744,"justo in",XY_392363
+W54944,vel,723,eu,MC_748225
+W57671,"arcu adipiscing",2011,"libero ut massa volutpat convallis morbi odio odio elementum",UD_979056
+W60164,"magnis dis",1860,"habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum",XV_776535
+W61629,"molestie nibh in",1936,mi,YL_093470
+W63639,"nascetur ridiculus",1503,"nullam sit amet turpis elementum ligula vehicula",BG_792352
+W64440,eleifend,2387,"nulla justo aliquam quis turpis eget elit sodales scelerisque",VS_899766
+W65488,"a feugiat",2033,"nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed",NF_806474
+W65507,congue,455,"diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat",KJ_988589
+W66780,"elit proin",1991,"nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et",YH_796384
+W72138,"ac nulla",1813,"sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius",XY_099395
+W74687,lorem,1234,"consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices",BP_529191
+W76334,"maecenas ut massa",1796,"id consequat in consequat ut nulla sed accumsan felis ut",TG_464545
+W77601,nullam,1437,"nibh in hac",HP_807636
+W78579,"auctor gravida",1161,"in blandit ultrices enim lorem ipsum dolor",OB_147164
+W80923,phasellus,2152,"turpis sed ante",GF_173590
+W85189,"nascetur ridiculus mus",770,"tincidunt eget tempus vel pede morbi porttitor",JA_945789
+W89059,augue,506,"donec ut mauris eget massa tempor convallis nulla neque libero convallis",MU_850081
+W89538,ante,63,"porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius",JM_629607
+W95475,"sapien iaculis",176,"mauris sit amet eros suspendisse accumsan tortor quis",YO_346193
+W97132,"dui maecenas",698,"curabitur at ipsum ac",AF_924870
+W98000,"natoque penatibus et",2312,"dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id",DM_633043
+X00302,"pulvinar sed",341,"augue vel accumsan tellus nisi eu orci mauris lacinia",LS_442741
+X01047,nascetur,1145,"augue a suscipit nulla elit ac nulla sed",AM_087226
+X01088,id,1007,"pede lobortis ligula sit amet eleifend pede libero quis",TO_454262
+X01463,eu,2211,"curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia",YC_244359
+X02757,interdum,960,"id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu",KP_331691
+X05352,venenatis,1335,"consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien",FT_288565
+X08112,"sit amet",542,"vestibulum quam sapien varius ut blandit non interdum in ante vestibulum",UB_018123
+X11941,"id nulla",1542,"lobortis convallis tortor risus dapibus augue vel accumsan tellus",EL_081460
+X14203,"molestie hendrerit at",1062,"gravida nisi at nibh in hac habitasse platea",AI_393783
+X16883,"maecenas rhoncus",296,"at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus",GG_351126
+X19012,nisl,1184,"sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo",OZ_964366
+X22876,"donec ut dolor",2041,"dapibus duis",TI_229062
+X23049,non,1624,"integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit",UY_195808
+X23165,"cum sociis natoque",585,"viverra dapibus nulla suscipit ligula in",KK_727898
+X23809,lacinia,1387,"tortor risus dapibus augue vel accumsan tellus nisi eu",RR_288458
+X26669,"blandit lacinia erat",478,"id ligula suspendisse ornare consequat lectus in est risus auctor sed",AY_245402
+X28406,"sed augue aliquam",699,"nunc rhoncus dui vel sem sed sagittis nam congue",XT_957234
+X33716,"orci luctus et",1752,metus,BS_282977
+X34764,"nullam porttitor",1095,"volutpat erat quisque erat eros viverra eget congue eget",CG_323419
+X35761,"ipsum primis",1535,"vestibulum sagittis sapien cum sociis natoque penatibus et magnis",PN_603313
+X42598,"fusce posuere",2478,"massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo",CN_118963
+X45397,convallis,1953,"vulputate elementum nullam varius nulla",PF_621222
+X48586,"magnis dis parturient",2182,consectetuer,LW_825940
+X50645,"lacinia nisi",1643,"condimentum neque sapien placerat ante nulla justo",FV_484518
+X57727,"vulputate vitae nisl",1997,"non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet",RG_746527
+X59309,"viverra pede ac",2129,"vel sem sed sagittis",VY_662678
+X60055,"potenti cras",66,"turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed",BD_930906
+X68923,arcu,61,"ante vestibulum ante ipsum primis in",ZN_397247
+X69917,eros,721,"donec vitae nisi nam ultrices libero non mattis pulvinar nulla",TG_156674
+X73589,"vestibulum eget",1399,"iaculis justo in hac habitasse platea dictumst etiam faucibus cursus",ZB_179244
+X75843,"mattis odio",253,"ipsum aliquam non",CI_374148
+X82865,hac,1289,commodo,WD_733663
+X86121,"luctus rutrum",1716,"nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh",IY_193528
+X88585,"suscipit nulla",1320,"lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla",QT_366891
+X88796,"mauris lacinia sapien",1014,"pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper",JB_704814
+X89298,"convallis nunc",1137,"fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim",YG_105475
+X90759,"tellus nisi",1790,"curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar",TX_598994
+X97622,"vel augue",1112,"odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor",MC_099609
+X98160,"blandit mi in",652,"praesent blandit lacinia erat vestibulum sed magna at",VK_439478
+Y01166,amet,1918,"convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar",ZJ_511186
+Y06671,"libero rutrum ac",1221,"sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus",HH_583435
+Y11099,"gravida nisi at",1610,"nisi vulputate nonummy maecenas tincidunt lacus at",EF_563851
+Y14464,a,1084,"scelerisque mauris sit amet eros suspendisse accumsan",VB_974918
+Y16145,"in felis",699,"tempus semper est quam pharetra magna ac consequat metus sapien",FZ_149509
+Y22678,"turpis enim blandit",1307,"vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit",TO_781462
+Y23102,"diam vitae quam",642,"id luctus nec molestie sed justo",ZY_318034
+Y23653,vel,262,"sed augue aliquam erat volutpat in congue etiam justo",CD_998138
+Y24462,donec,1225,"nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna",XE_148311
+Y35553,purus,2303,"vehicula consequat morbi a ipsum integer a",QQ_667951
+Y36153,"parturient montes",1342,"duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede",MN_970512
+Y37914,"elit proin",1722,"etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean",EW_204275
+Y39193,mi,1057,"cum sociis natoque penatibus et magnis dis parturient montes nascetur",XU_747254
+Y42014,"mauris sit",951,"ac leo pellentesque ultrices mattis odio",JE_955165
+Y42940,magna,1906,"nulla tellus in sagittis dui vel",AB_204694
+Y47826,"nulla mollis",1385,"phasellus id sapien in sapien iaculis congue vivamus",ES_881053
+Y50161,"est lacinia",2192,"cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis",DU_280543
+Y55819,"nullam sit amet",234,"odio consequat varius integer ac leo",LL_412113
+Y59967,"libero non mattis",1215,"et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit",HV_630828
+Y60775,"nulla integer",1126,"dui nec nisi volutpat eleifend donec ut dolor",EI_929994
+Y67400,quam,600,"hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem",WF_574166
+Y67602,"a nibh",930,"non mi integer",BV_552472
+Y67741,amet,259,"libero rutrum ac",VH_198029
+Y73458,"tellus nisi eu",1830,"in magna bibendum imperdiet nullam orci pede venenatis non sodales",DD_825409
+Y74255,orci,1531,"dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis",CL_307741
+Y74576,"maecenas ut",2180,"non velit nec nisi",RF_499782
+Y77028,"quis orci eget",405,"in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat",TE_315020
+Y77522,"odio in hac",680,"quis lectus suspendisse potenti in eleifend quam a odio in",VZ_980620
+Y78079,"id mauris vulputate",1148,"adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non",UW_388106
+Y81479,"nulla tellus",1791,"id massa id",IU_200341
+Y82483,"tincidunt eget tempus",682,"curabitur gravida nisi at nibh in hac",GU_519187
+Y82718,"interdum eu tincidunt",553,"non interdum in ante vestibulum",KF_639797
+Y83319,"gravida sem",1338,"consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero",IX_694003
+Y83473,pellentesque,2408,"libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet",YZ_842305
+Y84402,"vitae nisl aenean",2498,"sodales sed tincidunt eu",UF_270510
+Y85107,nibh,548,"sapien a libero nam dui",NM_002556
+Y89053,"posuere cubilia curae",1907,"eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet",EN_292744
+Y92357,eget,1137,"aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo",WJ_406290
+Y94980,"dapibus augue",1191,"odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue",CN_530034
+Y95015,"dolor quis",2036,"justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales",AU_239646
+Y96599,"id consequat",532,"pede libero quis orci nullam",XG_445751
+Y99536,"laoreet ut",2495,"bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel",XV_110487
+Z02252,adipiscing,931,"in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id",CI_437972
+Z04653,"proin leo",2233,"mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus",TD_066366
+Z04939,"at vulputate vitae",1389,"leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel",VX_940355
+Z06333,nulla,2338,"ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu",VV_964749
+Z07794,est,1627,"dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices",FO_311165
+Z08326,"pellentesque eget",1124,"sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque",XB_202607
+Z09479,maecenas,1244,"justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo",UP_632666
+Z10155,"arcu libero rutrum",2199,"mi in porttitor pede justo eu",ER_782679
+Z10191,"donec quis orci",1525,"tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed",SM_465735
+Z11135,"pretium nisl",1493,"id ornare imperdiet sapien urna pretium nisl",GG_770164
+Z12821,maecenas,1879,"molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam",XD_183593
+Z12948,dictumst,480,in,CD_936538
+Z14879,ipsum,78,"curae duis faucibus accumsan odio curabitur convallis duis",MC_882950
+Z15498,posuere,112,"luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in",JE_687548
+Z15734,"sed tristique",1622,"metus sapien",ME_664225
+Z16143,"sed accumsan",2477,"proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae",GR_672693
+Z21191,"in magna bibendum",988,"montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque",BW_159790
+Z30440,"id turpis integer",2071,"id ligula suspendisse ornare consequat lectus in est risus auctor",SA_584163
+Z31771,pede,359,"rutrum neque aenean auctor gravida sem praesent id massa",BB_656388
+Z32183,"magna bibendum",950,"quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse",OB_914132
+Z41189,bibendum,552,"donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis",BM_473362
+Z41978,in,151,"at velit vivamus vel nulla eget eros elementum",OT_605808
+Z43758,a,540,"urna ut tellus nulla ut erat id mauris",LS_996843
+Z49489,"neque duis bibendum",142,"lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et",OK_953034
+Z50691,"etiam faucibus cursus",1546,"nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio",QD_064422
+Z52505,at,2378,"a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien",EK_333429
+Z54071,"cursus id turpis",1331,"quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non",UO_051551
+Z57280,"diam id ornare",77,"maecenas rhoncus aliquam",XZ_022503
+Z73123,"lobortis convallis",1239,"eu interdum",VB_741479
+Z73656,"ut massa volutpat",464,"lorem ipsum dolor sit amet consectetuer adipiscing elit proin",GS_828885
+Z74942,"vel dapibus at",637,"condimentum curabitur in libero ut massa volutpat convallis",RV_654980
+Z74956,pulvinar,1762,"nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor",WI_752931
+Z75154,"id justo sit",613,"nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin",GX_368752
+Z76297,"ipsum praesent blandit",2119,"vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque",IF_998719
+Z78181,"mi sit",2408,"nonummy integer non velit donec",JS_359720
+Z78386,"sed lacus",1309,"vulputate elementum nullam varius nulla facilisi cras non velit",FI_146329
+Z78436,platea,1560,"at dolor quis odio consequat varius",BJ_850213
+Z87580,sapien,2266,"enim in tempor",PG_496306
+Z88119,"nisl nunc",1379,"tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in",VN_408915
+Z88619,"nullam varius nulla",2452,"nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum",MP_270905
+Z90666,venenatis,1728,"duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec",PQ_926765
+Z93053,"molestie nibh",1267,"duis consequat",OS_670680
