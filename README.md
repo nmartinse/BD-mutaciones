@@ -1,5 +1,5 @@
 # BD-mutaciones
-En la rama main de este repositorio se encuentran los siguientes documentos:
+En la rama main de este repositorio (https://github.com/nmartinse/BD-mutaciones) se encuentran los siguientes documentos:
 - **Poyecto_BD**: el informe del proyecto en formato pdf.
 - **esquemaMutaciones.mwb**: es el diagrama EER realizado en MySQL.
 - **BD_MUTACIONES.sql**: es el script generado al hacer Forward Engineering.
