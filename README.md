@@ -8,3 +8,4 @@ En la rama main de este repositorio se encuentran los siguientes documentos:
 - **queries**: en esta carpeta se encuentran las queries diseñadas para SQL.
 - **RDBMSOptimization.sql**: en este script se encuentran los índices creados para optimizar las consultas.
 - **Mysql a XMLsql.sql**: script (que es una query) para automatizar el paso de la base de datos del lenguaje SQL a XML.
+- **Presentacion_BD**: presentación
