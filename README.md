@@ -9,3 +9,4 @@ En la rama main de este repositorio se encuentran los siguientes documentos:
 - **RDBMSOptimization.sql**: en este script se encuentran los índices creados para optimizar las consultas.
 - **Mysql a XMLsql.sql**: script (que es una query) para automatizar el paso de la base de datos del lenguaje SQL a XML.
 - **Presentacion_BD**: presentación
+- **Enlace_video**: en este archivo se encuentra un enlace al video
